@@ -175,56 +175,56 @@
 00:21:04,000 --> 00:21:05,000
 {Ritsuko}     Zrozumiałem.
  
-187
-00:21:05,000 --> 00:21:07,000
+188
+00:21:07,000 --> 00:21:09,000
 {Ritsuko}     Cała flota do drugiej stacji bitewnej.
  
-186
-00:10:58,000 --> 00:11:02,000
+189
+00:21:11,000 --> 00:21:12,000
 {Hyuga}       Przygotować się na bitwę przeciw-powietrzną, przeciw wodną i podwodną.
  
-187
-00:11:02,000 --> 00:11:03,000
+190
+00:21:12,000 --> 00:21:14,000
 {Aoba}        Przerwać transport surowców.
  
-188
-00:11:03,000 --> 00:11:05,000
+191
+00:21:14,000 --> 00:21:16,000
 {Aoba}        Najważniejszy jest transport personelu do innego statku. ???????????
  
-189
+192
 00:11:05,000 --> 00:11:07,000
 {Woman}        Wszystkie floty, przerywanie transportu zasobów.
  
-190
-00:11:07,000 --> 00:11:13,000
+193
+00:21:22,000 --> 00:21:24,000
 {Woman}       Do wszystkich, transport statku jest priorytetem. ???????
  
-191
-00:11:13,000 --> 00:11:16,000
-{Woman}       All aircraft are to withdraw from our current air space. - Flota zdolna do wycofania się z obecnej lokacji. ????????
- 
-192
-00:11:16,000 --> 00:11:18,000
-{Woman}       Hurry to Meeting Point 2. -  Szybko do drugiego Punktu Spotkania ??????
- 
-193
-00:11:18,000 --> 00:11:20,000
-{Man}         Porzucić jakiekolwiek ostatki ładunku.
- 
 194
-00:11:20,000 --> 00:11:22,000
-{Man}         Wycofanie załogi jest największym priorytetem
+00:21:25,000 --> 00:21:27,000
+{Woman}       Flota zdolna do wycofania się z obecnej lokacji. ????????
  
 195
-00:11:22,000 --> 00:11:26,000
-+{Man}         / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。??
+00:21:27,000 --> 00:21:29,000
+{Woman}       Szybko do drugiego Punktu Spotkania ??????
  
 196
-00:11:26,000 --> 00:11:28,000
-{Man}         / 最優先tsutaemonoha、＃＃＃＃shitekure。
+00:21:29,000 --> 00:21:31,000
+{Man}         Porzucić jakiekolwiek ostatki ładunku.
  
 197
-00:11:28,000 --> 00:11:30,000
+00:21:31,000 --> 00:21:33,000
+{Man}         Wycofanie załogi jest największym priorytetem
+ 
+198
+00:21:35,000 --> 00:21:37,000
++{Man}         / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。??
+ 
+199
+00:21:37,000 --> 00:21:39,000
+{Man}         / 最優先tsutaemonoha、＃＃＃＃shitekure。
+ 
+200
+00:21:39,000 --> 00:21:41,000
 {Woman}       Przygotować wszystkie działa do strzału.
  
 198
