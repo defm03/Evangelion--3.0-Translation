@@ -313,8 +313,123 @@
  
 221
 00:22:22,000 --> 00:22:24,000
-{Maya}        Bez wymówek!
- 
+Nie szukaj wymówek!
+
 222
 00:22:24,000 --> 00:22:26,000
-{Maya}        Do roboty! 
+¡Zapierdalaj!
+
+223
+00:22:26,000 --> 00:22:28,000
+Ugh?, Dlatego nie znoszę modszych facetów.
+
+224
+00:22:30,000 --> 00:22:32,000
+Uhm, przerywa połączenie w tym miejscu.
+
+
+225
+00:22:33,000 --> 00:22:35,000
+Rozpocząć blokadę ścian bariery... o to chodzi?    >?
+
+
+226
+00:22:36,000 --> 00:22:38,000
+El sonar está en dirección con la proa del buque anti aéreo como referencia.
+
+227
+00:22:40,000 --> 00:22:41,000
+Kitakami!
+
+228
+00:22:41,000 --> 00:22:43,000
+Jak wygląda sytuacja na pokładzie?
+
+229
+00:22:43,000 --> 00:22:45,000
+Czy to moja broszka?
+
+230
+00:22:45,000 --> 00:22:47,000
+Oczywiście! To twój teren.
+
+231
+00:22:47,000 --> 00:22:49,000
+Cooo? Serio?
+
+232
+00:22:52,000 --> 00:22:54,000
+Start jest niebezpieczny.
+
+233
+00:22:54,000 --> 00:22:56,000
+Zostańmy tutaj!
+
+234
+00:22:56,000 --> 00:22:58,000
+{Kobieta} Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte, w tym rakiet samonaprowadzających statku wojennego.
+
+
+235
+00:22:58,000 --> 00:23:00,000
+Mając stację bojową na mostku...
+
+236
+00:23:01,000 --> 00:23:01,800
+Odbiór.
+
+237
+00:23:01,000 --> 00:23:02,000
+Strasznie denerwujące.
+
+238
+00:23:02,000 --> 00:23:04,000
+Aktywować wszystkie systemy obrony przeciwpowietrznej.
+
+239
+00:23:04,000 --> 00:23:06,000
+Obrona Eva-01 jest naszym obecnym priorytetem.
+
+240
+00:23:06,000 --> 00:23:08,000
+...Eva-01?
+
+241
+00:23:16,000 --> 00:23:17,000
+Jest tutaj!
+
+242
+00:23:17,000 --> 00:23:19,000
+Confirmando pilar de luz del objetivo.
+
+243
+00:23:19,000 --> 00:23:21,000
+To... Zmienne urosły w jakiś sposób.
+
+244
+00:23:22,000 --> 00:23:24,000
+Nie możemy dostać się do rdzenia celu.
+
+245
+00:23:24,000 --> 00:23:26,000
+Prawdopodobnie jest ukryte na zewnątrz kokonu.
+
+246
+00:23:27,000 --> 00:23:29,000
+To niedobrze.
+
+247
+00:23:29,000 --> 00:23:31,000
+W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem   >*(Saturation bombing??)//saturacyjne bombardowanie?
+
+248
+00:23:31,000 --> 00:23:33,000
+600 sekund do kontaktu.
+
+249
+00:23:33,000 --> 00:23:34,000
+Kapitanie Katsuragi,
+
+250
+00:23:34,000 --> 00:23:36,000
+Proponuję natychmiast rozproszyć flotę.
