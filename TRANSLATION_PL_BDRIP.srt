@@ -1,0 +1,95 @@
+1
+00:11:01,000 --> 00:11:03,000
+{Mężczyzna}   Zespół wywiadowczy, raportuj o pozycji obu jednostek.
+
+2
+00:11:04,000 --> 00:11:06,000
+{Kobieta}     Jednostka 02-Dash osiągnęła wysokość operacyjną.
+
+3
+00:11:07,000 --> 00:11:09,000
+{Kobieta}     Umieszczony na wyznaczonej orbicie.
+
+4
+00:11:09,000 --> 00:11:11,000
+{Mężczyzna}   Jednostka 08 nie była w stanie przekroczyć planowanej orbity z uwagi na niedostateczną wysokość.
+
+5
+00:11:13,000 --> 00:11:15,000
+{Aoba}        Odbiór.
+
+6
+00:11:15,000 --> 00:11:17,000
+{Aoba}        Jednostka 02-Dash sama przeprowadzi operację. 
+
+7
+00:11:17,000 --> 00:11:18,000
+{Mężczyzna}   Zrozumiano.
+
+6
+00:11:15,000 --> 00:11:17,000
+{Mężczyzna}   Jednostka 08 funkcjonuje jako wsparcie.
+
+9
+00:11:20,000 --> 00:11:21,000
+{Ritsuko}     Jednostka 02-Dash jest poza punktem odzysku.
+
+11
+00:11:21,000 --> 00:11:23,000
+{Ritsuko}     Naruszenie Strefy 88.
+
+12
+00:11:26,000 --> 00:11:27,000   
+{Misato}      Odbiór.
+
+13
+00:11:27,000 --> 00:11:29,000
+{Misato}      Rozpoczęcie Operacji Spacewalk.
+
+14
+00:11:29,000 --> 00:11:30,000
+{Kobieta}     Odbiór.
+
+15
+00:11:30,000 --> 00:11:32,000
+{Kobieta}     Jednostka 02-Dash wkracza na końcową orbitę operacyjną.
+
+16
+00:11:34,000 --> 00:11:35,000
+{Kobieta}     Zmniejszanie prędkości.
+
+17
+00:11:35,000 --> 00:11:37,000
+{Mężczyzna}   Faza 1, start wszystkich silników.
+
+18
+00:11:38,000 --> 00:11:40,000
+{Mężczyzna}   Nadciągający moment spalania.
+
+19
+00:11:43,000 --> 00:11:45,000
+{Kobieta}     Spalanie S1C zakończone.
+
+20
+00:11:45,000 --> 00:11:46,000
+{Kobieta}     Zmniejszanie prędkości zakończone.
+
+21
+00:11:46,000 --> 00:11:48,000
+{Mężczyzna}   Odłączanie jednostki dopalacza, faza 1.
+
+22
+00:11:50,000 --> 00:11:52,000
+{Kobieta}     Odłączanie zakończone.
+
+23
+00:11:52,000 --> 00:11:54,000
+{Kobieta}     Systemy spalania oczyszczone. Nie wykryto problemów.
+
+24
+00:11:54,000 --> 00:11:55,000
+{Mężczyzna}   Odbiór.
+
+25
+00:11:55,000 --> 00:11:57,000
+{Mężczyzna}   Automatyzacja czasu zapłonu.
