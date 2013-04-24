@@ -169,152 +169,152 @@
  
 185
 00:21:02,000 --> 00:21:04,000
-{Misato}      Cel: Wszystkie jednostki serii Nemesis.
+{Misato}      Cel: jednostki serii Nemesis.
  
 186
 00:21:04,000 --> 00:21:05,000
 {Ritsuko}     Zrozumiałem.
  
+187
+00:21:05,000 --> 00:21:07,000
+{Ritsuko}     Cała flota do drugiej stacji bitewnej.
+ 
 188
 00:21:07,000 --> 00:21:09,000
-{Ritsuko}     Cała flota do drugiej stacji bitewnej.
+{Hyuga}       Przygotować się na bitwę przeciw-powietrzną, przeciw wodną i podwodną.
  
 189
 00:21:11,000 --> 00:21:12,000
-{Hyuga}       Przygotować się na bitwę przeciw-powietrzną, przeciw wodną i podwodną.
+{Aoba}        Przerwać transport surowców.
  
 190
 00:21:12,000 --> 00:21:14,000
-{Aoba}        Przerwać transport surowców.
+{Aoba}        Najważniejszy jest transport personelu do innego statku.
  
 191
 00:21:14,000 --> 00:21:16,000
-{Aoba}        Najważniejszy jest transport personelu do innego statku. ???????????
+{Kobieta}     Wszystkie floty, przerywanie transportu zasobów.
  
 192
-00:11:05,000 --> 00:11:07,000
-{Woman}        Wszystkie floty, przerywanie transportu zasobów.
+00:21:16,000 --> 00:21:18,000
+{Kobieta}     Do wszystkich, transfer statków jest priorytetem.
  
 193
 00:21:22,000 --> 00:21:24,000
-{Woman}       Do wszystkich, transport statku jest priorytetem. ???????
+{Kobieta}     Flota zdolna do wycofania się z obecnej lokacji. >?
  
 194
 00:21:25,000 --> 00:21:27,000
-{Woman}       Flota zdolna do wycofania się z obecnej lokacji. ????????
+{Kobieta}     Szybko do drugiego Punktu Spotkania >?
  
 195
 00:21:27,000 --> 00:21:29,000
-{Woman}       Szybko do drugiego Punktu Spotkania ??????
+{Mężczyzna}   Porzucić jakiekolwiek ostatki ładunku.
  
 196
 00:21:29,000 --> 00:21:31,000
-{Man}         Porzucić jakiekolwiek ostatki ładunku.
+{Mężczyzna}   Wycofanie załogi jest największym priorytetem
  
 197
 00:21:31,000 --> 00:21:33,000
-{Man}         Wycofanie załogi jest największym priorytetem
+{Mężczyzna}   / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。
  
 198
 00:21:35,000 --> 00:21:37,000
-+{Man}         / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。??
+{Mężczyzna}   / 最優先tsutaemonoha、＃＃＃＃shitekure。
  
 199
 00:21:37,000 --> 00:21:39,000
-{Man}         / 最優先tsutaemonoha、＃＃＃＃shitekure。
+{Kobieta}     Przygotować wszystkie działa do strzału.
  
 200
 00:21:39,000 --> 00:21:41,000
-{Woman}       Przygotować wszystkie działa do strzału.
- 
-198
-00:11:30,000 --> 00:11:33,000
-{Woman}       Aktywacja zdalnej kontroli i systemu szczepiania. ??????
- 
-199
-00:11:33,000 --> 00:11:35,000
-{Woman}       / ＃＃＃＃＃＃＃ {Couldn't listen to this} ???
- 
-200
-00:11:35,000 --> 00:11:38,000
-{Koji}        Inicjowanie wszczepiania głównego systemu mocy ???
+{Kobieta}     Aktywacja zdalnej kontroli i systemu szczepiania. >?
  
 201
-00:11:38,000 --> 00:11:39,000
-{Koji}        Szybko.
+00:21:44,000 --> 00:21:46,000
+{Kobieta}     Przygotowanie systemów.
  
 202
-00:11:39,000 --> 00:11:43,000
-{Man}         Reaktor N2 pracuje na 99% swojej mocy. ???
+00:21:44,000 --> 00:21:46,000
+{Koji}        Inicjowanie wszczepiania głównego systemu mocy >?
  
 203
-00:11:43,000 --> 00:11:44,000
-{Woman}       Initiating main power system injection. Inicjowanie wszczepiania głównego systemu mocy ???
+00:21:47,000 --> 00:21:48,000
+{Koji}        Szybko.
  
 204
-00:11:44,000 --> 00:11:46,000
-{Woman}       Otwieranie zaworów do numeru 90.
+00:21:52,000 --> 00:21:53,000
+{Mężczyzna}   Reaktor N2 pracuje na 99% mocy.
  
 205
-00:11:46,000 --> 00:11:48,000
-{Woman}       Przewód Transmisyjny podłączony.
+00:21:52,000 --> 00:21:53,000
+{Kobieta}     Inicjowanie wszczepiania głównego systemu mocy >?
  
 206
-00:11:48,000 --> 00:11:51,000
-{Woman}       Nie wykryto problemów w bramie, trzeciej oraz czwartej "cargo cage" ??? 
+00:21:53,000 --> 00:21:55,000
+{Kobieta}     Otwieranie zaworów do numeru 90.
  
 207
-00:11:51,000 --> 00:11:52,000
-{Man}         Zrozumiałem.
+00:21:55,000 --> 00:21:57,000
+{Kobieta}     Przewód Transmisyjny podłączony.
  
 208
-00:11:52,000 --> 00:11:54,000
-{Man}         Otwieranie zaworów do numeru 90.
+00:21:57,000 --> 00:21:59,000
+{Kobieta}     Nie wykryto problemów w bramie, trzeciej oraz czwartej "cargo cage" >? 
  
 209
-00:11:54,000 --> 00:11:56,000
-{Man}         Rozpoczynanie iniekcji energii.
+00:22:00,000 --> 00:22:01,000
+{Mężczyzna}   Zrozumiałem.
  
 210
-00:11:56,000 --> 00:11:58,000
-{Woman}       Wprowadzanie energii do reaktora N2 
+00:22:01,000 --> 00:22:03,000
+{Mężczyzna}   Otwieranie zaworów do numeru 90.
  
 211
-00:11:58,000 --> 00:11:58,000
-{Woman}       Nominalnie.
+00:22:03,000 --> 00:22:05,000
+{Mężczyzna}   Rozpoczynanie iniekcji energii.
  
 212
-00:11:58,000 --> 00:12:01,000
-{Woman}       Weryfikowanie wnętrza kapsuły LCL.
+00:22:05,000 --> 00:22:07,000
+{Kobieta}     Wprowadzanie energii do reaktora N2 
  
 213
-00:12:01,000 --> 00:12:03,000
-{Woman}       System filtracji aktywny.
+00:22:07,000 --> 00:22:07,800
+{Kobieta}     Nominalnie.
  
 214
-00:12:03,000 --> 00:12:04,000
-{Maya}        Stanowiska bojowe!
+00:22:07,000 --> 00:22:09,000
+{Kobieta}     Weryfikowanie wnętrza kapsuły LCL.
  
 215
-00:12:04,000 --> 00:12:06,000
-{Maya}        Wracaj do swojego działu.
+00:22:10,000 --> 00:22:12,000
+{Kobieta}     System filtracji aktywny.
  
 216
-00:12:06,000 --> 00:12:08,000
-{Maya}        Ty tam! Nie opierdalaj się.
+00:22:12,000 --> 00:22:13,000
+{Maya}        Stanowiska bojowe!
  
 217
-00:12:08,000 --> 00:12:10,000
-{Worker}      Żąda Pani niemożliwego!
+00:22:13,000 --> 00:22:15,000
+{Maya}        Wracaj do swojego działu.
  
 218
-00:12:10,000 --> 00:12:13,000
-{Worker}      Mimo wszystko, jesteśmy grupą zmieszaną razem z cywilami.
+00:22:15,000 --> 00:22:17,000
+{Maya}        Ty tam! Nie opierdalaj się.
  
 219
-00:12:13,000 --> 00:12:15,000
-{Maya}        Bez wymówek!
+00:22:17,000 --> 00:22:19,000
+{Pracownik}   Żąda Pani niemożliwego!
  
 220
-00:12:15,000 --> 00:12:17,000
+00:22:19,000 --> 00:22:21,000
+{Pracownik}   Mimo wszystko, jesteśmy grupą zmieszaną razem z cywilami.
+ 
+221
+00:22:22,000 --> 00:22:24,000
+{Maya}        Bez wymówek!
+ 
+222
+00:22:24,000 --> 00:22:26,000
 {Maya}        Do roboty! 
