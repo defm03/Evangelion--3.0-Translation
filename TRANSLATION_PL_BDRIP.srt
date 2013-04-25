@@ -231,7 +231,7 @@
 
 59
 00:13:10,000 --> 00:13:12,000
-{Mężczyzna}   Wybuch wygenerował powiew! ( 爆散榴発生。--co?)
+{Mężczyzna}   Eksplozja rozproszyła falę! ( 爆散榴発生。--co?)
 
 60
 00:13:12,000 --> 00:13:14,000
@@ -240,6 +240,123 @@
 61
 00:13:19,000 --> 00:13:20,000
 {Aoba}        Nadchodzi fala dźwiękowa.
+
+62
+00:13:20,000 --> 00:13:21,000
+{Aoba}        Typ krwi: niebieski.
+
+63
+00:13:21,000 --> 00:13:22,000
+{Aoba}        Cholerna zgraja.
+
+64
+00:13:22,000 --> 00:13:24,000
+{Mężczyzna}   Identyfikowanie zbliżającego się ciała.
+
+65
+00:13:24,000 --> 00:13:26,000
+{Mężczyzna}   Potwierdzony kod 04A.
+
+66
+00:13:34,000 --> 00:13:36,000
+{Asuka}       Pole anty-AT!
+
+67
+00:13:41,000 --> 00:13:43,000
+{Asuka}       To ssie!
+
+68
+00:13:43,000 --> 00:13:45,000
+{Asuka}       Zbliża się w moim kierunku!
+
+69
+00:13:46,000 --> 00:13:48,000
+{Asuka}       Cholerna okularnico!* Jakieś wsparcie!
+>okularnica//w eng/sp -> zamienione na 'okulary', w jp: コネメガネ！ (kone megane!)
+
+70
+00:13:53,000 --> 00:13:55,000
+{Asuka}       Wsparcie ogniowe było spóźnione o 2 sekundy!
+
+71
+00:13:58,000 --> 00:14:00,000
+{Mari}        A ty jesteś 3 sekundy za pozycją.
+
+72
+00:14:01,000 --> 00:14:03,000
+{Asuka}       To się nazywa adaptacja do sytuacji! Współpracuj!
+
+73
+00:14:04,000 --> 00:14:06,000
+{Mari}        Rozkaz,
+
+74
+00:14:06,000 --> 00:14:08,000
+{Mari}        Księżniczko!
+
+75
+00:14:14,000 --> 00:14:16,000
+{Asuka}       Przeszedł przez Fraury Shift.
+
+76
+00:14:16,000 --> 00:14:18,000
+{Asuka}       Przebije się do granicznej lini obrony Obszaru 89
+
+77
+00:14:19,000 --> 00:14:21,000
+{Asuka}       Obiekt w ruchu!
+
+78
+00:14:25,000 --> 00:14:26,000
+{Asuka}       Nie mam czasu poprawić orbitę!
+
+79
+00:14:26,000 --> 00:14:28,000
+{Asuka}       Wchodzę!
+
+80
+00:14:49,000 --> 00:14:51,000
+{Asuka}       Zmniejszanie prędkości!
+
+81
+00:14:55,000 --> 00:14:56,000
+{Asuka}       Osiem!
+
+82
+00:14:56,000 --> 00:14:57,000
+{Asuka}       Siedem!
+
+83
+00:14:57,000 --> 00:14:58,000
+{Asuka}       Sześć!
+
+84
+00:14:58,000 --> 00:14:59,000
+{Asuka}       Pięć!
+
+85
+00:14:59,000 --> 00:15:00,000
+{Asuka}       Cztery!
+
+86
+00:15:00,000 --> 00:15:02,000
+{Asuka}       Trzy!
+
+87
+00:15:02,000 --> 00:15:03,000
+{Asuka}       Dwa!
+
+88
+00:15:03,000 --> 00:15:04,000
+{Asuka}       Jeden!
+
+89
+00:15:04,000 --> 00:15:06,000
+{Asuka}       Koniec spalania!
+
+90
+00:15:12,000 --> 00:15:14,000
+{Asuka}       02-Dash odrzucił ostatnie dopalacze.
 
 182
 00:20:54,000 --> 00:20:56,000
