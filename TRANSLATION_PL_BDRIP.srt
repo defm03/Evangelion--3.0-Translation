@@ -358,6 +358,62 @@
 00:15:12,000 --> 00:15:14,000
 {Asuka}       02-Dash odrzucił ostatnie dopalacze.
 
+91
+00:15:15,000 --> 00:15:17,000 
+{Kobieta}     Zapewnie bezpiecznego dystansu do ponownego wejścia. 
+
+92
+00:15:18,000 --> 00:15:20,000
+{Asuka}       Przechwycono cel z powodzeniem.
+
+93
+00:15:20,000 --> 00:15:22,000
+{Asuka}       Powrót do bazy.
+
+94
+00:15:22,000 --> 00:15:23,000
+{Misato}      Odbiór.
+
+95
+00:15:23,000 --> 00:15:25,000
+{Misato}      Będziemy czekać w punkcie odzysku.
+
+96
+00:15:25,000 --> 00:15:26,000
+{Misato}      Kod przyłączenia to Saturn 5.
+
+97
+00:15:26,000 --> 00:15:28,000
+{Asuka}       Odbiór.
+
+98
+00:15:28,000 --> 00:15:29,000
+{Asuka}       Niebieski typ krwi?
+
+99
+00:15:29,000 --> 00:15:31,000
+{Asuka}       Gdzie?!
+
+100
+00:15:34,000 --> 00:15:36,000
+{Kobieta}     Kod wywołanego obiektu to 04B.
+
+101
+00:15:38,000 --> 00:15:39,000
+{Kobieta}     Wdraża indo-hashamas.
+
+102
+00:15:38,000 --> 00:15:39,000
+{Asuka}       Nerw! >(chodzi o organizację?)
+
+103
+00:15:39,000 --> 00:15:41,000
+{Asuka}       Też zaraz przed ponownym wejściem.
+
+104
+00:15:42,000 --> 00:15:44,000
+{Asuka}       Okularnica, wracaj!
+
 182
 00:20:54,000 --> 00:20:56,000
 {Misato}      Nie możemy sobie teraz pozwolić na ruch.
