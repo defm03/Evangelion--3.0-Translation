@@ -1,3 +1,5 @@
+#### ２ダッシ(02-Dash),シフトＭ(shift-M)
+
 1
 00:11:01,000 --> 00:11:03,000
 {Mężczyzna}   Zespół wywiadowczy, raportuj o pozycji obu jednostek.
@@ -194,6 +196,50 @@
 50
 00:12:47,000 --> 00:12:49,000
 {Mężczyzna}   Punkt spotkania bez zmian.
+
+51
+00:12:49,000 --> 00:12:51,000
+{Kobieta}     Utrzymywanie Shift-M. Brak problemów.
+
+52
+00:12:52,000 --> 00:12:54,000
+{Misato}      02-Dash, przygotować się do rendezvous.
+
+53
+00:12:54,000 --> 00:12:56,000
+{Misato}      08 traci wysokość więc może assystować ci jedynie 96 sekund przed ponownym wejściem.
+
+54
+00:12:59,000 --> 00:13:01,000
+{Misato}      Zmieść się w czasie.
+
+55
+00:13:02,000 --> 00:13:04,000
+{Hyuga}       Refleksyjne fale wykryte w przestrzeni obiektu.
+
+56
+00:13:04,000 --> 00:13:05,000
+{Hyuga}       Zagłuszają nas!
+
+57
+00:13:05,000 --> 00:13:07,000
+{Aoba}        To tylko masowa broń systemu samoobrony.
+
+58
+00:13:07,000 --> 00:13:09,000
+{Aoba}        Bez obaw.
+
+59
+00:13:10,000 --> 00:13:12,000
+{Mężczyzna}   Wybuch wygenerował powiew! ( 爆散榴発生。--co?)
+
+60
+00:13:12,000 --> 00:13:14,000
+{Mężczyzna}   Kontakt za 3... 2... 1...
+
+61
+00:13:19,000 --> 00:13:20,000
+{Aoba}        Nadchodzi fala dźwiękowa.
 
 182
 00:20:54,000 --> 00:20:56,000
