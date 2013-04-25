@@ -414,6 +414,54 @@
 00:15:42,000 --> 00:15:44,000
 {Asuka}       Okularnica, wracaj!
 
+105
+00:15:44,000 --> 00:15:46,000
+{Mari}        Przepraszam!
+
+106
+00:15:46,000 --> 00:15:48,000
+{Mari}        Jestem za nisko, więc narka!
+
+107
+00:15:48,000 --> 00:15:50,000
+{Mari}        Muszę resztę zostawić to-...
+
+108
+00:15:51,000 --> 00:15:53,000
+{Asuka}       Ugh! Jest bezużyteczna!
+
+109
+00:15:53,000 --> 00:15:55,000
+{Asuka}       Cholera, ale on jest uparty!
+
+110
+00:15:55,000 --> 00:15:57,000
+{Asuka}       Nikt o tym nie wspominał!
+
+111
+00:16:08,000 --> 00:16:10,000
+{Asuka}       Co z tym światłem?!
+
+112
+00:16:10,000 --> 00:16:12,000
+{Asuka}       Pole AT nie neutralizuje go!
+
+113
+00:16:12,000 --> 00:16:14,000
+{Asuka}       Trzeba zablokować rdzeń!
+
+114
+00:16:15,000 --> 00:16:17,000
+{Asuka}       Nie uciekniesz!
+
+115
+00:16:19,000 --> 00:16:21,000
+{Asuka}       Szlag! Nie mogę utrzymać kątu spadania!
+
+116
+00:16:21,000 --> 00:16:23,000
+{Asuka}       Jeszcze trochę i moja jednostka zostanie zgnieciona!
+
 182
 00:20:54,000 --> 00:20:56,000
 {Misato}      Nie możemy sobie teraz pozwolić na ruch.
