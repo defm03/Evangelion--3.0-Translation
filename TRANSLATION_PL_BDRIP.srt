@@ -155,6 +155,46 @@
 00:02:18,000 --> 00:02:20,000
 {Kobieta}     180-stopniowy obrót zakończony.
 
+41
+00:12:29,000 --> 00:12:30,000
+{Hyuga}       Odbiór.
+
+42
+00:12:30,000 --> 00:12:32,000
+{Hyuga}       Jednostka 02-Dash przejdzie na przecinającą orbitę.
+
+43
+00:12:33,000 --> 00:12:35,000
+{Hyuga}       Rozpoczynanie operacji.
+
+44
+00:12:35,000 --> 00:12:37,000
+{Aoba}        Samonaprowadzanie zostaje odcięte.
+
+45
+00:12:37,000 --> 00:12:39,000
+{Aoba}        Jednostka będzie kontrolowana ręcznie.
+
+46
+00:12:39,000 --> 00:12:41,000
+{Hyuga}       Powodzenia.
+
+47
+00:12:41,000 --> 00:12:43,000
+{Kobieta}     Jednostka w drodze do spotkania z celem.
+
+48
+00:12:43,000 --> 00:12:45,000
+{Kobieta}     Osiem mil do kontaktu.
+
+49
+00:12:46,000 --> 00:12:47,000
+{Kobieta}     Potwierdzam cel.
+
+50
+00:12:47,000 --> 00:12:49,000
+{Mężczyzna}   Punkt spotkania bez zmian.
+
 182
 00:20:54,000 --> 00:20:56,000
 {Misato}      Nie możemy sobie teraz pozwolić na ruch.
@@ -420,7 +460,8 @@ To niedobrze.
 
 247
 00:23:29,000 --> 00:23:31,000
-W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem   >*(Saturation bombing??)//saturacyjne bombardowanie?
+W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem   
+>*(Saturation bombing??)//saturacyjne bombardowanie?
 
 248
 00:23:31,000 --> 00:23:33,000
