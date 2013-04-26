@@ -462,6 +462,23 @@
 00:16:21,000 --> 00:16:23,000
 {Asuka}       Jeszcze trochę i moja jednostka zostanie zgnieciona!
 
+117
+00:16:23,000 --> 00:16:25,000
+{Misato}      02-Dash, ukończenie tej misji ma największy priorytet!
+
+118
+00:16:27,000 --> 00:16:29,000
+{Misato}      Nie strać obiektu docelowego, nawet jeśli oznaczałoby to stratę jednostki.
+
+119
+00:16:29,000 --> 00:16:31,000
+{Asuka}       To już wiem!
+
+120
+00:16:50,000 --> 00:16:52,000
+{Asuka}       Zrób coś, głupi Shinji.
+
+
 182
 00:20:54,000 --> 00:20:56,000
 {Misato}      Nie możemy sobie teraz pozwolić na ruch.
