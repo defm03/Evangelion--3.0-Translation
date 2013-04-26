@@ -959,3 +959,207 @@ Proponuję natychmiast rozproszyć flotę.
 {Man}         Wszystkie floty do głównej stacji bojowej.
 
 
+
+300
+00:15:51,000 --> 00:15:54,000
+{Ritsuko}     Zmiana systemu bitewnego. ??
+
+301
+00:15:54,000 --> 00:15:56,000
+{Ritsuko}     Główna załoga, do głownego mostka
+
+302
+00:15:56,000 --> 00:15:57,000
+{Misato}      Przygotować balast grawitacyjny.
+
+303
+00:15:57,000 --> 00:15:58,000
+{Sumire}      Zrozumiałem.
+
+304
+00:15:58,000 --> 00:16:00,000
+{Sumire}      Wszystkie otwory, sprawdzone. ??
+
+305
+00:16:00,000 --> 00:16:02,000
+{Misato}      Scentralizować sterowanie statku w kotwicy głównego wejścia???
+
+306
+00:16:02,000 --> 00:16:03,000
+{Koji}        Zrozumiałem
+
+307
+00:16:03,000 --> 00:16:04,000
+{Koji}        Przygotować się na obniżenie.
+
+308
+00:16:04,000 --> 00:16:05,000
+{Koji}        Induktor, potwierdzam. ??
+
+309
+00:16:05,000 --> 00:16:09,000
+{Koji}        Rozpoczynanie odliczania.
+
+310
+00:16:09,000 --> 00:16:11,000
+{Shinji}      Misato-san!
+
+311
+00:16:11,000 --> 00:16:14,000
+{Shinji}      Eva-01 jest tutaj, prawda?
+
+312
+00:16:14,000 --> 00:16:15,000
+{Shinji}      Też będę pilotował!
+
+313
+00:16:15,000 --> 00:16:20,000
+{Shinji}     Pomogę Asuce!
+
+314
+00:16:20,000 --> 00:16:23,000
+{Shinji}      Nie potrzebujesz mnie do pilotowania Evy?
+
+315
+00:16:23,000 --> 00:16:26,000
+{Shinji}      Misato-san?!
+
+316
+00:16:26,000 --> 00:16:27,000
+{Ritsuko}     To prawda.
+
+317
+00:16:27,000 --> 00:16:29,000
+{Ritsuko}     Nie ma potrzeby byś pilotował Evę.
+
+318
+00:16:29,000 --> 00:16:32,000
+{Kobieta}       / ??????????????????/
+
+319
+00:16:32,000 --> 00:16:36,000
+{Kobieta}       System dowodzenia jest obecnie przenoszony do mostku statku wojennego. ??
+
+320
+00:16:36,000 --> 00:16:36,000
+{Kobieta}       Powtarzam, System dowodzenia jest obecnie przenoszony do mostku statku wojennego. ??
+
+321
+00:16:36,000 --> 00:16:39,000
+{Shinji}      Nie ma potrzeby?
+
+322
+00:16:39,000 --> 00:16:44,000
+{Shinji}      W takim razie... co powinienem zrobić?
+
+323
+00:16:44,000 --> 00:16:47,000
+{Shinji}      Misato-san!
+
+324
+00:16:47,000 --> 00:16:50,000
+{Misato}      Ikari Shinji-kun...
+
+325
+00:16:50,000 --> 00:17:06,000
+{Misato}      Już nigdy nic nie zrobisz.
+
+326
+00:17:06,000 --> 00:17:07,000
+{Mężczyzna (Tło)}    Zapełnianie kapsuły LCL gazem.
+
+327
+00:17:07,000 --> 00:17:08,000
+{Mężczyzna (Tło)}    Wyczyszczono zagęstnienie elektryfikacji  ??
+
+328
+00:17:08,000 --> 00:17:10,000
+{Ritsuko}     Rozpocząć wejście.
+
+329
+00:17:10,000 --> 00:17:12,000
+{Kobieta (Tło)}  Status naładowania elektrzycznego LCL jest nominalny.
+
+330
+00:17:12,000 --> 00:17:14,000
+{Kobieta (Tło)}  Uruchamianie wszystkich załączonych systemów operacyjnych.
+
+331
+00:17:14,000 --> 00:17:15,000
+{Misato}      Jak wygląda nasz status?
+
+332
+00:17:15,000 --> 00:17:17,000
+{Kobieta}       Odprawa całego personelu zakończona.
+
+333
+00:17:17,000 --> 00:17:18,000
+{Kobieta}       Wszyscy na pokładzie.
+
+334
+00:17:18,000 --> 00:17:20,000
+{Kobieta (Tło)}   Pierwsza lista czysta. ??
+
+335
+00:17:20,000 --> 00:17:22,000
+{Mężczyzna}         Potwierdzono zamknięcie wszystkich bram. 
+
+336
+00:17:22,000 --> 00:17:23,000
+{Mężczyzna}         Zakończenie sprawdzania odporności na ciśnienie. ??????
+
+337
+00:17:23,000 --> 00:17:25,000
+{Kobieta (Tło)}  Wydajność komponentów pomocniczych obecnie wzrasta.
+
+338
+00:17:25,000 --> 00:17:28,000
+{Koji}        Wstrzykiwanie energii w celu aktywacji systemów startowych. ???
+
+339
+00:17:28,000 --> 00:17:30,000
+{Koji}        5% do stanu krytycznego.
+
+340
+00:17:30,000 --> 00:17:31,000
+{Sumire}      Inicjowanie gyro-kompasu.
+
+341
+00:17:31,000 --> 00:17:33,000
+{Sumire}      Stabilizator nominalny.
+
+342
+00:17:33,000 --> 00:17:35,000
+{Kobieta (Tło)}  Rozpoczynanie wizualnego przetwarzania danych.
+
+343
+00:17:35,000 --> 00:17:37,000
+{Kobieta (Tło)}   Uruchamianie głównego monitora.
+
+344
+00:17:37,000 --> 00:17:39,000
+{Hyuga}       Cel wciąż się zbliża.
+
+345
+00:17:39,000 --> 00:17:41,000
+{Hyuga}       Obecnie przyjmuje formację "encircling" ???
+
+346
+00:17:41,000 --> 00:17:43,000
+{Aoba}        Rozwijanie śmigieł Evy-02'. ???
+
+347
+00:17:43,000 --> 00:17:45,000
+{Aoba}        Lewa ręka jest włączana ???
+
+348
+00:17:45,000 --> 00:17:54,000
+{Asuka}       W końcu! ??
+
+349
+00:17:54,000 --> 00:17:56,000
+{Asuka}       Więc... ??
+
+350
+00:17:56,000 --> 00:18:04,000
+{Asuka}       Zróbmy to! ??
