@@ -1596,3 +1596,207 @@ Evangelion New Theatrical Version
 446
 00:35:22,000 --> 00:35:24,000
 
+450
+00:35:35,000 --> 00:35:37,000
+{Ritsuko} Nawet jeśli dostaniesz się do Evy, nie uruchomi się.
+
+451
+00:35:39,000 --> 00:35:40,000
+{Sakura} Naprawdę?
+
+452
+00:35:40,000 --> 00:35:42,000
+{Sakura} Czyż to nie wspaniała wiadomość, Ikari-san?
+
+453
+00:35:42,000 --> 00:35:44,000
+{Ritsuko} Nawet jeśli, nie możemy pominąć faktu, że Eva-01 nagle obudziła się na 12 sekund. ???
+
+454
+00:35:48,000 --> 00:35:50,000
+{Ritsuko} W wyniku czego masz na sobie DSS Choker.
+
+455
+00:35:53,000 --> 00:35:54,000
+{Shinji} Co to jest?
+
+456
+00:35:54,000 --> 00:35:56,000
+{Ritsuko} Nasze bezpieczeństwo.+
+
+457
+00:35:57,000 --> 00:35:59,000
+{Ritsuko} To urządzenie ochraniające nas przed Obudzonymi. ???
+
+458
+00:36:00,000 --> 00:36:02,000
+{Ritsuko} Jest to też forma twojej kary.
+
+459
+00:36:04,000 --> 00:36:05,000
+{Shinji} Na czym to polega?
+
+460
+00:36:05,000 --> 00:36:07,000
+{Ritsuko} Jeśli stracisz kontrolę nad swoimi emocjami podczas pilotowania Evy i niemożliwym będzie zatrzymania procesu Obudzenia,
+
+461
+00:36:13,000 --> 00:36:15,000
+{Ritsuko} To urządzenie odbierze twoje życie.
+
+462
+00:36:17,000 --> 00:36:19,000
+{Shinji} Czy to znaczy że....ja umrę?
+
+463
+00:36:22,000 --> 00:36:24,000
+{Ritsuko} Temu nie zaprzecze. ???
+
+464
+00:36:25,000 --> 00:36:27,000
+{Shinji} Niemożliwe...
+
+465
+00:36:27,000 --> 00:36:29,000
+{Shinji} Misato-san, o co chodzi z tym całym umieraniem?
+
+466
+00:36:31,000 --> 00:36:33,000
+{Shinji} To jest dziwne, Misato-san!
+
+467
+00:36:33,000 --> 00:36:35,000
+{Shinji} Nagle to wszystko stało się strasznie pomieszane, nic nie rozumiem!
+
+468
+00:36:36,000 --> 00:36:37,000
+{Ritsuko} Nic na to nie poradzę.
+
+469
+00:36:37,000 --> 00:36:38,000
+{Ritsuko} Drugi Podporucznik!
+
+470
+00:36:38,000 --> 00:36:39,000
+{Sakura} Tak, Kapitanie!.
+
+471
+00:36:39,000 --> 00:36:40,000
+{Ritsuko} Proszę sie przedstawić.
+
+472
+00:36:40,000 --> 00:36:42,000
+{Sakura} Tak Kapitanie!
+
+473
+00:36:42,000 --> 00:36:44,000
+{Sakura} Trochę późno, ale jestem obecnym oficerem medycznym.
+
+474
+00:36:47,000 --> 00:36:49,000
+{Sakura} Drugi Podporucznik, Suzuhara Sakura.
+
+475
+00:36:50,000 --> 00:36:52,000
+{Sakura} Miło Cię poznać.
+
+476
+00:36:52,000 --> 00:36:54,000
+{Shinji} Mi r-również.
+
+477
+00:36:55,000 --> 00:36:57,000
+{Shinji} Ale, "Suzuhara"...
+
+478
+00:36:57,000 --> 00:36:59,000
+{Shinji} Ty jesteś Tojii'ego...?
+
+479
+00:36:59,000 --> 00:37:00,000
+{Sakura} Ah,tak.
+
+480
+00:37:00,000 --> 00:37:02,000
+{Sakura} Zawdzięczam wszystko mojemu dużemu braciszkowi.
+
+481
+00:37:02,000 --> 00:37:04,000
+{Sakura} Jestem jego małą siostrzyczką, Sakura.
+
+482
+00:37:04,000 --> 00:37:05,000
+{Shinji} Małą siostrzyczką?
+
+483
+00:37:05,000 --> 00:37:06,000
+{Shinji} Nie miałaś na myśli starszą siostrą?
+
+484
+00:37:06,000 --> 00:37:08,000
+{Sakura} Nie, małą siostrą.
+
+485
+00:37:10,000 --> 00:37:12,000
+{Shinji} Małą siostrą...? Jak?
+
+486
+00:37:13,000 --> 00:37:15,000
+{Asuka} Od tamtego czasu mineło 14 lat.
+
+487
+00:37:16,000 --> 00:37:18,000
+{Asuka} Głupi Shinji.
+
+488
+00:37:18,000 --> 00:37:20,000
+{Shinji} Hę? O, Asuka!
+
+489
+00:37:24,000 --> 00:37:25,000
+{Shinji} Dzięki bogu.
+
+490
+00:37:25,000 --> 00:37:27,000
+{Shinji}  Jesteś cała, Asuka!
+
+491
+00:37:32,000 --> 00:37:34,000
+{Asuka} Nie mogę na to pozwolić.
+
+492
+00:37:34,000 --> 00:37:36,000
+{Asuka}  Trzymałam to w sobie.
+
+493
+00:37:43,000 --> 00:37:45,000
+{Shinji} O co w tym chodziło...?
+
+494
+00:37:45,000 --> 00:37:47,000
+{Asuka} Built up anger and grief. ???
+
+495
+00:37:48,000 --> 00:37:50,000
+{Shinji} O co Ci chodzi...?
+
+496
+00:37:50,000 --> 00:37:52,000
+{Shinji} Uh, Asuka, twoje lewe oko...
+
+497
+00:37:53,000 --> 00:37:55,000
+{Asuka} Nie twój interes.
+
+498
+00:37:55,000 --> 00:37:57,000
+{Shinji} Asuka, powiedziałaś że mineło 14 lat,
+
+499
+00:37:58,000 --> 00:38:00,000
+{Shinji} Ale jedyną rzeczą, która się w tobie zmieniła jest na "opaska". ???
+
+500
+00:38:01,000 --> 00:38:03,000
+{Asuka} Prawda. To Klątwa Evy.
+
