@@ -268,8 +268,7 @@
 
 69
 00:13:46,000 --> 00:13:48,000
-{Asuka}       Cholerna okularnico!* Jakieś wsparcie!
->okularnica//w eng/sp -> zamienione na 'okulary', w jp: コネメガネ！ (kone megane!)
+{Asuka}       Cholerna okularnico! Jakieś wsparcie!
 
 70
 00:13:53,000 --> 00:13:55,000
@@ -401,7 +400,7 @@
 
 102
 00:15:38,000 --> 00:15:39,000
-{Asuka}       Nerw! >(chodzi o organizację?)
+{Asuka}       Nerwy!
 
 103
 00:15:39,000 --> 00:15:41,000
@@ -937,72 +936,72 @@ Evangelion New Theatrical Version
 
 234
 00:22:56,000 --> 00:22:58,000
-{Kobieta} Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte, w tym rakiet samonaprowadzających statku wojennego.
+{Kobieta}     Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte, w tym rakiet samonaprowadzających statku wojennego.
 
 235
 00:22:58,000 --> 00:23:00,000
-Mając stację bojową na mostku...
+{Sakura}      Mając stację bojową na mostku...
 
 236
 00:23:01,000 --> 00:23:01,800
-Odbiór.
+{Misato}      Odbiór.
 
 237
 00:23:01,000 --> 00:23:02,000
-Strasznie denerwujące.
+{Sakura}      Strasznie denerwujące.
 
 238
 00:23:02,000 --> 00:23:04,000
-Aktywować wszystkie systemy obrony przeciwpowietrznej.
+{Misato}      Aktywować wszystkie systemy obrony przeciwpowietrznej.
 
 239
 00:23:04,000 --> 00:23:06,000
-Obrona Eva-01 jest naszym obecnym priorytetem.
+{Misato}      Obrona Eva-01 jest naszym obecnym priorytetem.
 
 240
 00:23:06,000 --> 00:23:08,000
-...Eva-01?
+{Shinji}      ...Eva-01?
 
 241
 00:23:16,000 --> 00:23:17,000
-Jest tutaj!
+{Midori}      Jest tutaj!
 
 242
 00:23:17,000 --> 00:23:19,000
-Confirmando pilar de luz del objetivo.
+{Midori}      Potwierdzanie filaru światła celu.
 
 243
 00:23:19,000 --> 00:23:21,000
-To... Zmienne urosły w jakiś sposób.
+{Midori}      Jego... Zmienne urosły w jakiś sposób.
 
 244
 00:23:22,000 --> 00:23:24,000
-Nie możemy dostać się do rdzenia celu.
+{Aoba}        Nie możemy dostać się do rdzenia celu.
 
 245
 00:23:24,000 --> 00:23:26,000
-Prawdopodobnie jest ukryte na zewnątrz kokonu.
+{Aoba}        Prawdopodobnie jest ukryte na zewnątrz kokonu.
 
 246
 00:23:27,000 --> 00:23:29,000
-To niedobrze.
+{Ritsuko}     To niedobrze.
 
 247
 00:23:29,000 --> 00:23:31,000
-W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem
+{Ritsuko}     W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem
 >*(Saturation bombing??)//saturacyjne bombardowanie?
 
 248
 00:23:31,000 --> 00:23:33,000
-600 sekund do kontaktu.
+{Midori}      600 sekund do kontaktu.
 
 249
 00:23:33,000 --> 00:23:34,000
-Kapitanie Katsuragi,
+{Ritsuko}     Kapitanie Katsuragi,
 
 250
 00:23:34,000 --> 00:23:36,000
-Proponuję natychmiast rozproszyć flotę.
+{Ritsuko}     Proponuję natychmiast rozproszyć flotę.
 
 251
 00:23:38,000 --> 00:23:40,000
