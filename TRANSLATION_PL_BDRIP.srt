@@ -114,7 +114,6 @@
 00:12:09,000 --> 00:12:11,000
 {Kobieta}     Zmniejszanie prędkości zakończone.
 
-
 31
 00:12:11,000 --> 00:12:13,000
 {Mężczyzna}   Przygotowanie do wkroczenia na końcową orbitę operacyjną.
@@ -229,7 +228,7 @@
 
 59
 00:13:10,000 --> 00:13:12,000
-{Mężczyzna}   Eksplozja rozproszyła falę! ( 爆散榴発生。--co?)
+{Mężczyzna}   Eksplozja rozproszyła falę! 
 
 60
 00:13:12,000 --> 00:13:14,000
@@ -774,11 +773,11 @@ Evangelion New Theatrical Version
  
 193
 00:21:22,000 --> 00:21:24,000
-{Kobieta}     Flota zdolna do wycofania się z obecnej lokacji. >?
+{Kobieta}     Wszystkie statki powietrzne muszą opuścić aktualną przestrzeń powietrzną.
  
 194
 00:21:25,000 --> 00:21:27,000
-{Kobieta}     Szybko do drugiego Punktu Spotkania >?
+{Kobieta}     Szybko do Punktu Spotkania 2.
  
 195
 00:21:27,000 --> 00:21:29,000
@@ -794,7 +793,7 @@ Evangelion New Theatrical Version
  
 198
 00:21:35,000 --> 00:21:37,000
-{Mężczyzna}   / 最優先tsutaemonoha、＃＃＃＃shitekure。
+{Mężczyzna}   / 最優先tsutaemonoha、shitekure。
  
 199
 00:21:37,000 --> 00:21:39,000
@@ -834,7 +833,7 @@ Evangelion New Theatrical Version
  
 208
 00:21:57,000 --> 00:21:59,000
-{Kobieta}     Nie wykryto problemów w bramie, trzeciej oraz czwartej "cargo cage" >?
+{Kobieta}     Nie wykryto problemów w porcie, oraz trzeciej i czwartej klatce z ładunkiem.
 
 209
 00:22:00,000 --> 00:22:01,000
@@ -886,57 +885,55 @@ Evangelion New Theatrical Version
 
 221
 00:22:22,000 --> 00:22:24,000
-Nie szukaj wymówek!
+{Maya}        Nie szukaj wymówek!
 
 222
 00:22:24,000 --> 00:22:26,000
-Zapierdalaj!
+{Maya}        Zapierdalaj!
 
 223
 00:22:26,000 --> 00:22:28,000
-Ugh?, Dlatego nie znoszę modszych facetów.
+{Maya}        Ugh, Dlatego nie znoszę modszych facetów.
 
 224
 00:22:30,000 --> 00:22:32,000
-Uhm, przerywa połączenie w tym miejscu.
-
+{Tama}        Uhm, przerywa połączenie w tym miejscu.
 
 225
 00:22:33,000 --> 00:22:35,000
-Rozpocząć blokadę ścian bariery... o to chodzi?    >?
-
+{Tama}        Rozpocząć blokadę ścian bariery... o to chodzi?
 
 226
 00:22:36,000 --> 00:22:38,000
-El sonar está en dirección con la proa del buque anti aéreo como referencia.
+{Midori}      Sonar znajduje się w tym kierunku kożystając z dziobu przeciw-powietrznego staku jako punkt odniesienia.
 
 227
 00:22:40,000 --> 00:22:41,000
-Kitakami!
+{Aoba}        Kitakami!
 
 228
 00:22:41,000 --> 00:22:43,000
-Jak wygląda sytuacja na pokładzie?
+{Aoba}        Jak wygląda sytuacja na pokładzie?
 
 229
 00:22:43,000 --> 00:22:45,000
-Czy to moja broszka?
+{Midori}      Czy to moja broszka?
 
 230
 00:22:45,000 --> 00:22:47,000
-Oczywiście! To twój teren.
+{Aoba}        Oczywiście! To twój teren.
 
 231
 00:22:47,000 --> 00:22:49,000
-Cooo? Serio?
+{Midori}      Cooo? Serio?
 
 232
 00:22:52,000 --> 00:22:54,000
-Start jest niebezpieczny.
+{Sakura}      Start jest niebezpieczny.
 
 233
 00:22:54,000 --> 00:22:56,000
-Zostańmy tutaj!
+{Sakura}      Zostańmy tutaj!
 
 234
 00:22:56,000 --> 00:22:58,000
