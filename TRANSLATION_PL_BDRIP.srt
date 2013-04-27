@@ -1,13 +1,13 @@
 1
-00:11:01,000 --> 00:11:03,000
+00:11:00,310 --> 00:11:03,610
 {Mężczyzna}   Zespół wywiadowczy, raportuj o pozycji obu jednostek.
 
 2
-00:11:04,000 --> 00:11:06,000
+00:11:03,610 --> 00:11:06,500
 {Kobieta}     Jednostka 02-Dash osiągnęła wysokość operacyjną.
 
 3
-00:11:07,000 --> 00:11:09,000
+00:11:06,500 --> 00:11:09,000
 {Kobieta}     Umieszczony na wyznaczonej orbicie.
 
 4
@@ -788,11 +788,11 @@ Evangelion New Theatrical Version
  
 197
 00:21:31,000 --> 00:21:33,000
-{Mężczyzna}   / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。
+{Mężczyzna}   Kontynuuj uzbrajanie statków.
  
 198
 00:21:35,000 --> 00:21:37,000
-{Mężczyzna}   / 最優先tsutaemonoha、shitekure。
+{Mężczyzna}   Pracujcie cały czas, do ostatniej minuty!
  
 199
 00:21:37,000 --> 00:21:39,000
@@ -1225,7 +1225,7 @@ Evangelion New Theatrical Version
 
 307
 00:26:09,000 --> 00:26:11,000
-{Misato}      Scentralizować sterowanie statku w kotwicy głównego wejścia???
+{Misato}      Scentralizować sterowanie statku w kotwicy głównego wejścia??? 
 
 308
 00:26:11,000 --> 00:26:12,000
@@ -1406,3 +1406,72 @@ Evangelion New Theatrical Version
 352
 00:28:05,000 --> 00:28:07,000
 {Asuka}       Zróbmy to!
+
+
+
+400
+00:30:47,000 --> 00:30:48,000
+{Misato}      Zaczynamy.
+
+401
+00:30:48,000 --> 00:30:50,000
+{Misato}      Wunder, start!
+
+402
+00:31:39,000 --> 00:31:41,000
+{Tama}        Główne skrzydła spenetrowane! Uszkodzenia nieznane!
+
+403
+00:31:41,000 --> 00:31:42,000
+{Misato}      Nie przejmować się!
+
+404
+00:31:42,000 --> 00:31:43,000
+{Misato}      Przygotować się na kontratak w pełnej skali.
+
+405
+00:31:43,000 --> 00:31:44,000
+{Misato}      Postawić statek pionowo!
+
+406
+00:31:44,000 --> 00:31:45,000
+{Misato}      Ruszyć wstecz!
+
+407
+00:31:45,000 --> 00:31:47,000
+{Sumire}      Ruszyć wstecz! Naprzód, ho!
+
+408
+00:31:53,000 --> 00:31:55,000
+{Misato}      Wyciągnąć pozostałości bloku rdzenia z wycofanego oprzędu
+
+409
+00:32:02,000 --> 00:32:04,000
+{Tama}        Pęknięcie zostało przerwane na zakończeniu głównego skrzydła!
+
+410
+00:32:04,000 --> 00:32:05,000
+{Misato}      Trzymaj stabilnie ster!
+
+411
+00:32:05,000 --> 00:32:07,000
+{Misato}      Uruchomić główne silniki z pełną mocą
+
+412
+00:32:07,000 --> 00:32:09,000
+{Koji}        Obie strony na maximum!
+
+413
+00:32:09,000 --> 00:32:11,000
+{Sumire}      Pełne obroty!
+
+414
+00:32:37,000 --> 00:32:39,000
+{Midori}      Blok rdzenia jest na zewnątrz!
+
+415
+00:32:39,000 --> 00:32:40,000
+{Misato}      Teraz!
+
+416
+00:32:40,000 --> 00:32:41,000
