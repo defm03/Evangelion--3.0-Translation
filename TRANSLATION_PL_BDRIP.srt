@@ -1475,3 +1475,60 @@ Evangelion New Theatrical Version
 
 416
 00:32:40,000 --> 00:32:41,000
+{Misato}      Portowa pełna moc!
+
+417
+00:32:41,000 --> 00:32:42,000
+{Misato}      Rozkołysać to!
+
+418
+00:32:42,000 --> 00:32:44,000
+{Sumire}      Odbiór!
+
+419
+00:33:09,000 --> 00:33:10,000
+{Misato}      Silniki na pełną moc!
+
+420
+00:33:10,000 --> 00:33:12,000
+{Misato}      Hamowanie awaryjne!
+
+421
+00:33:21,000 --> 00:33:22,000
+{Aoba}        Obiekt zamilkł!
+
+422
+00:33:22,000 --> 00:33:24,000
+{Misato}      Przygotować wszystkie działa do ognia!
+
+423
+00:33:24,000 --> 00:33:26,000
+{Misato}      Załadować amunicje penetrującą energię.
+
+424
+00:33:26,000 --> 00:33:28,000
+{Misato}      Podłączyć wszystkie działa do głównego okrętu.
+
+425
+00:33:28,000 --> 00:33:29,000
+{Misato}      Otworzyć zaopatrywujące obwody amunicji.
+
+426
+00:33:29,000 --> 00:33:31,000
+{Koji}        Odbiór. Otwieram obwody.
+
+427
+00:33:32,000 --> 00:33:34,000
+{Midori}      Zastosowanie końcowych korekcji do obliczonej trajektorii przeciwników!
+
+428
+00:33:34,000 --> 00:33:36,000
+{Kobieta}     Systemy artyleryjskie są zablokowane.
+
+429
+00:33:36,000 --> 00:33:38,000
+{Hyuga}       Bezpośrednie celowanie i manualne śledzenie gotowe na wszystkich działach.
+
+430
+00:33:39,000 --> 00:33:40,000
+{Misato}      Więc jesteśmy gotowi.
