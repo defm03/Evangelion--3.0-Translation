@@ -476,6 +476,57 @@
 00:16:50,000 --> 00:16:52,000
 {Asuka}       Zrób coś, głupi Shinji.
 
+121
+00:17:32,000 --> 00:17:34,000
+{Kaworu}      Witaj w domu, Ikari Shinji-kun.
+
+122
+00:17:35,000 --> 00:17:36,000
+{Kaworu}      Czekałem na ciebie.
+
+123
+00:17:36,000 --> 00:17:38,000
+Evangelion New Theatrical Version
+
+124
+00:17:38,000 --> 00:17:40,000
+(Q) Quickening
+
+125
+00:17:51,000 --> 00:17:53,000
+{Sakura}      Resuscytacyjne funkcje są nominalne.
+
+126
+00:17:53,000 --> 00:17:55,000
+{Sakura}      Brak dostrzegalnego paraliżu ostatecznych środków.
+
+127
+00:17:55,000 --> 00:17:57,000
+{Sakura}      Tak. Jego oczy się otwierają.
+
+128
+00:17:59,000 --> 00:18:01,000
+{Sakura}      Rozumiesz mnie?
+
+129
+00:18:04,000 --> 00:18:06,000
+{Shinji}      Co to za miejsce?
+
+130
+00:18:07,000 --> 00:18:08,000
+{Sakura}      Reaguje.
+
+131
+00:18:08,000 --> 00:18:10,000
+{Sakura}      Zdaje się, że powrócił do przytomnego stanu.
+
+132
+00:18:12,000 --> 00:18:14,000
+{Shinji}      Jestem pewny, że uratowałem Ayanami.
+
+133
+00:18:15,000 --> 00:18:17,000
+{Sakura}      Tak, ciągłość pamięci także zdaje się być akceptowalna.
 
 182
 00:20:54,000 --> 00:20:56,000
@@ -484,7 +535,91 @@
 183
 00:20:57,000 --> 00:20:59,000
 {Misato}      Kontynuować tylko działania głównego silnika.
+
+134
+00:18:19,000 --> 00:18:21,000
+{Shinji}      Um, gdzie jest Ayanami...?
+
+135
+00:18:22,000 --> 00:18:24,000
+{Sakura}      Czy to ktoś kogo znasz?
+
+136
+00:18:27,000 --> 00:18:29,000
+{Shinji}      To... ja.
+
+135
+00:08:21,000 --> 00:08:22,000
+{Sakura}      Jest także zdolny do samorozpoznania.
  
+138
+00:18:31,000 --> 00:18:33,000
+{Sakura}      Zdaje się, że nie ma problemów.
+
+139
+00:18:33,000 --> 00:18:35,000
+{Shinji}      Co to?
+
+140
+00:18:36,000 --> 00:18:38,000
+{Kobieta}     Lista instalacji do  operacji ponownego napełnienia kompletna w 86%.
+
+141
+00:18:39,000 --> 00:18:41,000
+{Koji}        Aktywny reaktor N2 utrzymuje 90% wydajności.
+
+142
+00:18:43,000 --> 00:18:45,000
+{Midori}      Brak widocznych okrętów w okęgu parametru 1200.
+
+143
+00:18:45,000 --> 00:18:47,000
+{Midori}      Także brak potwierdzenia dla niezidentyfikowanych obiektów latających.
+
+144
+00:18:47,000 --> 00:18:49,000
+{Aoba}        Nadać priorytet do transferu załogi okrętom w bloku D.
+
+145
+00:18:49,000 --> 00:18:51,000
+{Hyuga}       Nie mamy dość personelu do operacji transferu!
+
+146
+00:18:52,000 --> 00:18:54,000
+{Sumire}      Nastąpiła warunkowa zmiana!
+
+147
+00:18:55,000 --> 00:18:57,000
+{Tama}        Sprawdzanie trasy do operacji kamuflażu.
+
+148
+00:19:02,000 --> 00:19:04,000
+{Sakura}      Okaz DM03 jest w naszym areszcie.
+
+149
+00:19:05,000 --> 00:19:06,000
+{Misato}      Zrozumiano.
+
+150
+00:19:06,000 --> 00:19:08,000
+{Misato}      Uwolnić ograniczniki.
+
+151
+00:19:09,000 --> 00:19:11,000
+{Misato}      Możecie odejść.
+
+152
+00:19:34,000 --> 00:19:36,000
+{Shinji}      Misato-san...
+
+182
+00:20:54,000 --> 00:20:56,000
+{Misato}      Nie możemy sobie teraz pozwolić na ruch.
+ 
+183
+00:20:57,000 --> 00:20:59,000
+{Misato}      Kontynuować tylko działanie głównego silnika.
+
 184
 00:20:59,000 --> 00:21:01,000
 {Misato}      Cała flota do drugiej stacji bitewnej.
@@ -691,7 +826,6 @@ Zostańmy tutaj!
 00:22:56,000 --> 00:22:58,000
 {Kobieta} Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte, w tym rakiet samonaprowadzających statku wojennego.
 
-
 235
 00:22:58,000 --> 00:23:00,000
 Mając stację bojową na mostku...
@@ -824,6 +958,7 @@ Proponuję natychmiast rozproszyć flotę.
 267
 00:24:18,000 --> 00:24:20,000
 {Sumire}      Antygrawitacja również nie była testowana.
+
 268
 00:24:20,000 --> 00:24:22,000
 {Sumire}      Nie ufam temu.
@@ -835,6 +970,7 @@ Proponuję natychmiast rozproszyć flotę.
 270
 00:24:24,000 --> 00:24:26,000
 {Midori}      Ani ginąć tutaj.
+
 271
 00:24:26,000 --> 00:24:28,000
 {Koji}        Umrzesz kiedy umrzesz (Paulo Coelho). Tyle na ten temat.
@@ -853,8 +989,7 @@ Proponuję natychmiast rozproszyć flotę.
 
 275
 00:24:36,000 --> 00:24:38,000
-{Misato} Użyjemy statku jako przynęty i wywabimy go na powierzchnię.
-
+{Misato}      Użyjemy statku jako przynęty i wywabimy go na powierzchnię.
 
 276
 00:24:39,000 --> 00:24:41,000
@@ -918,18 +1053,19 @@ Proponuję natychmiast rozproszyć flotę.
 
 291
 00:25:15,000 --> 00:25:16,000
-{Woman}       Eva-02' Start!
+{Kobieta}     Eva-02' Start!
 
 292
 00:25:16,000 --> 00:25:17,000
-{Woman}       Odbiór.
+{Kobieta}     Odbiór.
+
 293
 00:25:17,000 --> 00:25:18,000
-{Woman}       Przygotowanie Evy-02 do startu!
+{Kobieta}     Przygotowanie Evy-02 do startu!
 
 294
 00:25:18,000 --> 00:25:20,000
-{Woman}       Silniki podwodne i napęd odrzutowy wchodzą na pierwszy bieg.
+{Kobieta}     Silniki podwodne i napęd odrzutowy wchodzą na pierwszy bieg.
 
 295
 00:25:29,000 --> 00:25:31,000
@@ -951,16 +1087,13 @@ Proponuję natychmiast rozproszyć flotę.
 00:25:52,000 --> 00:25:54,000
 {Misato}      Wszystkie floty do głównej stacji bojowej.
 
-
 300
 00:25:56,000 --> 00:25:57,000
-{Man}         Wszystkie floty do głównej stacji bojowej.
-
-
+{Mężczyzna}   Wszystkie floty do głównej stacji bojowej.
 
 302
 00:26:00,000 --> 00:26:02,000
-{Ritsuko}    Zmiana systemu zarządzania bitewnego.
+{Ritsuko}     Zmiana systemu zarządzania bitewnego.
 
 303
 00:26:03,000 --> 00:26:05,000
