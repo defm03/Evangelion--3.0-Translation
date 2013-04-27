@@ -1532,3 +1532,67 @@ Evangelion New Theatrical Version
 430
 00:33:39,000 --> 00:33:40,000
 {Misato}      Więc jesteśmy gotowi.
+
+431
+00:33:40,000 --> 00:33:42,000
+{Misato}      OGNIA!
+
+432
+00:34:05,000 --> 00:34:07,000
+{Aoba}        Obiekt zniszczony!
+
+433
+00:34:07,000 --> 00:34:09,000
+{Misato}      Cała flota, wchodzimy w drugi stopień alarmu.
+
+434
+00:34:09,000 --> 00:34:11,000
+{Misato}      Przygotować się do przywrócenia Evy-02'.
+
+435
+00:34:11,000 --> 00:34:13,000
+{Misato}      Pospieszcie się z procedurami awaryjnymi dla głównego skrzydła.
+
+436
+00:34:15,000 --> 00:34:16,000
+{Tama}        Niesamowite!
+
+437
+00:34:16,000 --> 00:34:18,000
+{Midori}      Naprawdę wygraliśmy.
+
+438
+00:34:18,000 --> 00:34:20,000
+{Koji}        Całkowicie lekkomyślne.
+
+439
+00:34:21,000 --> 00:34:23,000
+{Koji}        Cóż, jest nawet bardziej interesującym kapitanem niż w opowieściach Kajiego.
+
+440
+00:34:24,000 --> 00:34:26,000
+{Ritsuko}     Więc to jest siła zdolna zabić bogów.
+
+441
+00:34:26,000 --> 00:34:28,000
+{Ritsuko}     Wunder naprawdę jest statkiem nadzei.
+
+442
+00:35:09,000 --> 00:35:11,000
+{Sakura}      Obiekt DM03, Orientacyjne Imie Ikari Shinji-san...
+
+443
+00:35:12,000 --> 00:35:14,000
+{Sakura}      Oficer wykonawczy chce zamienić z tobą słowo.
+
+444
+00:35:15,000 --> 00:35:17,000
+{Shinji}      To jest Eva-01...?
+
+445
+00:35:17,000 --> 00:35:19,000
+{Ritsuko}     Tak. Eva-01 jest używana jako główny silnik tego statku.
+
+446
+00:35:22,000 --> 00:35:24,000
+
