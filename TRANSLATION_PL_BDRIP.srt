@@ -612,6 +612,122 @@ Evangelion New Theatrical Version
 00:19:34,000 --> 00:19:36,000
 {Shinji}      Misato-san...
 
+153
+00:19:37,000 --> 00:19:39,000
+{Misato}      Ikari Shinji-kun, czyż nie?
+
+154
+00:19:40,000 --> 00:19:41,000
+{Ritsuko}     Tak.
+
+155
+00:19:41,000 --> 00:19:43,000
+{Ritsuko}     Jego dane fizyczne są identyczne do Kodu Trzeciego Dziecka. 
+
+156
+00:19:46,000 --> 00:19:48,000
+{Ritsuko}     Znamie po leczeniu stomatologicznym i skład tkanek po urodzeniu został perfekcyjnie odtworzony.
+
+157
+00:19:52,000 --> 00:19:54,000
+{Ritsuko}     Analizujemy rezultaty testu jego poziomu synchronizacji.
+
+158
+00:19:55,000 --> 00:19:57,000
+{Misato}      A aplikacja DSS-Chokera?
+
+159
+00:19:58,000 --> 00:20:00,000
+{Ritsuko}     Jego instalacja została zaaranżowana, Kapitanie Katsuragi.
+
+160
+00:20:01,000 --> 00:20:03,000
+{Shinji}      Kapitanie Katsuragi...?
+
+161
+00:20:03,000 --> 00:20:05,000
+{Shinji}      To naprawde ty, Misato-san.
+
+162
+00:20:12,000 --> 00:20:13,000
+{Ritsuko}     Aktywacja nominalna.
+
+163
+00:20:13,000 --> 00:20:15,000
+{Ritsuko}     Kod dostępu ustawiony wyłącznie dla Kapitan.
+
+164
+00:20:16,000 --> 00:20:18,000
+{Misato}      Zrozumiano.
+
+165
+00:20:20,000 --> 00:20:22,000
+{Shinji}      Co to jest?!
+
+166
+00:20:23,000 --> 00:20:25,000
+{Shinji}      Proszę, ściągnij to!
+
+167
+00:20:27,000 --> 00:20:29,000
+{Sakura}      Nigdy nie zostanie ściągnięty.
+
+168
+00:20:31,000 --> 00:20:33,000
+{Misato}      Wywiad zakończony.
+
+169
+00:20:33,000 --> 00:20:35,000
+{Misato}      Zabrać go pod kwarantanne.
+
+170
+00:20:37,000 --> 00:20:39,000
+{Midori}      Przynęty 01 oraz 05 zniszczone.
+
+171
+00:20:39,000 --> 00:20:40,000
+{Midori}      Niedomiar długości fali.
+
+172
+00:20:40,000 --> 00:20:42,000
+{Misato}      Co to jest do cholery?
+
+173
+00:20:42,000 --> 00:20:43,000
+{Hyuga}       Wzorzec niebieski.
+
+174
+00:20:43,000 --> 00:20:45,000
+{Hyuga}       Obiekt zidentyfikowany.
+
+175
+00:20:45,000 --> 00:20:46,000
+{Hyuga}       Kod 4C.
+
+176
+00:20:46,000 --> 00:20:48,000
+{Hyuga}       To Seria Nemesis.
+
+177
+00:20:48,000 --> 00:20:49,000
+{Misato}      Wróciły...
+
+178
+00:20:49,000 --> 00:20:49,800
+{Midori}      Kod wszystkich obiektów to 4C
+
+179
+00:20:49,000 --> 00:20:51,000
+{Ritsuko}     Nadchodzą z wszystkich stron.
+
+180
+00:20:51,000 --> 00:20:52,000
+{Ritsuko}     Chcą nas otoczyć żeby rozpocząć.
+
+181
+00:20:52,000 --> 00:20:54,000
+{Midori}      Potwierdzam zniszczenie Dekoi-02 oraz 06.
+
 182
 00:20:54,000 --> 00:20:56,000
 {Misato}      Nie możemy sobie teraz pozwolić na ruch.
@@ -626,7 +742,7 @@ Evangelion New Theatrical Version
  
 185
 00:21:02,000 --> 00:21:04,000
-{Misato}      Cel: jednostki serii Nemesis.
+{Misato}      Cel: jednostki Serii Nemesis.
  
 186
 00:21:04,000 --> 00:21:05,000
