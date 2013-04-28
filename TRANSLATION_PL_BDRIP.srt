@@ -2150,3 +2150,123 @@ Evangelion New Theatrical Version
 680
 00:50:47,000 --> 00:50:49,000
 {Sakura}      Proszę, nie pilotuj Evy!
+
+681
+00:50:49,000 --> 00:50:50,000
+{Gendo}       Pilotuj Eve.
+
+682
+00:50:50,000 --> 00:50:52,000
+{Rei}         Nie wiem.
+
+683
+00:51:46,000 --> 00:51:48,000
+{Kaworu}      Zejdź na dół, Ikari-kun.
+
+684
+00:51:48,000 --> 00:51:50,000
+{Kaworu}      Porozmawiajmy.
+
+685
+00:51:55,000 --> 00:51:57,000
+{Shinji}      U-uh, nie mieliśmy porozmawiać?
+
+686
+00:51:58,000 --> 00:52:00,000
+{Kaworu}      Duet fortepianowy jest dialogiem dźwięku.
+
+687
+00:52:01,000 --> 00:52:03,000
+{Kaworu}      Spróbuj. 
+
+688
+00:52:05,000 --> 00:52:07,000
+{Shinji}      Nie, jest dobrze. Nie umiem grać.
+
+689
+00:52:07,000 --> 00:52:09,000
+{Kaworu}      Zmienianie się i uczenie nowych rzeczy jest ważne żeby żyć dalej.
+
+690
+00:52:17,000 --> 00:52:18,000
+{Kaworu}      To proste.
+
+691
+00:52:18,000 --> 00:52:20,000
+{Kaworu}      Musisz jedynie przycisnąć gdzieś tutaj klawisz.
+
+692
+00:52:36,000 --> 00:52:38,000
+{Kaworu}      Teraz spróbuj zagrać.
+
+693
+00:53:02,000 --> 00:53:04,000
+{Kaworu}      Bardzo dobrze!
+
+694
+00:53:04,000 --> 00:53:06,000
+{Kaworu}      Przyjemnie razem brzmimy.
+
+695
+00:53:41,000 --> 00:53:43,000
+{Kaworu}      Każda nuta to przyjemność.
+
+696
+00:53:44,000 --> 00:53:46,000
+{Kaworu}      To niesamowite, co dwoje ludzi może osiągnąć.
+
+697
+00:53:51,000 --> 00:53:53,000
+{Shinji}      Dziękuje.
+
+698
+00:53:53,000 --> 00:53:55,000
+{Shinji}      Już od dawna tak dobrze się nie bawiłem.
+
+699
+00:53:55,000 --> 00:53:57,000
+{Kaworu}      Ja także.
+
+700
+00:53:57,000 --> 00:53:58,000
+{Kaworu}      Musimy to powtórzyć.
+
+701
+00:53:58,000 --> 00:54:00,000
+{Kaworu}      Możesz przyjść kiedy chcesz, Ikari Shinji-kun.
+
+702
+00:54:01,000 --> 00:54:02,000
+{Shinji}      Tak.
+
+703
+00:54:02,000 --> 00:54:04,000
+{Shinji}      Swoją drogą, kim jesteś?
+
+704
+00:54:04,000 --> 00:54:06,000
+{Kaworu}      Jestem Kaworu. Nagisa Kaworu.
+
+705
+00:54:08,000 --> 00:54:10,000
+{Kaworu}      Jestem dzieckiem wybranym przez los, jak i ty.
+
+706
+00:54:17,000 --> 00:54:19,000
+{Shinji}      Dziś też jej nie ma.
+
+707
+00:54:20,000 --> 00:54:22,000
+{Shinji}      Nie dotykała w ogóle książek.
+
+708
+00:54:38,000 --> 00:54:40,000
+{Kaworu}      Dzień dobry, Ikari Shinji-kun.
+
+709
+00:54:42,000 --> 00:54:44,000
+{Kaworu}      Jesteś dzisiaj wcześnie.
+
+710
+00:54:44,000 --> 00:54:46,000
+{Shinji}      Nie mam innych zajęć.
