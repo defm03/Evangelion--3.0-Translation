@@ -2270,3 +2270,83 @@ Evangelion New Theatrical Version
 710
 00:54:44,000 --> 00:54:46,000
 {Shinji}      Nie mam innych zajęć.
+
+711
+00:55:16,000 --> 00:55:18,000
+{Shinji}      Jak mogę poprawić swoją grę?
+
+712
+00:55:19,000 --> 00:55:21,000
+{Kaworu}      Nie musisz być w tym dobry.
+
+713
+00:55:22,000 --> 00:55:24,000
+{Kaworu}      Twórz muzykę z przyjemnym uczuciem.
+
+714
+00:55:26,000 --> 00:55:28,000
+{Shinji}      Chcę tworzyć muzykę z jeszcze przyjemniejszym uczuciem. Jak to zrobić?
+
+715
+00:55:30,000 --> 00:55:32,000
+{Kaworu}      Potrzebna jest praktyka.
+
+716
+00:55:32,000 --> 00:55:34,000
+{Kaworu}      Cały czas zaczynaj od początku, dopóki nie będziesz zadowolony.
+
+717
+00:55:39,000 --> 00:55:41,000
+{Kaworu}      To jedyne rozwiązanie.
+
+718
+00:56:11,000 --> 00:56:12,000
+{Kaworu}      Jest dobrze, zostaw to mi.
+
+719
+00:56:12,000 --> 00:56:14,000
+{Kaworu}      Muszę go tylko naprawić, tak?
+
+720
+00:56:14,000 --> 00:56:16,000
+{Shinji}      Hm, dziękuje.
+
+721
+00:56:16,000 --> 00:56:18,000
+{Shinji}      Czuje się źle prosząc cię o tyle.
+
+722
+00:56:19,000 --> 00:56:21,000
+{Kaworu}      Nie musisz się o to martwić.
+
+723
+00:56:21,000 --> 00:56:23,000
+{Kaworu}      Jesteśmy przyjaciółmi. 
+
+724
+00:56:27,000 --> 00:56:29,000
+{Kaworu}      Robi się ciemno.
+
+725
+00:56:29,000 --> 00:56:31,000
+{Kaworu}      Może skończymy na dzisiaj?
+
+726
+00:56:32,000 --> 00:56:34,000
+{Shinji}      Może zostańmy jeszcze na chwilę?
+
+727
+00:56:35,000 --> 00:56:37,000
+{Shinji}      Możemy stąd pooglądać gwiazdy.
+
+728
+00:56:37,000 --> 00:56:39,000
+{Kaworu}      Gwiazdy?
+
+729
+00:56:40,000 --> 00:56:42,000
+{Kaworu}      Więc lubisz gwiazdy?
+
+730
+00:56:43,000 --> 00:56:45,000
+{Shinji}      Tak.
