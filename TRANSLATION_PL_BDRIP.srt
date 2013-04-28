@@ -2618,3 +2618,83 @@ Suzuhara Toji
 750
 00:58:09,000 --> 00:58:11,000
 {Kaworu}      Masz. Powinien teraz działać.
+
+751
+00:58:12,000 --> 00:58:13,000
+{Shinji}      Dziękuje.
+
+752
+00:58:13,000 --> 00:58:15,000
+{Shinji}      Jesteś niesamowity, Nagisa-kun.
+
+753
+00:58:15,000 --> 00:58:17,000
+{Shinji}      Nie ma rzeczy której nie umiesz zrobić.
+
+754
+00:58:17,000 --> 00:58:19,000
+{Kaworu}      To jedynie wiedza.
+
+755
+00:58:19,000 --> 00:58:21,000
+{Kaworu}      To dlatego, że jestem na tym świecie trochę dłużej niż ty.
+
+756
+00:58:23,000 --> 00:58:25,000
+{Shinji}      Mimo wszystko, jesteś wciąż niesamowity.
+
+757
+00:58:27,000 --> 00:58:29,000
+{Kaworu}      Nie wyglądasz najlepiej.
+
+758
+00:58:29,000 --> 00:58:31,000
+{Kaworu}      Coś się stało?
+
+759
+00:58:34,000 --> 00:58:36,000
+{Shinji}      Martwię się o swoich przyjaciół.
+
+760
+00:58:38,000 --> 00:58:39,000
+{Kaworu}      Twoich przyjaciół?
+
+761
+00:58:39,000 --> 00:58:41,000
+{Shinji}      Tak.
+
+762
+00:58:41,000 --> 00:58:43,000
+{Shinji}      Nad główną bazą Nervu znajdowało się miasto.
+
+763
+00:58:44,000 --> 00:58:46,000
+{Shinji}     Kiedyś wszyscy tam żyliśmy.
+
+764
+00:58:46,000 --> 00:58:47,000
+{Shinji}      Toji, Kensuke, Przewodnicząca,
+
+765
+00:58:47,000 --> 00:58:49,000
+{Shinji}      reszta kolegów z klasy...
+
+766
+00:58:50,000 --> 00:58:52,000
+{Shinji}      Podobno spałem w Evie-01 przez czternaście lat.
+
+767
+00:58:54,000 --> 00:58:56,000
+{Shinji}      Przez ten czas wiele się zmieniło.
+
+768
+00:58:59,000 --> 00:59:01,000
+{Kaworu}      Cierpisz, ponieważ nie możesz znieść tych zmian.
+
+769
+00:59:03,000 --> 00:59:05,000
+{Shinji}      Boje się.
+
+770
+00:59:06,000 --> 00:59:08,000
+{Shinji}      Nie wiem... co stało się z miastem i z wszystkimi.
