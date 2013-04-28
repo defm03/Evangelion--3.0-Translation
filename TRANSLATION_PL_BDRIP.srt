@@ -2698,3 +2698,123 @@ Suzuhara Toji
 770
 00:59:06,000 --> 00:59:08,000
 {Shinji}      Nie wiem... co stało się z miastem i z wszystkimi.
+
+771
+00:59:11,000 --> 00:59:13,000
+{Shinji}      Nothing makes sense, and it scares me. // Nic nie ma sensu i to mnie przeraża. 
+
+772
+00:59:13,000 --> 00:59:15,000 0:59:11.34,0:59:13.49
+{Shinji}      Tak, jestem przerażony!
+
+773
+00:59:24,000 --> 00:59:26,000
+{Kaworu}      Chcesz wiedzieć?
+
+774
+00:59:53,000 --> 00:59:55,000
+{Shinji}      Nagisa-kun?
+
+775
+00:59:55,000 --> 00:59:57,000
+{Shinji}      Nagisa-kun!
+
+776
+01:00:12,000 --> 01:00:14,000
+{Kaworu}      Chodź. Jeszcze tylko kawałek.
+
+777
+01:00:31,000 --> 01:00:33,000
+{Kaworu}      Chmury wkrótce się rozproszą,
+
+778
+01:00:33,000 --> 01:00:35,000
+{Kaworu}      i poznasz prawdę której chciałeś.
+
+779
+01:00:45,000 --> 01:00:47,000
+{Shinji}      Co to?
+
+780
+01:00:51,000 --> 01:00:53,000
+{Kaworu}      Wynik Trzeciego Uderzenia, nastałego po twoim połączeniu się z Evą-01.
+
+781
+01:01:00,000 --> 01:01:02,000
+{Shinji}      Ale...
+
+782
+01:01:02,000 --> 01:01:04,000
+{Shinji}      Ale co się stało z wszystkimi w mieście?
+
+783
+01:01:04,000 --> 01:01:06,000
+{Kaworu}      Masowa zagłada nie jest nietypowa na tej planecie.
+
+784
+01:01:07,000 --> 01:01:09,000
+{Kaworu}      Stanowi aspekt który napędza ewolucję.
+
+785
+01:01:11,000 --> 01:01:13,000
+{Kaworu}      Życie zawsze zmieniało formy, w celu adaptacji do otaczającego świata.
+
+786
+01:01:17,000 --> 01:01:19,000
+{Kaworu}      Jednak, Lilin zmienia świat, zamiast zmieniać siebie.
+
+787
+01:01:24,000 --> 01:01:26,000
+{Kaworu}      Przeprowadza rytuał żeby sztucznie ewoluować.
+
+788
+01:01:30,000 --> 01:01:31,500
+{Kaworu}      Poświęca stare życia,
+
+789
+01:01:31,500 --> 01:01:34,000
+{Kaworu}      aby jego nowe formy błogosławione Owocem Życia, mogły zostać stworzone.
+
+790
+01:01:38,000 --> 01:01:40,000
+{Kaworu}      Wszystko to jest odwiecznym aktem zagłady, który pozostaje ich zaprogramową częścią od niepamiętnych czasów.  
+
+791
+01:01:42,000 --> 01:01:44,000
+{Kaworu}      Nerv nazywa to Projektem Dopełnienia Ludzkości.
+
+792
+01:01:47,000 --> 01:01:49,000
+{Shinji}      To dzieło Nervu?
+
+793
+01:01:52,000 --> 01:01:54,000
+{Shinji}      To jest dzieło mojego ojca?
+
+794
+01:01:57,000 --> 01:01:59,000
+{Kaworu}      Ikari Shinji-kun,
+
+795
+01:01:59,000 --> 01:02:01,000
+{Kaworu}      Jednostka Eva 01 Obudziła się i otwarła Wrota Guf,
+
+796
+01:02:04,000 --> 01:02:06,000
+{Kaworu}      działając jako zapalnik Trzeciego Uderzenia.
+
+797
+01:02:07,000 --> 01:02:09,000
+{Kaworu}      Lilin nazywają to Niepełnym Trzecim Uderzenim.
+
+798
+01:02:11,000 --> 01:02:13,000
+{Kaworu}      Ty jesteś tego przyczyną. 
+
+799
+01:02:18,000 --> 01:02:19,000
+{Shinji}      Nie...
+
+800
+01:02:19,000 --> 01:02:21,000
+{Shinji}      Chciałem jedynie ocalić Ayanami!
