@@ -2393,35 +2393,35 @@ Evangelion New Theatrical Version
 
 741
 00:57:24,000 --> 00:57:26,000
-Kaworu}       Dziękuje za zaproszenie.
+{Kaworu}       Dziękuje za zaproszenie.
 
 742
 00:57:27,000 --> 00:57:29,000
-No tienes por qué agradecerme.
+{Shinji}      Nie, to nic takiego...
 
 743
 00:57:29,000 --> 00:57:31,000
-Solo supuse de que sería divertido, si querías intentarlo, y...
+{Shinji}      Myślałem, że będzie zabawnie pooglądać z tobą gwiazdy i—
 
 744
 00:57:36,000 --> 00:57:38,000
-Fue divertido.
+{Kaworu}      Jest zabawnie.
 
 745
 00:57:39,000 --> 00:57:41,000
-De verdad nací para conocerte.
+{Kaworu}      Naprawdę urodziłem się żeby cię spotkać.
 
 746
 00:57:53,000 --> 00:57:55,000
-¿Hm?
+{Shinji}      Hm?
 
 747
 00:57:59,000 --> 00:58:01,000
-Parece un poco más grande ahora.
+{Shinji}      Koszula jest jakaś za duża.
 
 748
 00:58:02,000 --> 00:58:04,000
-¿Huh?
+{Shinji}      Huh?
 
 749
 00:58:04,000 --> 00:58:06,000
@@ -2429,4 +2429,4 @@ Suzuhara Toji
 
 750
 00:58:09,000 --> 00:58:11,000
-Ten, esto debería funcionar.
+{Kaworu}      Masz. Powinien teraz działać.
