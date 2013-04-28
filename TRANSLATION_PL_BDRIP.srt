@@ -1892,3 +1892,127 @@ Evangelion New Theatrical Version
 520
 00:38:54,000 --> 00:38:56,000
 {Ritsuko}     I z jakiegoś powodu, to zostało przywrócone.
+
+521
+00:38:57,000 --> 00:38:59,000
+{Ritsuko}     Kontrola nie wykazała żadnych problemów. Oddajemy go.
+
+522
+00:39:01,000 --> 00:39:03,000
+{Shinji}      Mojego ojca...
+
+523
+00:39:04,000 --> 00:39:06,000
+{Shinji}      Ayanami trzymała to wtedy.
+
+524
+00:39:07,000 --> 00:39:09,000
+{Shinji}      Więc ocaliłem ją, prawda?
+
+525
+00:39:10,000 --> 00:39:12,000
+{Shinji}      Co?!
+
+526
+00:39:13,000 --> 00:39:15,000
+{Misato}      To ja.
+
+527
+00:39:15,000 --> 00:39:16,000
+{Hyuga}       Cel jest na tylnym pokładzie!
+
+528
+00:39:16,000 --> 00:39:18,000
+{Hyuga}       Zaatakował nas z nikąd.
+
+529
+00:39:18,000 --> 00:39:19,000
+{Misato}      Nadchodzi największe niebezpieczeństwo.
+
+530
+00:39:19,000 --> 00:39:21,000
+{Misato}      Wszystkie jednostki, Stacja Bitewna 1.
+
+531
+00:39:21,000 --> 00:39:23,000
+{Misato}      Zagwarantowanie bezpieczeństwa Evy-01 ma największy priorytet!
+
+532
+00:39:23,000 --> 00:39:25,000
+{Asuka}       Eva-08 gotowa do akcji, czyż nie?
+
+533
+00:39:25,000 --> 00:39:27,000
+{Mari}        Ależ oczywiście.
+
+534
+00:39:27,000 --> 00:39:28,000
+{Mari}        Właśnie jestem, Księżniczko. ??
+
+535
+00:39:28,000 --> 00:39:30,000
+{Mari}        Swoją drogą, jak tam Szczeniaczek?
+
+536
+00:39:31,000 --> 00:39:33,000
+{Mari}        Nadal siedzi i się zachowuje?
+
+537
+00:39:33,870 --> 00:39:35,200 
+{Asuka}       Nie zmienił się ani trochę. Nadal ma swój senny, głupi wyraz twarzy.
+
+538
+00:39:37,000 --> 00:39:39,000
+{Mari}        Jesteś pewna, że nie poszłaś tam tylko żeby zobaczyć jego twarz?
+
+539
+00:39:40,000 --> 00:39:41,000
+{Asuka}       Nie!
+
+540
+00:39:41,000 --> 00:39:43,000
+{Asuka}       Poszłam tam ją obić!
+
+541
+00:39:43,000 --> 00:39:44,000
+{Asuka}       Od razu lepiej się czuję.
+
+542
+00:39:44,000 --> 00:39:46,000
+{Shinji}      Misato-san, Ritsuko-san!
+
+543
+00:39:46,000 --> 00:39:48,000
+{Shinji}      Co się tam zbliża?
+
+544
+00:39:48,000 --> 00:39:50,000
+{Shinji}      Czy to nowy Anioł?
+
+545
+00:39:50,000 --> 00:39:52,000
+{Rei}         Ikari-kun, gdzie jeszteś?
+
+546
+00:39:53,000 --> 00:39:55,000
+{Shinji}      Ayanami?
+
+547
+00:39:55,000 --> 00:39:57,000
+{Shinji}      To przed chwilą, to był głos Ayanami, nie mam racji?
+
+548
+00:39:58,000 --> 00:40:00,000
+{Shinji}      Misa-
+
+549
+00:40:02,000 --> 00:40:04,000
+{Shinji}      Co tu się dzieje?!
+
+550
+00:40:04,000 --> 00:40:05,000
+{Sakura}      Przygotowania zakończone!
+
+551
+00:40:05,000 --> 00:40:07,000
+{Sakura}      Ikari-san, tędy!
