@@ -1407,7 +1407,195 @@ Evangelion New Theatrical Version
 00:28:05,000 --> 00:28:07,000
 {Asuka}       Zróbmy to!
 
+353
+00:28:13,000 --> 00:28:15,000
+{Asuka}       Rozpościeranie pola A.T.
 
+354
+00:28:18,000 --> 00:28:20,000
+{Aoba}        Zmieniło się w kolumnę światła.
+
+355
+00:28:21,000 --> 00:28:22,000
+{Midori}      Jego energia szaleje.
+
+356
+00:28:22,000 --> 00:28:24,000
+{Hyuga}       Wszystkie cele są w ruchu.
+
+357
+00:28:27,000 --> 00:28:28,000
+{Aoba}        Sojusznicze okręty wyparowały!
+
+358
+00:28:28,000 --> 00:28:30,000
+{Ritsuko}     To atak saturacyjny.
+
+359
+00:28:30,000 --> 00:28:32,000
+{Ritsuko}     Jeśli ten statek zostanie złapany, to wszystko skończone.
+
+360
+00:28:33,000 --> 00:28:35,000
+{Midori (BG)} Ponownie 360 sekund do kontaktu.
+
+361
+00:28:43,000 --> 00:28:45,000
+{Asuka}       Jedziemy!
+
+362
+00:28:47,000 --> 00:28:49,000
+{Aoba}        Eva-02 rozpoczęła operację.
+
+363
+00:28:49,000 --> 00:28:51,000
+{Man (BG)}    Moc na poziomie 300%!
+
+364
+00:28:51,000 --> 00:28:52,000
+{Koji}        Nie istotne. 
+
+365
+00:28:52,000 --> 00:28:54,000
+{Koji}        Przenieść całą enegię do kół zamachowych!
+
+366
+00:28:54,000 --> 00:28:56,000
+{Koji}        Nadaj temu priorytet!
+
+367
+00:29:06,000 --> 00:29:06,800
+Primeros 80 incendiados. No puede ser!
+
+368
+00:29:06,000 --> 00:29:08,000
+{Tama}        Przetwornik grupy nr 7 eksplodował.
+
+369
+00:29:08,000 --> 00:29:10,000
+{Koji}        Zlekceważ uszkodzone przewody!
+
+
+370
+00:29:10,000 --> 00:29:12,000
+{Koji}        Kontynuuj wymuszoną iniekcję!
+
+371
+00:29:12,000 --> 00:29:13,000
+{Koji}        Zignoruj wskaźniki ciśnienia!
+
+372
+00:29:13,000 --> 00:29:15,000
+{Tama}        Odblokowanie zaczepów koła zamachowego.
+
+373
+00:29:16,000 --> 00:29:18,000
+{Tama}        Rozpoczynam obrót.
+
+374
+00:29:25,000 --> 00:29:27,000
+{Man (BG)}    Inicjacja głównej pompy energii.
+
+375
+00:29:28,000 --> 00:29:30,000
+{Tama}        Przepustowość pomocniczych elementów osiągneła 80%.
+
+376
+00:29:30,000 --> 00:29:32,000
+{Koji}        Wymuś wprowadzenie katalizatora!
+
+377
+00:29:48,000 --> 00:29:50,000
+{Asuka}       Więc teraz...
+
+378
+00:29:51,000 --> 00:29:53,000
+{Midori}      39 sekund  pozostało.
+
+379
+00:29:53,000 --> 00:29:55,000
+{Man (BG)}    Prędkość obrotowa rośnie.
+
+
+380
+00:29:55,000 --> 00:29:57,000
+{Aoba}        Eva-02' utrzymuje ciśnienie krytyczne.
+
+381
+00:29:57,000 --> 00:29:58,000
+{Tama}        Jesteśmy tutaj!
+
+382
+00:29:58,000 --> 00:30:00,000
+{Tama}        Koło zamachowe załadowane do 102%, ponad poziom krytyczny!
+
+383
+00:30:01,000 --> 00:30:03,000
+{Koji}        Ko końcowy etap rozruchu.
+
+384
+00:30:03,000 --> 00:30:04,000
+{Misato}      Odbiór.
+
+385
+00:30:04,000 --> 00:30:05,000
+{Misato}      Przełączyć na kontrolę lotów.
+
+386
+00:30:05,000 --> 00:30:06,000
+{Sumire}      Odbiór.
+
+387
+00:30:06,000 --> 00:30:07,000
+{Sumire}      Począwszy od ziemi do regulacji powietrza.
+
+388
+00:30:07,000 --> 00:30:09,000
+{Sumire}      Transfer do sterowania 3D.
+
+389
+00:30:11,000 --> 00:30:13,000
+{Misato}      Aktywuj pole A.T. w momencie kiedy wystrzelimy.
+
+390
+00:30:13,000 --> 00:30:15,000
+{Tama}        Prędkość obrotowa 36000. Zielone światło.
+
+391
+00:30:16,000 --> 00:30:18,000
+{Koji}        Przystępuję do kontaktu.
+
+392
+00:30:18,000 --> 00:30:19,000
+{Misato}      Pominąć odliczanie.
+
+393
+00:30:19,000 --> 00:30:20,000
+{Misato}      Główny kontakt.
+
+394
+00:30:20,000 --> 00:30:22,000
+{Koji}        Kontakt!
+
+395
+00:30:25,000 --> 00:30:27,000
+{Misato}      Zapłon!
+
+396
+00:30:43,000 --> 00:30:44,000
+{Midori}      Czysto.
+
+397
+00:30:44,000 --> 00:30:45,000
+{Ritsuko}     Potwierdzanie podziałów.
+
+398
+00:30:45,000 --> 00:30:45,800
+{Misato}      XVI
+
+399
+00:30:45,000 --> 00:30:47,000
+{Ritsuko}     Konwój się wycofał.
 
 400
 00:30:47,000 --> 00:30:48,000
