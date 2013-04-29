@@ -3018,3 +3018,214 @@ Suzuhara Toji
 850
 01:06:19,000 --> 01:06:21,000
 {Shinji}      Ayanami?
+
+
+1049
+01:21:04,000 --> 01:21:06,000
+{Mari}        Słyszysz mnie, tymczasowy pilocie SEELE?
+
+1050
+01:21:07,000 --> 01:21:09,000
+{Mari}        słyszysz, prawda?
+
+1051
+01:21:09,000 --> 01:21:11,000
+{Mari}        Powinnaś uciekać zanim zmienisz się w Naczynie Adama.
+
+1052
+01:21:13,000 --> 01:21:15,000
+{Rei}         Nie. Nie mam takich rozkazów.
+
+1053
+01:21:16,000 --> 01:21:18,000
+{Mari}        Możesz być jeszcze przesadniej poprawna?
+
+1054
+01:21:18,000 --> 01:21:20,000
+{Mari}        Wiesz, twój oryginał był jednak przyjaźniejszy.
+
+1055
+01:21:21,000 --> 01:21:23,000
+{Rei}         Oryginał?
+
+1056
+01:21:23,000 --> 01:21:25,000
+{Rei}         Inna ja?
+
+1057
+01:21:39,000 --> 01:21:41,000
+{Shinji}      Kaworu-kun, co z tobą?!
+
+1058
+01:21:54,000 --> 01:21:55,000
+{Shinji}      Asuka!
+
+1059
+01:21:55,000 --> 01:21:57,000
+{Shinji}      Błagam cię, zejdź mi z drogi!
+
+1060
+01:21:58,000 --> 01:22:00,000
+{Asuka}       Zamknij sie i giń, bachorowaty Shinji!
+
+1061
+01:22:06,000 --> 01:22:07,000
+{Asuka}       Chyba sobie żarty stroisz!
+
+1062
+01:22:07,000 --> 01:22:09,000
+{Asuka}       Czterooka! Podrzuć mi zapas!
+
+1063
+01:22:16,000 --> 01:22:18,000
+{Shinji}      Teraz mamy szansę, więc łap za włócznie!
+
+1064
+01:22:20,000 --> 01:22:22,000
+{Asuka}       Nie wierzę, że właście uderzyłeś dziewczynę.
+
+1065
+01:22:22,000 --> 01:22:23,000
+{Asuka}       Gnojek.
+
+1066
+01:22:23,000 --> 01:22:25,000
+{Mari}        Zapas nadchodzi!
+
+1067
+01:22:37,000 --> 01:22:39,000
+{Kaworu}      Zatrzymaj się, Shinji-kun.
+
+1068
+01:22:39,000 --> 01:22:41,000
+{Kaworu}      Mam co do tego naprawdę złe przeczucia.
+
+1069
+01:22:41,000 --> 01:22:43,000
+{Shinji}      Nie możemy się teraz zatrzymać, Kaworu-kun!
+
+1070
+01:22:43,000 --> 01:22:45,000
+{Shinji}      Pamiętasz dlaczego przeszliśmy tą całą drogę?
+
+1071
+01:22:46,000 --> 01:22:47,000
+{Kaworu}      Nie rób tego!
+
+1072
+01:22:47,000 --> 01:22:49,000
+{Kaworu}      To nie są te włócznie po które przyszliśmy!
+
+1073
+01:22:50,000 --> 01:22:52,000
+{Shinji}      Jak to "nie są te włócznie"?
+
+1074
+01:22:56,000 --> 01:22:58,000
+{Shinji}      Sam mówiłeś, że potrzebujemy włóczni!
+
+1075
+01:22:59,000 --> 01:23:01,000
+{Shinji}      Inaczej nie pilotowałbym tej Evy!
+
+1076
+01:23:06,000 --> 01:23:08,000
+{Kaworu}      System kontroli...
+
+1077
+01:23:11,000 --> 01:23:13,000
+{Shinji}      Zabiorę tę włócznie dla Kaworu-kun,
+
+1078
+01:23:14,000 --> 01:23:16,000
+{Shinji}      dla wszystkich; z uwagi na nich!
+
+1079
+01:23:16,000 --> 01:23:18,000
+{Shinji}      Tym sposobem, przywrócę świat.
+
+1080
+01:23:20,000 --> 01:23:22,000
+{Shinji}      Wtedy nawet Misato-san będzie...
+
+1081
+01:23:24,000 --> 01:23:25,000
+{Asuka}       Cholera!
+
+1082
+01:23:25,000 --> 01:23:27,000
+{Asuka}       Czterooka, pozbyłam się przeszkód.
+
+1083
+01:23:27,000 --> 01:23:29,000
+{Asuka}       Otrzymujesz pozwolenie na użycie pocisków A.A.!
+
+1084
+01:23:29,000 --> 01:23:31,000
+{Mari}        Na to czekałam!
+
+1085
+01:23:31,000 --> 01:23:33,000
+{Mari}        Popatrz na te maleństwa!
+
+1086
+01:23:39,000 --> 01:23:41,000
+{Mari}        Nie ma pola AT?
+
+1087
+01:23:41,000 --> 01:23:43,000
+{Mari}        Nie mówcie mi, że ta jednostka...
+
+1088
+01:23:55,000 --> 01:23:57,000
+{Kaworu}      Nie rób tego, Shinji-kun!
+
+1089
+01:23:57,000 --> 01:23:59,000
+{Asuka}       Przestań, głupi bachorze!
+
+1090
+01:24:22,000 --> 01:24:24,000
+{Gendo}       Zaczynajmy, Fuyutsuki.
+
+1091
+01:24:31,000 --> 01:24:33,000
+{Shinji}      Eva Mark.06?
+
+1092
+01:24:34,000 --> 01:24:35,000
+{Shinji}      Typ krwi: niebieski? 
+
+1093
+01:24:35,000 --> 01:24:37,000
+{Shinji}      Co się dzieje?
+
+1094
+01:24:39,000 --> 01:24:41,000
+{Asuka}       Jest źle!
+
+1095
+01:24:41,000 --> 01:24:43,000
+{Asuka}       Dwunasty Anioł nadal żyje!
+
+1096
+01:24:44,000 --> 01:24:46,000
+{Asuka}       Okularnico, Kontener Nr.3!
+
+1097
+01:24:46,000 --> 01:24:48,000
+{Mari}        Zrozumiano!
+
+1098
+01:24:49,000 --> 01:24:51,000
+{Asuka}       Zajmijmy się tym przed wznowieniem Trzeciego Uderzenia!
+
+1099
+01:24:58,000 --> 01:25:00,000
+{Rei}         Miałam taki rozkaz.
+
+1100
+01:25:09,000 --> 01:25:11,000
+{Shinji}      Anioł?!
+
+
