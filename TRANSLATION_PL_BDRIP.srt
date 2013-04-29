@@ -1465,7 +1465,7 @@ Evangelion New Theatrical Version
 
 367
 00:29:06,000 --> 00:29:06,800
-Primeros 80 incendiados. No puede ser!
+{Koji}        Zignorować zestrzelone linie!
 
 368
 00:29:06,000 --> 00:29:08,000
@@ -1494,7 +1494,7 @@ Primeros 80 incendiados. No puede ser!
 
 374
 00:29:25,000 --> 00:29:27,000
-{Man (BG)}    Inicjacja głównej pompy energii.
+{Mężczyzna}   Inicjacja głównej pompy energii.
 
 375
 00:29:28,000 --> 00:29:30,000
@@ -1514,7 +1514,7 @@ Primeros 80 incendiados. No puede ser!
 
 379
 00:29:53,000 --> 00:29:55,000
-{Man (BG)}    Prędkość obrotowa rośnie.
+{Mężczyzna}   Prędkość obrotowa rośnie.
 
 
 380
@@ -2818,3 +2818,203 @@ Suzuhara Toji
 800
 01:02:19,000 --> 01:02:21,000
 {Shinji}      Chciałem jedynie ocalić Ayanami!
+
+801
+01:02:25,000 --> 01:02:27,000
+{Kaworu}      Może i tak. Jednak nadal było to przyczyną.
+
+802
+01:02:30,000 --> 01:02:32,000
+{Shinji}      Nie...
+
+803
+01:02:34,000 --> 01:02:36,000
+{Shinji}      To nie może być prawda!
+
+804
+01:02:36,000 --> 01:02:38,000
+{Shinji}      To dla mnie za dużo! 
+
+805
+01:02:38,000 --> 01:02:39,000
+{Shinji}      Nic nie mogę zrobić!
+
+806
+01:02:39,000 --> 01:02:40,000
+{Kaworu}      Masz rację.
+
+807
+01:02:40,000 --> 01:02:42,000
+{Kaworu}      Nie ma sposobu aby zmienić twoją przeszłość.
+
+808
+01:02:44,000 --> 01:02:46,000
+{Kaworu}      To prawda której porządałeś.
+
+809
+01:02:47,000 --> 01:02:49,000
+{Kaworu}      W rezultacie, Lilin ukarał cię za twe grzechy.
+
+810
+01:02:52,000 --> 01:02:54,000
+{Kaworu}      Czyż to nie ta rzecz na twojej szyi?
+
+811
+01:02:57,000 --> 01:02:59,000
+{Shinji}      Moje grzechy?
+
+812
+01:02:59,000 --> 01:03:01,000
+{Shinji}      Ja nic nie zrobiłem!
+
+813
+01:03:01,000 --> 01:03:03,000
+{Shinji}      Nie mam z tym nic wspólnego!
+
+814
+01:03:03,000 --> 01:03:05,000
+{Kaworu}      Możesz temu zaprzeczać, jednak ludzkość spostrzega to inaczej.
+
+815
+01:03:07,000 --> 01:03:09,000
+{Kaworu}      Jednak nie ma grzechu którego nie można odkupić.
+
+816
+01:03:11,000 --> 01:03:13,000
+{Kaworu}      Zawsze jest nadzieja.
+
+817
+01:03:13,000 --> 01:03:15,000
+{Kaworu}      Bez względu na okoliczności.
+
+818
+01:03:32,000 --> 01:03:34,000
+{Fuyutsuki}   Dziecko SEELE nawiązało kontakt z Trzecim Dzieckiem.
+
+819
+01:03:36,000 --> 01:03:38,000
+{Fuyutsuki}   Wygląda na to, że pokazał mu zewnętrzny świat.
+
+820
+01:03:39,000 --> 01:03:41,000
+{Fuyutsuki}   Zastanawiam się, jak sobie z tym poradzi.
+
+821
+01:03:42,000 --> 01:03:44,000
+{Fuyutsuki}   Jesteś tego pewien, Ikari?
+
+822
+01:03:44,000 --> 01:03:46,000
+{Gendo}       Napiszemy scenariusz SEELE od nowa.
+
+823
+01:03:48,000 --> 01:03:50,000
+{Gendo}       Wszystko istniejące, jest narzędziem do tego celu.
+
+824
+01:03:51,000 --> 01:03:53,000
+{Fuyutsuki}   Więc uważasz, że twój syn nie skorzystałby na ujrzeniu twego życia?
+
+825
+01:03:57,000 --> 01:03:59,000
+{Fuyutsuki}   Muszę się nie zgodzić.
+
+826
+01:04:02,000 --> 01:04:04,000
+{Shinji}      Nie rozumiem.
+
+827
+01:04:05,000 --> 01:04:07,000
+{Shinji}      Czemu wszystko jest takie pokręcone?
+
+828
+01:04:12,000 --> 01:04:14,000
+{Shinji}      Udało mi się uratować Ayanami.
+
+829
+01:04:15,000 --> 01:04:17,000
+{Shinji}      Czy to nie wystarczy?
+
+830
+01:04:41,000 --> 01:04:43,000
+{Shinji}      Znów jej nie ma.
+
+831
+01:04:43,000 --> 01:04:45,000
+{Shinji}      Nadal nie tknęła książek.
+
+832
+01:04:47,000 --> 01:04:49,000
+{Shinji}      Nie rozumiem!
+
+833
+01:04:49,000 --> 01:04:51,000
+{Shinji}      Co jest z Ayanami?!
+
+834
+01:05:02,000 --> 01:05:04,000
+{Fuyutsuki}   Trzecie Dziecko, grasz w shogi?
+
+835
+01:05:06,000 --> 01:05:08,000
+{Shinji}      Eh... Znam jedynie zasady.
+
+836
+01:05:09,000 --> 01:05:11,000
+{Fuyutsuki}   To wystarczy. Zargrajmy więc.
+
+837
+01:05:12,000 --> 01:05:14,000
+{Fuyutsuki}   Zacznę bez wieży, gońca i złotego generała.
+
+838
+01:05:21,000 --> 01:05:23,000
+{Fuyutsuki}   Wycisz umysł.
+
+839
+01:05:25,000 --> 01:05:27,000
+{Fuyutsuki}   To istotne by wygrać bitwę.
+
+840
+01:05:28,000 --> 01:05:30,000
+{Fuyutsuki}   You'll lose in another thirty-one turns. Przegrywasz w trzydziestu jeden ruchach.
+
+841
+01:05:33,000 --> 01:05:35,000
+{Fuyutsuki}   Hmm...
+
+842
+01:05:40,000 --> 01:05:42,000
+{Fuyutsuki}   Może w ten sposób znajdziesz więcej zabawy.
+
+843
+01:05:44,000 --> 01:05:46,000
+{Fuyutsuki}   Dziękuje ci za oddanie się hobby starca.
+
+844
+01:05:52,000 --> 01:05:54,000
+{Fuyutsuki}   Widzisz, ja też jestem raczej nieśmiały.
+
+845
+01:05:54,000 --> 01:05:56,000
+{Fuyutsuki}   Potrzebowałem tej wymówki, żeby mieć szansę na rozmowę.
+
+846
+01:05:59,000 --> 01:06:01,000
+{Fuyutsuki}   Pamiętasz swoją matkę?
+
+847
+01:06:03,000 --> 01:06:05,000
+{Shinji}      Nie. Byłem za mały.
+
+848
+01:06:07,000 --> 01:06:09,000
+{Shinji}      Ojciec pozbył się wszystkiego co do niej należało.
+
+849
+01:06:16,000 --> 01:06:18,000
+{Shinji}      Czy to...
+
+850
+01:06:19,000 --> 01:06:21,000
+{Shinji}      Ayanami?
