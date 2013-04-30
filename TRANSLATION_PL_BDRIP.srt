@@ -3401,9 +3401,405 @@ Suzuhara Toji
 01:06:19,000 --> 01:06:21,000
 {Shinji}      Ayanami?
 
+851
+01:06:22,000 --> 01:06:23,000
+{Fuyutsuki}   Twoja stara.
+
+852
+01:06:23,000 --> 01:06:25,000
+{Fuyutsuki}   Z domu Ayanami Yui.
+
+853
+01:06:25,000 --> 01:06:27,000
+{Fuyutsuki}   Byłamoją studentką na uniwersytecie.
+
+854
+01:06:29,000 --> 01:06:31,000
+{Fuyutsuki}   Obecnie jest systemem sterowania jednostką EVA-01.
+
+855
+01:06:36,000 --> 01:06:38,000
+{Fuyutsuki}   Hm. Moc została w końcu przywrócona.
+
+856
+01:06:42,000 --> 01:06:44,000
+{Fuyutsuki}   Systemem sterowania z wczesnego etapu rozwoju Ev.
+
+857
+01:06:46,000 --> 01:06:48,000
+{Fuyutsuki}   Here, Yui-kun zaproponowała bezpośrednie połączenie ze rdzeniami...
+
+858
+01:06:50,000 --> 01:06:52,000
+{Fuyutsuki}   ...i sprawdziła to na sobie.
+
+859
+01:06:54,000 --> 01:06:56,000
+{Fuyutsuki}   Też to widziałeś. Twoje wspomnienia musiały zostać wymazane.
+
+860
+01:07:04,000 --> 01:07:06,000
+{Fuyutsuki}   W efekcie eksperymentu Yui-kun zniknęła tutaj,
+
+861
+01:07:08,000 --> 01:07:10,000
+{Fuyutsuki}   i tylko jej dane zostały przywrócone, w serii Ayanami.
+
+862
+01:07:12,000 --> 01:07:14,000
+{Fuyutsuki}    Rei jest, jak wiesz, jednym z klonów Yui-kun.
+
+863
+01:07:17,000 --> 01:07:19,000
+{Fuyutsuki}   Zachowała się wewnątrz Evy-01, tak jak twoja matka.
+
+864
+01:07:22,000 --> 01:07:24,000
+{Fuyutsuki}   To wszystko plan Ikariego.
+
+865
+01:07:26,000 --> 01:07:28,000
+{Shinji}      Niemożliwe...
+
+866
+01:07:29,000 --> 01:07:31,000
+{Fuyutsuki}   Zniszczenie świata nie jest ciężkie.
+
+867
+01:07:33,000 --> 01:07:35,000
+{Fuyutsuki}   Ale odbudowanie go - już tak.
+
+868
+01:07:37,000 --> 01:07:39,000
+{Fuyutsuki}   Świat może się wywrócić nie więcej niż raz.
+
+869
+01:07:41,000 --> 01:07:43,000
+{Fuyutsuki}   Ani ludzkie serce...
+
+870
+01:07:44,000 --> 01:07:46,000
+{Fuyutsuki}   Tak więc, jego życzenie może się spełnić.
+
+871
+01:07:47,000 --> 01:07:49,000
+{Fuyutsuki}   Ikari zapłaci każdą cenę.
+
+872
+01:07:50,000 --> 01:07:52,000
+{Fuyutsuki}   Jest gotów sprzedać duszę.
+
+873
+01:07:53,000 --> 01:07:55,000
+{Fuyutsuki}   Przekazałem ci część prawdy,
+
+874
+01:07:56,000 --> 01:07:58,000
+{Fuyutsuki}   Również o twoim ojcu...
+
+875
+01:08:10,000 --> 01:08:12,000
+{Fuyutsuki}   Mogłem dostać milsze zadanie.
+
+876
+01:08:13,000 --> 01:08:15,000
+{Fuyutsuki}   Yui-kun, to trzeba zrobić.
+
+877
+01:08:24,000 --> 01:08:26,000
+{Gendo}       Czas ostatecznero rozliczenia się zbliża.
+
+878
+01:08:29,000 --> 01:08:31,000
+{Gendo}       Spotkamy się w krótce Yui.
+
+879
+01:08:40,000 --> 01:08:42,000
+{Shinji}      Dlaczego nie czytasz książek.
+
+880
+01:08:45,000 --> 01:08:47,000
+{Rei}         To nie był twój rozkaz.
+
+881
+01:08:47,000 --> 01:08:49,000
+{Shinji}      "Rozkaz"...?
+
+882
+01:08:49,000 --> 01:08:51,000
+{Shinji}      Dobra, starczy!
+
+883
+01:08:54,000 --> 01:08:56,000
+{Shinji}      To wciąż ty Ayanami?
+
+884
+01:08:57,000 --> 01:08:59,000
+{Rei}         Tak, Ayanami Rei.
+
+885
+01:09:00,000 --> 01:09:02,000
+{Shinji}      Więc, uratowałem cię tak...?
+
+886
+01:09:04,000 --> 01:09:06,000
+{Rei}         ..Nie wiem.
+
+887
+01:09:13,000 --> 01:09:15,000
+{Rei}         Ikari-kun...?
+
+888
+01:09:20,000 --> 01:09:22,000
+{Shinji}      Więc, Ja jej nie uratowałem?
+
+889
+01:09:24,000 --> 01:09:26,000
+{Shinji}      Ayanami...
+
+890
+01:09:26,000 --> 01:09:28,000
+{Misato}      Nic nie rób.
+
+891
+01:09:30,000 --> 01:09:30,800
+{Rei}         Nie wiem.
+
+892
+01:09:30,000 --> 01:09:32,000
+{Asuka}       Nic ci do tego.
+
+893
+01:09:32,000 --> 01:09:34,000
+{Gendo}       Pilotuj EVę.
+
+894
+01:09:36,000 --> 01:09:38,000
+{Sakura}      Cokolwiek zrobisz, ale nie pilotuj EVy.
+
+895
+01:09:38,000 --> 01:09:40,000
+{Misato}      Nic nie rób.
+
+896
+01:09:41,000 --> 01:09:42,000
+{Asuka}       Nic ci do tego.
+
+897
+01:09:42,000 --> 01:09:43,000
+{Gendo}       Pilotuj EVę.
+
+898
+01:09:43,000 --> 01:09:45,000
+{Asuka}       Nic ci do tego.
+
+899
+01:09:45,000 --> 01:09:47,000
+{Sakura}      Cokolwiek zrobisz, ale nie pilotuj EVy.
+
+900
+01:09:48,000 
+{Shinji}      Ojcze.
+
+901
+01:09:49,000 --> 01:09:50,000
+{Rei}         Nie wiem.
+
+902
+01:09:50,000 --> 01:09:51,000
+{Misato}      Nic nie rób.
+
+903
+01:09:51,000 --> 01:09:52,000
+{Gendo}       Pilotuj EVę.
+
+904
+01:09:52,000 --> 01:09:53,000
+{Asuka}       Nic ci do tego.
+
+905
+01:09:53,000 --> 01:09:54,000
+{Sakura}      Cokolwiek zrobisz, ale nie pilotuj EVy.
+
+906
+01:09:54,000 --> 01:09:55,000
+{Misato}      Nic nie rób.
+
+907
+01:09:55,000 --> 01:09:55,800
+{Gendo}       Pilotuj EVę.
+
+908
+01:09:55,000 --> 01:09:57,000
+{Asuka}       Nic ci do tego.
+
+909
+01:09:57,000 --> 01:09:57,800
+{Misato}      Nic nie rób.
+
+910
+01:09:57,000 --> 01:09:58,000
+{Rei}         Nie wiem.
+
+911
+01:09:58,000 --> 01:10:00,000
+{Asuka}       Nic ci do tego.
+
+912
+01:10:00,000 --> 01:10:01,000
+{Gendo}       Pilotuj EVę.
+
+913
+01:10:01,000 --> 01:10:02,000
+{Misato}      Nic nie rób.
+
+914
+01:10:02,000 --> 01:10:02,800
+{Rei}         Nie wiem.
+
+915
+01:10:02,000 --> 01:10:03,000
+{Asuka}       ...twoja sprawa.
+
+916
+01:10:03,000 --> 01:10:04,000
+{Rei}         Nie wiem.
+
+917
+01:10:04,000 --> 01:10:05,000
+{Asuka}       Nic ci do tego.
+
+918
+01:10:05,000 --> 01:10:07,000
+{Sakura}      Cokolwiek zrobisz, ale nie pilotuj EVy.
+
+919
+01:10:08,000 --> 01:10:09,000
+{Rei}         Nie wiem.
+
+920
+01:10:09,000 --> 01:10:11,000
+{Gendo}       Pilotuj EVę.
+
+921
+01:10:17,000 --> 01:10:19,000
+{Shinji}      Co powinienem zrobić.
+
+922
+01:10:56,000 --> 01:10:58,000
+{Fuyutsuki}   Czy ostateczny egzekutor jest ukończony.
+
+923
+01:10:59,000 --> 01:11:01,000
+{Gendo}       Tak, wszystko co potrzebujemy jest na miejscu.
+
+924
+01:11:05,000 --> 01:11:07,000
+{Kaworu}      Wypełniły się dni i czas jest bliski.
+
+925
+01:11:08,000 --> 01:11:10,000
+{Kaworu}      Zaprawdę, zaprawdę powiad ci Ikari Shinji-kun TAK.
+
+926
+01:11:11,000 --> 01:11:13,000
+{Shinji}      NIE!
+
+927
+01:11:14,000 --> 01:11:16,000
+{Shinji}      Nie chcę już nigdy pilotować EVy.
+
+928
+01:11:16,000 --> 01:11:18,000
+{Shinji}      Nawet nie uratowałem Ayanami.
+
+929
+01:11:19,000 --> 01:11:21,000
+{Shinji}      Z tego nic nie będzie!
+
+930
+01:11:22,000 --> 01:11:24,000
+{Shinji}      Wystarczająco duzo już przeżyłem. Zostawcie mnie.
+
+931
+01:11:25,000 --> 01:11:27,000
+{Kaworu}      Rozpamiętywanie tragedii utrudnia zrobienie czegoś dobrego.
+
+932
+01:11:33,000 --> 01:11:35,000
+{Shinji}      Nic nigdy nie jest dobre!
+
+933
+01:11:35,000 --> 01:11:37,000
+{Shinji}      Jesteś tym który mi to uzmysłowił, Kaworu.
+
+934
+01:11:38,000 --> 01:11:40,000
+{Shinji}      To świat w którym nic nie mogę zrobić.
+
+935
+01:11:41,000 --> 01:11:43,000
+{Kaworu}      To co zostało zmienione przez Evangliarz może zostać odmienione tylko przez Evangeliarz.
+
+936
+01:11:46,000 --> 01:11:48,000
+{Shinji}      Mówisz, ale mój ojciec, Eva, Misato-san...
+
+937
+01:11:48,000 --> 01:11:50,000
+{Shinji}      Nie potrafię uwierzyć w nic i w nikogo.
+
+938
+01:11:52,000 --> 01:11:54,000
+{Kaworu}      Jednakże, chcę żebyś mi uwierzył.
+
+939
+01:11:55,000 --> 01:11:57,000
+{Shinji}      Nie potrafię!
+
+940
+01:11:58,000 --> 01:12:00,000
+{Shinji}      Misato-san załóż to na mnie.
+
+941
+01:12:02,000 --> 01:12:04,000
+{Shinji}      Nigdy więcej nie pilotuj EVy mówili, będzie fajnie, mówili.
+
+942
+01:12:04,000 --> 01:12:06,000
+{Shinji}      Powiedzieli, że jak sprubuję, to umrę.
+
+943
+01:12:08,000 --> 01:12:10,000
+{Shinji}      Nie przejmuję się już Evą.
+
+944
+01:12:18,000 --> 01:12:19,000
+{Kaworu}      Rozumiem.
+
+945
+01:12:19,000 --> 01:12:21,000
+{Kaworu}      Będę dźwigał brzemię klątwy Lilin oraz ryzyko przebudzenia Ev, dla ciebie.
+
+946
+01:12:30,000 --> 01:12:32,000
+Nagisa-kun...
+
+947
+01:12:33,000 --> 01:12:35,000
+{Kaworu}      Nie musisz się martwić.
+
+948
+01:12:35,000 --> 01:12:37,000
+{Kaworu}      Bazowo byłem czymś stworzonym przez Lilin, która bała się mnie.
+
+949
+01:12:38,000 --> 01:12:40,000
+{Kaworu}      Przeznaczonym do zrobienia tego w pewnym momencie.
+
 950
 01:12:43,000 --> 01:12:45,000
-{Kaworu}      Ikari Shinji-kun, twoja jedyna nadzieja leży w dwóch Włóczniach pozostałych w Centralnym Dogmacie.
+{Kaworu}      Ikari Shinji-kun, twoja nadzieja leży w dwóch włóczniach pozostalych w epicentrum dogmatu.
 
 951
 01:12:50,000 --> 01:12:52,000
