@@ -2205,11 +2205,393 @@ Evangelion New Theatrical Version
 00:40:05,000 --> 00:40:07,000
 {Sakura}      Ikari-san, tędy!
 
+552
+00:40:07,000 --> 00:40:09,000
+{Rei}         Ikari-kun, gdzie jesteś?
 
+553
+00:40:10,000 --> 00:40:12,000
+{Shinji}      To naprawdę Ayanami.
+
+554
+00:40:13,000 --> 00:40:15,000
+{Shinji}      To Ayanami!
+
+555
+00:40:15,000 --> 00:40:17,000
+{Sakura}      Ikari-san! Szybko!
+
+556
+00:40:20,000 --> 00:40:22,000
+{Shinji}      Wystarczy.
+
+557
+00:40:22,000 --> 00:40:24,000
+{Shinji}      Ayanami, jestem tutaj!
+
+558
+00:40:37,000 --> 00:40:39,000
+{Shinji}      EVA... jednostka 00.
+
+559
+00:40:39,000 --> 00:40:41,000
+{Rei}         Ikari-kun...
+
+560
+00:40:41,000 --> 00:40:43,000
+{Rei}         Chodź tędy.
+
+561
+00:40:44,000 --> 00:40:46,000
+{Misato}      Nie rób tego, Shinji-kun.
+
+562
+00:40:46,000 --> 00:40:47,000
+{Misato}      Po prostu zostań tutaj.
+
+563
+00:40:47,000 --> 00:40:49,000
+{Shinji}      O co z tym chodzi, Misato-san?
+
+564
+00:40:50,000 --> 00:40:52,000
+{Shinji}      Nie mówiłaś dopiero, że mnie nie potrzebujesz?
+
+565
+00:40:52,000 --> 00:40:54,000
+{Misato}      Mimo wszystko, będziesz pod naszą opieką.
+
+566
+00:40:54,000 --> 00:40:56,000
+{Misato}      To zbyt egoistyczne!
+
+567
+00:41:02,000 --> 00:41:02,800
+{Shinji}      Proszę przestań!
+
+568
+00:41:02,000 --> 00:41:04,000
+{Shinji}      Cel to EVA!
+
+569
+00:41:04,000 --> 00:41:06,000
+{Misato}      Zaprawdę.
+
+570
+00:41:06,000 --> 00:41:08,000
+{Misato}      Unicestwimy wszystkie jednostki Nervu.
+
+571
+00:41:08,000 --> 00:41:10,000
+{Shinji}      Nerv...
+
+572
+00:41:10,000 --> 00:41:11,000
+{Shinji}      To nie Nerv, co?
+
+573
+00:41:11,000 --> 00:41:13,000
+{Misato}      Nawzywamy się Wille, organizacja mająca na celu zniszczenie Nervu.
+
+574
+00:41:16,000 --> 00:41:18,000
+{Shinji}      To...
+
+575
+00:41:18,000 --> 00:41:20,000
+{Shinji}      Nie, ale jest pilotowana przez Ayanami!
+
+576
+00:41:21,000 --> 00:41:22,000
+{Misato}      To nie ona!
+
+577
+00:41:22,000 --> 00:41:24,000
+{Misato}      Rei już nie ma, Shinji-kun.
+
+578
+00:41:24,000 --> 00:41:25,000
+{Shinji}      Kłamiesz!
+
+579
+00:41:25,000 --> 00:41:27,000
+{Shinji}      Chodzi Ci o to że jej tutaj nie ma, prawda?!
+
+580
+00:41:27,000 --> 00:41:29,000
+{Shinji}      Odwaliło ci, Misato-san!
+
+581
+00:41:29,000 --> 00:41:31,000
+{Shinji}      Miałam dość!
+
+582
+00:41:33,000 --> 00:41:35,000
+{Sakura}      Ikari-san!
+
+583
+00:41:36,000 --> 00:41:38,000
+{Sakura}      Możesz zawrócić, ale...
+
+584
+00:41:38,000 --> 00:41:40,000
+{Sakura}      Tylko nie pilotuj Evy!
+
+585
+00:41:40,000 --> 00:41:42,000
+{Sakura}      Naprawd chciałabym ci wybaczyć.
+
+586
+00:41:52,000 --> 00:41:53,000
+{Asuka}       Okularnico, nie daj temu uciec!
+
+587
+00:41:53,000 --> 00:41:55,000
+{Mari}        Głośno i wyraźnie!
+
+588
+00:41:57,000 --> 00:41:59,000
+{Mari}        Kiedy obierasz cel...
+
+589
+00:41:59,000 --> 00:42:01,000
+{Mari}        Uważaj żebyś nie chybił...
+
+590
+00:42:04,000 --> 00:42:06,000
+{Mari}        No dawaj!
+
+591
+00:42:11,000 --> 00:42:13,000
+{Mari}        Dobra!
+
+592
+00:42:18,000 --> 00:42:20,000
+{Mari}        Wiedziałam! To pojemnik Adama?
+
+593
+00:42:26,000 --> 00:42:28,000
+{Mari}        Przynajmniej powiedz "cześć" czy coś w tym stylu!
+
+594
+00:42:31,000 --> 00:42:33,000
+{Ritsuko}     Fakt że przejął priorytet od Evy-01,
+
+595
+00:42:34,000 --> 00:42:36,000
+{Ritsuko}     oznacza, że ciągle jest potencjalnym wyzwalaczem!
+
+596
+00:42:36,000 --> 00:42:38,000
+{Ritsuko}     Misato! Użyj obroży DSS!
+
+597
+00:42:53,000 --> 00:42:55,000
+{Ritsuko}     Rozkaz bezpośredni oficera naczelnego.
+
+598
+00:42:55,000 --> 00:42:56,000
+{Misato}      Pościg niepotrzebny.
+
+599
+00:42:56,000 --> 00:42:58,000
+{Misato}      Cały personel, powrócić do sprawdzania stanu obrażeń i kamuflażu.
+
+600
+00:43:00,000 --> 00:43:01,000
+{Mężczyzna}   Przyjąłem.
+
+601
+00:43:01,000 --> 00:43:03,000
+{Man} Pościg niepotrzebny.
+
+602
+00:43:03,000 --> 00:43:04,000
+{Mężczyzna}   Cały personel, powrócić do sprawdzania stanu obrażeń i kamuflażu.
+
+603
+00:43:04,000 --> 00:43:05,000
+{Asuka}       Co ty tam wiesz?
+
+604
+00:43:05,000 --> 00:43:07,000
+{Asuka}       Nie jest idiotą, tylko bachorem!
+
+605
+00:43:25,000 --> 00:43:27,000
+{Shinji}      W końcu ją uratowałem.
+
+606
+00:43:27,000 --> 00:43:29,000
+{Shinji}      Misato-san to kłamca.
+
+607
+00:43:30,000 --> 00:43:32,000
+{Rei}         Tędy.
+
+608
+00:43:57,000 --> 00:43:59,000
+{Shinji}      Mimo że to Geofront, widać tutaj niebo.
+
+609
+00:44:09,000 --> 00:44:11,000
+{Shinji}      Czy to... główna kwatera Nervu?
+
+610
+00:44:13,000 --> 00:44:15,000
+{Shinji}      Co się stało?
+
+611
+00:44:45,000 --> 00:44:47,000
+{Shinji}      Naprawdę mineło 14 lat.
+
+612
+00:45:24,000 --> 00:45:26,000
+{Rei}         Tutaj.
+
+613
+00:45:28,000 --> 00:45:30,000
+{Shinji}      Co się stało?
+
+614
+00:45:31,000 --> 00:45:32,000
+{Shinji}      To Eva...?
+
+615
+00:45:32,000 --> 00:45:34,000
+{Gendo}       Tak.
+
+616
+00:45:37,000 --> 00:45:39,000
+{Shinji}      Ojcze...
+
+617
+00:45:39,000 --> 00:45:41,000
+{Gendo}       Evangelion 13.
+
+618
+00:45:41,000 --> 00:45:43,000
+{Gendo}       Jednostka dla ciebie i tamtego pilota.
+
+619
+00:45:46,000 --> 00:45:48,000
+{Shinji}      Pryed chwią, to pianino...
+
+620
+00:45:49,000 --> 00:45:51,000
+{Gendo}       Kiedy nadejdzie czas, popilotujesz tę Evę razem z tym chłopcem.
+
+621
+00:45:54,000 --> 00:45:56,000
+{Gendo}       Skończyliśmy rozmowę.
+
+622
+00:45:57,000 --> 00:45:58,000
+{Shinji}      Czekaj chwilę, tato!
+
+623
+00:45:58,000 --> 00:46:00,000
+{Shinji}      Ciągle mam wiele pytań, rzeczy, o których chciałbym porozmawiać!
+
+624
+00:46:02,000 --> 00:46:04,000
+{Shinji}      Tato!
+
+625
+00:46:13,000 --> 00:46:15,000
+{Shinji}      Nie ma sygnału wybierania,
+
+626
+00:46:15,000 --> 00:46:17,000
+{Shinji}      czyli nie mogę się z nikim skontaktować.
+
+627
+00:46:38,000 --> 00:46:40,000
+{Shinji}      W końcu muszę jej podziękować.
+
+628
+00:46:51,000 --> 00:46:53,000
+{Shinji}      Ayanami!
+
+629
+00:46:55,000 --> 00:46:57,000
+{Shinji}      Gdzie jesteś, Ayanami?
+
+630
+00:46:59,000 --> 00:47:01,000
+{Shinji}      Ayanami!
+
+631
+00:47:35,000 --> 00:47:37,000
+{Shinji}      To dziwne, to miejsce to...
+
+632
+00:47:39,000 --> 00:47:40,000
+{Shinji}      Ayanami?!
+
+633
+00:47:40,000 --> 00:47:42,000
+{Shinji}      Tutaj jesteś!
+
+634
+00:47:44,000 --> 00:47:45,000
+{Shinji}      Ayanami!
+
+635
+00:47:45,000 --> 00:47:46,000
+{Shinji}      Szukałem ciebie!
+
+636
+00:47:46,000 --> 00:47:48,000
+{Shinji}      Czekaj!
+
+637
+00:47:49,000 --> 00:47:51,000
+{Shinji}      Ubrania! Ubierz się w coś!
+
+638
+00:47:53,000 --> 00:47:55,000
+{Rei}         Jeśli to rozkaz, wykonam go.
+
+639
+00:47:57,000 --> 00:47:59,000
+{Shinji}      Wchodzę...
+
+640
+00:48:02,000 --> 00:48:04,000
+{Shinji}      Ayanami, dziękuję za to.
+
+641
+00:48:08,000 --> 00:48:10,000
+{Shinji}      Chciałem ci podziękować od jakiegoś czasu.
+
+642
+00:48:18,000 --> 00:48:20,000
+{Shinji}      Twój strój jest naprawiony.
+
+643
+00:48:21,000 --> 00:48:23,000
+{Shinji}      Pasuje ci. Chociarz czarny to trochę...
+
+644
+00:48:30,000 --> 00:48:32,000
+{Shinji}      Główna kwatera Nervu dużo się zmieniła, nie?
+
+645
+00:48:37,000 --> 00:48:39,000
+{Shinji}      Czemu Misato-san walczy przeciw Nervowi, a nie aniołom?
+
+646
+00:48:42,000 --> 00:48:44,000
+{Shinji}      Co ojciec chce tu zrobić?
+
+647
+00:48:45,000 --> 00:48:47,000
+{Shinji}      Co się stało z wszystkimi?
 
 648
 00:48:47,000 --> 00:48:49,000
-{Shinji}      Hej, Ayanami, wiesz coś?
+{Shinji}      Ej, Ayanami, wiesz cokolwiek?
 
 649
 00:48:51,000 --> 00:48:52,000
