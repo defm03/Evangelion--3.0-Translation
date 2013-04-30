@@ -3818,4 +3818,402 @@ Suzuhara Toji
 01:25:09,000 --> 01:25:11,000
 {Shinji}      Anioł?!
 
+1101
+01:25:19,000 --> 01:25:21,000
+{Mari}        Księżniczko, przestań tracić pociski.
 
+1102
+01:25:23,000 --> 01:25:25,000
+{Mari}        Cała ta rzecz jest rdzeniem.
+
+1103
+01:25:26,000 --> 01:25:28,000
+{Mari}        Same nic z tym nie zrobimy.
+
+1104
+01:25:30,000 --> 01:25:32,000
+{Mari}        Plus, interesuje mnie zobaczenie jak przerażające rzeczy
+
+1105
+01:25:33,000 --> 01:25:35,000
+{Mari}        będą miały miejce po pokonaniu ostatniego Anioła.
+
+1106
+01:25:35,000 --> 01:25:37,000
+{Mari}        Jesteś zmartwiona, co?
+
+1107
+01:25:41,000 --> 01:25:43,000
+{Rei}         Czy to...
+
+1108
+01:25:46,000 --> 01:25:48,000
+{Rei}         Czy to... ja?
+
+1109
+01:25:50,000 --> 01:25:52,000
+{Rei}         Czym ja jestem?
+
+1110
+01:25:55,000 --> 01:25:56,000
+{Shinji}      Kontrole nie działają!
+
+1111
+01:25:56,000 --> 01:25:58,000
+{Shinji}      Co się dzieje, Kaworu-kun?
+
+1112
+01:26:00,000 --> 01:26:02,000
+{Shinji}      Kaworu-kun!
+
+1113
+01:26:02,000 --> 01:26:04,000
+{Kaworu}      Nigdy nie myślałem że ja, Pierwszy Anioł,
+
+1114
+01:26:05,000 --> 01:26:07,000
+{Kaworu}      upadnę by zostać Trzynastym Aniołem...
+
+1115
+01:26:09,000 --> 01:26:11,000
+{Shinji}      O czym ty mówisz, Kaworu-kun?!
+
+1116
+01:26:13,000 --> 01:26:15,000
+{Kaworu}      Zatem oznacza to, że początek i koniec są jednym i tym samym.
+
+1117
+01:26:17,000 --> 01:26:19,000
+{Kaworu}      Tego oczekiwałem po Królu Lilin!
+
+1118
+01:26:20,000 --> 01:26:22,000
+{Kaworu}      Twoim ojcu!
+
+1119
+01:26:22,000 --> 01:26:24,000
+{Mari}        Niebieski typ krwi z DSS Chokera?
+
+1120
+01:26:24,000 --> 01:26:26,000
+{Mari}        Anolmalny Trzynasy?
+
+1121
+01:26:28,000 --> 01:26:30,000
+{Mari}        Więc to był cel Gendou-kun.
+
+1122
+01:26:33,000 --> 01:26:35,000
+{Gendo}       Czas na zmianę Zwojów znad Morza Martwego już nadszedł.
+
+1123
+01:26:38,000 --> 01:26:40,000
+{Gendo}       To jest pożegnanie.
+
+1124
+01:26:42,000 --> 01:26:44,000
+{Gendo}       Pomimo, że zmieniliście kształt swoich dusz,
+
+1125
+01:26:46,000 --> 01:26:48,000
+{Gendo}       wciąż jesteście stworzeniami które skosztowały Owocu Wiedzy.
+
+1126
+01:26:50,000 --> 01:26:52,000
+{Gendo}       Pomimo, że mogliście żyć wiecznie, 
+
+1127
+01:26:53,000 --> 01:26:55,000
+{Gendo}       nie możecie uciec przeznaczeniu śmierci, tak jak my.
+
+1128
+01:26:59,000 --> 01:27:01,000
+{Gendo}       W celu postępu ewolucji rasy obarczonej śmiercią,
+
+1129
+01:27:03,000 --> 01:27:05,000
+{Gendo}       wręczyliście nam dar cywilizacji.
+
+1130
+01:27:09,000 --> 01:27:11,000
+{Gendo}       Ludzka maniera nakazuje mi powiedzieć: Dziękuje.
+
+1131
+01:27:13,000 --> 01:27:15,000
+{Gendo}       Niech śmierć zwróci wasze dusze, tam gdzie należą.
+
+1132
+01:27:21,000 --> 01:27:23,000
+{Gendo}       Zrealizuje wieloletnie pragnienie, Projekt Dopełnienia Ludzkości,
+
+1133
+01:27:24,000 --> 01:27:26,000
+{Gendo}       jak i Zabójstwo Boga którego wszyscy porzuciliście.
+
+1134
+01:27:28,000 --> 01:27:30,000
+{Gendo}       Wszystko zapewnione.
+
+1135
+01:27:30,000 --> 01:27:32,000
+{Keel}        Nasze pragnienia przyniosły owoce.
+
+1136
+01:27:34,000 --> 01:27:35,000
+{Keel}        Dobrze.
+
+1137
+01:27:35,000 --> 01:27:37,000
+{Keel}        Już wszystko dobrze.
+
+1138
+01:27:38,000 --> 01:27:40,000
+{Keel}        Dopełnienie Ludzkości.
+
+1139
+01:27:40,000 --> 01:27:42,000
+{Keel}        Pragniemy uzupełnienia perfekcji ludzkości i pokojowego oczyszczenia dusz.
+
+1140
+01:28:15,000 --> 01:28:16,000
+{Asuka}       Cholera!
+
+1141
+01:28:16,000 --> 01:28:18,000
+{Asuka}       Wkracza w swoją pseudo-wyewoluowaną formę!
+
+1142
+01:28:18,000 --> 01:28:20,000
+{Mari}        Wygląda na to, że jeden z ocalałych Adamów...
+
+1143
+01:28:21,000 --> 01:28:23,000
+{Mari}        ...Obudził się!
+
+1144
+01:28:58,000 --> 01:29:00,000
+{Shinji}      Co się dzieje?
+
+1145
+01:29:13,000 --> 01:29:15,000
+{Shinji}      Co się tutaj dzieje?
+
+1146
+01:29:20,000 --> 01:29:22,000
+{Shinji}      To moja wina?
+
+1147
+01:29:23,000 --> 01:29:25,000
+{Shinji}      To dlatego, że wyciągnąłem włócznie?
+
+1148
+01:29:31,000 --> 01:29:33,000
+{Shinji}      Co to jest?
+
+1149
+01:29:33,000 --> 01:29:35,000
+{Kaworu}      To Czwarte Uderzenie.
+
+1150
+01:29:37,000 --> 01:29:39,000
+{Kaworu}      To rozpoczęcie rytuału.
+
+1151
+01:29:54,000 --> 01:29:55,000
+{Shinji}      Kaworu-kun...
+
+1152
+01:29:55,000 --> 01:29:57,000
+{Shinji}      Choker!
+
+1153
+01:30:04,000 --> 01:30:06,000
+{Shinji}      Misato-san?!
+
+1154
+01:30:08,000 --> 01:30:10,000
+{Misato}      Maksymalne pole AT!
+
+1155
+01:30:10,000 --> 01:30:12,000
+{Misato}      Zapieczętować w nim Eve!
+
+1156
+01:30:12,000 --> 01:30:14,000
+{Misato}      Załadować główne działa anmunicją z odskokiem dla równomiernego ostrzału!
+
+1157
+01:30:15,000 --> 01:30:17,000
+{Misato}      Zrobimy wszystko żeby zatrzymać Czwarte Uerzenie!
+
+1158
+01:30:17,000 --> 01:30:19,000
+{Misato}      Ognia!
+
+1159
+01:30:26,000 --> 01:30:28,000
+{Midori}      Trafienie! Bezpośrednie uszkodzenie głównych armat!
+
+1160
+01:30:28,000 --> 01:30:30,000
+{Misato}      Pojemniki Adama?!
+
+1161
+01:30:35,000 --> 01:30:37,000
+{Tama}        Centralne trafienie kadłuba! Zakres uszkodzenia nieznany!
+
+1162
+01:30:37,000 --> 01:30:39,000
+{Kobieta}     Moc wyjściowa spada. Problemy z kontrolą grawitacji!
+
+1163
+01:30:39,000 --> 01:30:41,000
+{Sumire}      Ster nie reaguje! 
+
+1164
+01:30:41,000 --> 01:30:43,000
+{Sumire}      Tracimy wysokość!
+
+1165
+01:30:52,000 --> 01:30:54,000
+{Tama}        Kolejne trafienie kadłuba! / Poważne uszkodzenia trzeciego pokładu!
+
+1166
+01:30:55,000 --> 01:30:57,000
+{Ritsuko}     Pojemniki Adama są prawdziwymi panami Wundera.
+
+1167
+01:30:57,000 --> 01:30:59,000
+{Ritsuko}     Chcą przejąć kontrole nad statkiem przez Jednostkę 01!
+
+1168
+01:31:06,000 --> 01:31:08,000
+{Rei}         Dlaczego połączenie nie jest przywrócone?
+
+1169
+01:31:14,000 --> 01:31:16,000
+{Mari}        O jejku!
+
+1170
+01:31:16,000 --> 01:31:18,000
+{Mari}        Nieźle się wpakowali.
+
+1171
+01:31:19,000 --> 01:31:21,000
+{Asuka}       Okularnica, zajmij się Evą bahora!
+
+1172
+01:31:21,000 --> 01:31:23,000
+{Asuka}       Pomogę Wunderowi z 02-Dash!
+
+1173
+01:31:23,000 --> 01:31:24,000
+{Mari}        Odbiór!
+
+1174
+01:31:24,000 --> 01:31:26,000
+{Midori}      Nie możemy pozbyć się Pojemników Adama!
+
+1175
+01:31:26,000 --> 01:31:28,000
+{Tama}        Nieznane dane infiltrują główny system kontroli!
+
+1176
+01:31:28,000 --> 01:31:30,000
+{Aoba}        Przejmuje kontrolę nad statkiem!
+
+1177
+01:31:52,000 --> 01:31:54,000
+{Asuka}       To nie fair! Śmiecie z SEELE.
+
+1178
+01:32:02,000 --> 01:32:04,000
+{Asuka}       Zmiana trybu!
+
+1179
+01:32:04,000 --> 01:32:06,000
+{Asuka}       Kod Potrójne Siedem!
+
+1180
+01:32:13,000 --> 01:32:14,000
+{Rei}         Kto?
+
+1181
+01:32:14,000 --> 01:32:16,000
+{Asuka}       Kim ty jesteś?!
+
+1182
+01:32:33,000 --> 01:32:35,000
+{Aoba}        Raport z stacji obserwacyjnej!
+
+1183
+01:32:35,000 --> 01:32:36,000
+{Aoba}        Jednostka 02-Dash atakuje Pojemniki Adama!
+
+1184
+01:32:36,000 --> 01:32:38,000
+{Misato}      Liczymy na ciebie, Asuka.
+
+1185
+01:32:57,000 --> 01:32:59,000
+{Rei}         Co zrobiłaby Ayanami Rei w tej sytuacji?
+
+1186
+01:33:00,000 --> 01:33:02,000
+{Asuka}       Nie wiem!
+
+1187
+01:33:07,000 --> 01:33:09,000
+{Asuka}       Rób co chcesz!
+
+1188
+01:33:18,000 --> 01:33:20,000
+{Asuka}       Mam rdzeń! / Cała ta rzecz jest rdzeniem?!
+
+1189
+01:33:21,000 --> 01:33:23,000
+{Asuka}       Nie mam czasu.
+
+1190
+01:33:23,000 --> 01:33:25,000
+{Asuka}       Przepraszam Jednostko 02!
+
+1191
+01:33:40,000 --> 01:33:42,000
+{Sumire}      System kontroli przywrócony!
+
+1192
+01:33:42,000 --> 01:33:43,000
+{Misato}      Cała naprzód!
+
+1193
+01:33:43,000 --> 01:33:45,000
+{Misato}      Ścigać Eve z pełną prędkością!
+
+1194
+01:33:45,000 --> 01:33:47,000
+{Ritsuko}     Kapitanie, musimy poczekać do wznowienia głównego silnika.
+
+1195
+01:33:49,000 --> 01:33:51,000
+{Misato}      Shinji-kun...
+
+1196
+01:34:11,000 --> 01:34:13,000
+{Shinji}      Czy to moja wina?
+
+1197
+01:34:15,000 --> 01:34:17,000
+{Shinji}      Ja...
+
+1198
+01:34:21,000 --> 01:34:23,000
+{Kaworu}      To nie twoja wina.
+
+1199
+01:34:24,000 --> 01:34:26,000
+{Kaworu}      To dlatego, że zostałem Trzynastym Aniołem.
+
+1200
+01:34:28,000 --> 01:34:30,000
+{Kaworu}      Jestem zapalnikiem.
