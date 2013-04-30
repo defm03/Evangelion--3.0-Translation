@@ -3607,8 +3607,195 @@ Suzuhara Toji
 
 1001
 01:17:44,000 --> 01:17:46,000
-{Kaworu}      Tak, Eva numer 6.
+{Kaworu}      Tak, jednostka 06.
 
+1002
+01:17:47,000 --> 01:17:49,000
+{kaworu}      Przerobiony na model autonomiczny,
+
+1003
+01:17:49,000 --> 01:17:51,000
+{kaworu}      eksploatowany przez Lilin doprowadził jednostkę do opłakanego stanu.
+
+1004
+01:17:57,000 --> 01:17:59,000
+{shinji}      Te rzeczy które ją przebijają... to nasze cele?
+
+1005
+01:18:01,000 --> 01:18:03,000
+{Kaworu}      Tak, włócznia Longinussa i Cassiusa. Do ich używania potrzeba dwóch dusz.
+
+1006
+01:18:09,000 --> 01:18:11,000
+{Kaworu}      To dlatego mamy tu miejsce na dwie osoby.
+
+1007
+01:18:13,000 --> 01:18:15,000
+{shinji}      W takim razie TAMTEN pilot nie mógłby mnie zastąpić?
+
+1008
+01:18:17,000 --> 01:18:19,000
+{Kaworu}      Nie, imitacja Lilin nie może być użyta.
+
+1009
+01:18:19,000 --> 01:18:21,000
+{Kaworu}      Umiejscowienie ich dusz jest inne.
+
+1010
+01:18:23,000 --> 01:18:25,000
+{Kaworu}      Cóż, zaczynajmy.
+
+1011
+01:18:32,000 --> 01:18:34,000
+{Kaworu}      Zaczekaj.
+
+1012
+01:18:34,000 --> 01:18:35,000
+{Kaworu}      Coś jest nie tak.
+
+1013
+01:18:35,000 --> 01:18:37,000
+{shinji}      Co się stało, Kaworu-kun?
+
+1014
+01:18:40,000 --> 01:18:41,000
+{Kaworu}      To nie tak...
+
+1015
+01:18:41,000 --> 01:18:43,000
+{Kaworu}      Obie włócznie mają podobny kaształt.
+
+1016
+01:18:45,000 --> 01:18:47,000
+{shinji}      Po prostu szybko je wyciągnijmy!
+
+1017
+01:18:47,000 --> 01:18:49,000
+{shinji}      To dlatego przyszliśmy tutaj w tej Evie.
+
+1018
+01:18:53,000 --> 01:18:55,000
+{shinji}      Co się dzieje?
+
+1019
+01:19:04,000 --> 01:19:06,000
+{shinji}      Eva-02?
+
+1020
+01:19:06,000 --> 01:19:08,000
+{shinji}      Asuka!
+
+1021
+01:19:09,000 --> 01:19:11,000
+{shinji}      Co tutaj robisz, Asuka?!
+
+1022
+01:19:14,000 --> 01:19:15,000
+{asuka}      Głupi Shinji?
+
+1023
+01:19:15,000 --> 01:19:17,000
+{asuka}      Czy ty pilotujesz Evę?
+
+1024
+01:19:17,000 --> 01:19:19,000
+{shinji}      Tak.
+
+1025
+01:19:19,000 --> 01:19:21,000
+{shinji}      Z jej pomocą zmienię świat!
+
+1026
+01:19:22,000 --> 01:19:24,000
+{Asuka}       Ty mały...
+
+1027
+01:19:24,000 --> 01:19:26,000
+{Asuka}       Jeśli tak, nie pilotuj!
+
+1028
+01:19:34,000 --> 01:19:35,000
+{Asuka}       Mari, zawsze się spóźniasz!
+
+1029
+01:19:35,000 --> 01:19:37,000
+{Mari}        Przepraszam!
+
+1030
+01:19:37,000 --> 01:19:39,000
+{Mari}        Pojemniku Adama,
+
+1031
+01:19:40,000 --> 01:19:42,000
+{Mari}        przynajmniej się ograniczaj.
+
+1032
+01:20:03,000 --> 01:20:05,000
+{Shinji}      Czemu interweniujesz, Asuka?
+
+1033
+01:20:05,000 --> 01:20:07,000
+{Shinji}      Czy to są nasze Włócznie Nadziei?
+
+1034
+01:20:10,000 --> 01:20:12,000
+{asuka}      Przestań... szukać... kłopotów!
+
+1035
+01:20:13,000 --> 01:20:14,000
+{asuka}      SHINJI TY SKURWYSYNU!
+
+1036
+01:20:14,000 --> 01:20:16,000
+{asuka}      Czy znowu próbujesz wyzwolić Trzecie Zderzenie!
+
+1037
+01:20:16,000 --> 01:20:18,000
+{Shinji}      Nie masz racji!
+
+1038
+01:20:18,000 --> 01:20:20,000
+{Shinji}      Chcę wszystko naprawić!
+
+1039
+01:20:21,000 --> 01:20:23,000
+{Shinji}      Próbuję uratować świat.
+
+1040
+01:20:25,000 --> 01:20:27,000
+{asuka}      Naprawdę jesteś debilem.
+
+1041
+01:20:28,000 --> 01:20:30,000
+{Shinji}      Po prostu nie rozumiesz!
+
+1042
+01:20:39,000 --> 01:20:41,000
+{Shinji}      Kaworu, czemu nie pomagasz?
+
+1043
+01:20:43,000 --> 01:20:45,000
+{kaworu}      Cassius i Longinus. Potrzebujemy obydwu...
+
+1044
+01:20:48,000 --> 01:20:50,000
+{kaworu}      Ale te dwie włócznie są identyczne...
+
+1045
+01:20:52,000 --> 01:20:53,000
+{Shinji}      Kaworu-kun!
+
+1046
+01:20:53,000 --> 01:20:55,000
+{kaworu}      To jest to!
+
+1047
+01:20:55,000 --> 01:20:57,000
+{kaworu}      Teraz rozumiem,
+
+1048
+01:20:57,000 --> 01:20:59,000
+{kaworu}      Lilin!
 
 1049
 01:21:04,000 --> 01:21:06,000
