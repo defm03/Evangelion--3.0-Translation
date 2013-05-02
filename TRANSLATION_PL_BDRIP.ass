@@ -5,20 +5,1450 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-Video Zoom: 8
-Scroll Position: 0
-Active Line: 1
-Video Zoom Percent: 1
-YCbCr Matrix: TV.601
-Last Style Storage: Default
-Video Aspect Ratio: c1.77778
-Video Position: 15910
 Collisions: Normal
-Audio File: ?video
+PlayResX: 1920
+PlayResY: 816
+Video Zoom Percent: 1
+Scroll Position: 108
+Active Line: 1408
+YCbCr Matrix: TV.601
+Video Zoom: 6
+Last Style Storage: Default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Interstate,32,&H00FFFFFF,&H00070FA5,&H00000000,&H64000000,0,0,0,0,100,100,0,0,3,5,2,2,10,10,8,1
+Style: Default,Open Sans Condensed,47,&H00DBEEFF,&H000415E1,&H00392403,&H642A2A82,0,0,0,0,100,100,0,0,1,2.3,0.55,2,135,135,35,0
+Style: Default Up,Open Sans Condensed,45,&H00E9F6FF,&H000415E1,&H32392403,&H642A2A82,0,0,0,0,100,100,0,0,1,2,0.6,8,60,60,18,0
+Style: Alternate,Open Sans Condensed,47,&H00B8E0FF,&H000415E1,&H32392403,&H642A2A82,0,0,0,0,100,100,0,0,1,2,1.05,2,60,60,106,0
+Style: Default-2,Open Sans Condensed,40,&H00DBEEFF,&H000415E1,&H00392403,&H642A2A82,0,0,0,0,100,100,0,0,1,2.3,0.75,8,135,135,35,0
+Style: Sign-Q,FOT-MatisseEleganto Pro-CP B,134,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,60,100,0,0,1,0,0,5,15,15,15,1
+Style: Sign-Preview,FOT-MatisseEleganto Pro Q EB,134,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,5,15,15,15,1
+Style: Sign-Ayanami,Long Island,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,140,100,0,0,1,0,0,5,10,10,10,1
+Style: Sign-Touji,KG This Is Not Goodbye,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Crap-Credits,Salernomi J,30,&H00FDFDFD,&H000000FF,&H00FDFDFD,&H00000000,-1,0,0,0,100,110,0,0,1,0,0,2,10,10,10,0
+Style: Hallucinations-TL,Open Sans Condensed,48,&H00F4F0FE,&H000415E1,&H00000093,&H642A2A82,-1,0,0,0,85,100,0,0,1,3,0,7,60,60,35,0
+Style: Hallucinations-TR,Open Sans Condensed,48,&H00F4F0FE,&H000415E1,&H00000093,&H642A2A82,-1,0,0,0,85,100,0,0,1,3,0,9,60,60,35,0
+Style: Hallucinations-BR,Open Sans Condensed,48,&H00F4F0FE,&H000415E1,&H00000093,&H642A2A82,-1,0,0,0,85,100,0,0,1,3,0,3,60,60,32,0
+Style: Hallucinations-BL,Open Sans Condensed,48,&H00F4F0FE,&H000415E1,&H00000093,&H642A2A82,-1,0,0,0,85,100,0,0,1,3,0,1,60,60,32,0
+Style: Hallucinations-TC,Open Sans Condensed,48,&H00F4F0FE,&H000415E1,&H00000093,&H642A2A82,-1,0,0,0,85,100,0,0,1,3,0,8,60,60,35,0
+Style: Romaji,Kozuka Mincho Pr6N En B,50,&H00FFFFFF,&H00404040,&H00D1D1D1,&H00000000,0,0,0,0,100,120,0.75,0,1,0,0,7,50,50,10,1
+Style: Kanji,Kozuka Mincho Pr6N En B,35,&H00FFFFFF,&H00D2D2D2,&H00000000,&H00000000,0,0,0,0,100,120,0.75,0,1,0,0,7,50,50,70,1
+Style: English,Kozuka Mincho Pr6N En B,50,&H00FFFFFF,&H00D2D2D2,&H00000000,&H00000000,0,0,0,0,100,120,0.75,0,1,0,0,1,50,50,32,1
+Style: Block,Arial,20,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 3,1:21:24.82,1:21:27.65,Default,,0,0,0,,Bierz to!
+Dialogue: 3,0:11:00.31,0:11:03.61,Default,,0,0,0,,Oddział pościgowy, raportuj o pozycji obu jednostek.
+Dialogue: 3,0:11:03.61,0:11:06.50,Default,,0,0,0,,Jednostka 02-Dash osiągnęła wysokość operacyjną.
+Dialogue: 3,0:11:06.50,0:11:08.21,Default,,0,0,0,,Umieszczona na wyznaczonej orbicie.
+Dialogue: 3,0:11:08.21,0:11:12.26,Default,,0,0,0,,Jednostka 08 nie była w stanie przekroczyć planowanej orbity z uwagi na niedostateczną wysokość.
+Dialogue: 3,0:11:12.26,0:11:13.34,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:11:13.34,0:11:16.44,Default,,0,0,0,,Jednostka 02-Dash sama przeprowadzi operację.
+Dialogue: 3,0:11:16.44,0:11:17.50,Default,,0,0,0,,Zrozumiano.
+Dialogue: 3,0:11:17.50,0:11:19.12,Default,,0,0,0,,Jednostka 08 funkcjonuje jako wsparcie.
+Dialogue: 3,0:11:19.12,0:11:20.85,Default,,0,0,0,,Zmiana przejścia na Siedem.
+Dialogue: 3,0:11:20.85,0:11:23.61,Default,,0,0,0,,Jednostka 02-Dash jest poza punktem odzysku.
+Dialogue: 3,0:11:23.61,0:11:25.58,Default,,0,0,0,,Naruszenie Strefy 88.
+Dialogue: 3,0:11:25.58,0:11:26.33,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:11:26.33,0:11:28.66,Default,,0,0,0,,Rozpocząć operację US.
+Dialogue: 3,0:11:28.66,0:11:29.61,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:11:29.61,0:11:33.09,Default,,0,0,0,,Jednostka 02-Dash wkracza na końcową orbitę operacyjną.
+Dialogue: 3,0:11:33.09,0:11:35.71,Alternate,,0,0,0,,Ustawianie RCS, aktywacja potwierdzona.
+Dialogue: 3,0:11:33.09,0:11:34.74,Default,,0,0,0,,Zmniejszanie prędkości.
+Dialogue: 3,0:11:34.74,0:11:37.05,Default,,0,0,0,,Faza 1, start wszystkich silników.
+Dialogue: 3,0:11:35.71,0:11:38.16,Alternate,,0,0,0,,Brak problemów z systemem kontroli pozycji.
+Dialogue: 3,0:11:37.05,0:11:38.16,Default,,0,0,0,,Początek spalania.
+Dialogue: 3,0:11:42.17,0:11:44.48,Alternate,,0,0,0,,Pierścień kontaktowy gotowy na separację.
+Dialogue: 3,0:11:42.17,0:11:44.50,Default,,0,0,0,,Spalanie S1C zakończone.
+Dialogue: 3,0:11:44.48,0:11:46.45,Alternate,,0,0,0,,Ponowne potwierdzanie ustawienia RCS.
+Dialogue: 3,0:11:44.50,0:11:45.89,Default,,0,0,0,,Deakceleracja potwierdzona.
+Dialogue: 3,0:11:45.89,0:11:48.37,Default,,0,0,0,,Odłączanie jednostki dopalacza, faza 1.
+Dialogue: 3,0:11:46.45,0:11:48.37,Alternate,,0,0,0,,Wprowadzanie wartości zmiany masy.
+Dialogue: 3,0:11:49.91,0:11:51.21,Default,,0,0,0,,Odłączanie zakończone.
+Dialogue: 3,0:11:51.21,0:11:52.55,Default,,0,0,0,,Sprawdzanie sprzętu elektrycznego.
+Dialogue: 3,0:11:52.55,0:11:53.53,Default,,0,0,0,,Brak problemów.
+Dialogue: 3,0:11:53.53,0:11:54.63,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:11:54.63,0:11:56.28,Default,,0,0,0,,Automatyzacja czasu zapłonu.
+Dialogue: 3,0:11:56.28,0:11:58.16,Default,,0,0,0,,Zapłon wszystkich silników, faza 2.
+Dialogue: 3,0:12:02.07,0:12:05.04,Alternate,,0,0,0,,Drugi pierścień kontaktowy gotowy na separację.
+Dialogue: 3,0:12:02.08,0:12:04.05,Default,,0,0,0,,Spalanie S1C zakończone.
+Dialogue: 3,0:12:04.05,0:12:05.56,Default,,0,0,0,,Blokada zaworów ciśnieniowych.
+Dialogue: 3,0:12:05.04,0:12:07.76,Alternate,,0,0,0,,Ustawienie RCS potwierdzone.
+Dialogue: 3,0:12:05.56,0:12:07.76,Default,,0,0,0,,Odłączanie jednostki dopalacza, faza 2.
+Dialogue: 3,0:12:08.47,0:12:10.31,Default,,0,0,0,,Deakceleracja ukończona.
+Dialogue: 3,0:12:10.31,0:12:12.77,Default,,0,0,0,,Przygotowanie do wkroczenia na końcową orbitę operacyjną.
+Dialogue: 3,0:12:12.77,0:12:15.49,Default,,0,0,0,,Obrót jednostki. Rozpoczynanie rotacji.
+Dialogue: 3,0:12:15.49,0:12:18.29,Default,,0,0,0,,Kąt spadania potwierdzony z akceptowalnym marginesem błędu.
+Dialogue: 3,0:12:17.65,0:12:19.39,Alternate,,0,0,0,,Brak problemów z korekcją orbity.
+Dialogue: 3,0:12:18.29,0:12:19.39,Default,,0,0,0,,Ponowne obliczanie relatywnej prędkości.
+Dialogue: 3,0:12:19.39,0:12:22.56,Default,,0,0,0,,Ponowne potwierdzanie koordynat wysokości.
+Dialogue: 3,0:12:19.39,0:12:21.49,Alternate,,0,0,0,,Spadek pędu potwierdzony.
+Dialogue: 3,0:12:22.56,0:12:24.22,Default,,0,0,0,,Brak problemów.
+Dialogue: 3,0:12:24.22,0:12:26.24,Default,,0,0,0,,Finalne korekcje orbity.
+Dialogue: 3,0:12:26.24,0:12:28.39,Default,,0,0,0,,180-stopniowy obrót zakończony.
+Dialogue: 3,0:12:28.39,0:12:29.09,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:12:29.09,0:12:32.18,Default,,0,0,0,,Jednostka 02-Dash rozpocznie przejście na kurs przechwytujący.
+Dialogue: 3,0:12:32.18,0:12:34.36,Default,,0,0,0,,Rozpoczynanie operacji.
+Dialogue: 3,0:12:34.36,0:12:36.58,Default,,0,0,0,,Samonaprowadzanie zostaje odcięte.
+Dialogue: 3,0:12:36.58,0:12:38.18,Default,,0,0,0,,Jednostka będzie kontrolowana ręcznie.
+Dialogue: 3,0:12:38.18,0:12:38.94,Default,,0,0,0,,Powodzenia.
+Dialogue: 3,0:12:40.64,0:12:42.79,Default,,0,0,0,,Jednostka w drodze do spotkania z celem.
+Dialogue: 3,0:12:42.79,0:12:44.69,Default,,0,0,0,,Osiem mil do kontaktu.
+Dialogue: 3,0:12:45.38,0:12:46.92,Default,,0,0,0,,Potwierdzam cel.
+Dialogue: 3,0:12:46.92,0:12:48.49,Default,,0,0,0,,Punkt spotkania bez zmian.
+Dialogue: 3,0:12:48.49,0:12:50.69,Default,,0,0,0,,Utrzymywanie Shift-M. Brak problemów.
+Dialogue: 3,0:12:50.69,0:12:52.85,Default,,0,0,0,,02-Dash, przygotować się do rendezvous.
+Dialogue: 3,0:12:52.85,0:12:58.23,Default,,0,0,0,,08 traci wysokość więc może assystować ci jedynie 96 sekund przed ponownym wejściem.
+Dialogue: 3,0:12:58.23,0:13:00.23,Default,,0,0,0,,Zmieść się w czasie.
+Dialogue: 3,0:13:00.97,0:13:03.02,Default,,0,0,0,,Refleksyjne fale wykryte w przestrzeni obiektu.
+Dialogue: 3,0:13:03.02,0:13:04.19,Default,,0,0,0,,Zagłuszają nas!
+Dialogue: 3,0:13:04.19,0:13:06.54,Default,,0,0,0,,To tylko masowa broń systemu samoobrony.
+Dialogue: 3,0:13:06.54,0:13:07.44,Default,,0,0,0,,Bez obaw.
+Dialogue: 3,0:13:08.54,0:13:12.21,Default-2,,0,0,0,,Nie jestem sama, meow meow~
+Dialogue: 3,0:13:09.57,0:13:11.17,Default,,0,0,0,,Eksplozja rozproszyła falę! 
+Dialogue: 3,0:13:11.17,0:13:14.41,Default,,0,0,0,,Kontakt za 3... 2... 1...
+Dialogue: 3,0:13:12.21,0:13:15.67,Default-2,,0,0,0,,To wspaniałe, meow meow~
+Dialogue: 3,0:13:18.57,0:13:20.64,Default,,0,0,0,,Druga fala nadchodzi. Typ krwi: niebieski.
+Dialogue: 3,0:13:20.65,0:13:21.70,Default,,0,0,0,,Problematyczna zgraja.
+Dialogue: 3,0:13:21.70,0:13:23.53,Default,,0,0,0,,Identyfikowanie zbliżającego się ciała.
+Dialogue: 3,0:13:23.53,0:13:24.69,Default,,0,0,0,,Potwierdzony kod Mk.04A.
+Dialogue: 3,0:13:33.79,0:13:35.13,Default,,0,0,0,,Pole anty-AT!
+Dialogue: 3,0:13:39.89,0:13:41.39,Default,,0,0,0,,To bezużyteczne!
+Dialogue: 3,0:13:42.76,0:13:44.93,Default,,0,0,0,,Zbliża się w moim kierunku!
+Dialogue: 3,0:13:45.72,0:13:48.62,Default,,0,0,0,,Cholerna okularnico! Jakieś wsparcie!
+Dialogue: 3,0:13:48.62,0:13:49.65,Default,,0,0,0,,Jest strasznie denerwujący!
+Dialogue: 3,0:13:51.77,0:13:54.60,Default,,0,0,0,,Wsparcie ogniowe było spóźnione o 2 sekundy!
+Dialogue: 3,0:13:57.57,0:14:00.27,Default,,0,0,0,,A ty jesteś 3 sekundy za pozycją.
+Dialogue: 3,0:14:00.27,0:14:03.04,Default,,0,0,0,,To się nazywa adaptacja do sytuacji! Współpracuj!
+Dialogue: 3,0:14:03.04,0:14:04.94,Default,,0,0,0,,Rozkaz,
+Dialogue: 3,0:14:04.94,0:14:07.06,Default,,0,0,0,,Księżniczko!
+Dialogue: 3,0:14:13.79,0:14:15.41,Default,,0,0,0,,Przeszedł przez Fullerene Shift.
+Dialogue: 3,0:14:15.41,0:14:17.86,Default,,0,0,0,,Przebije się do granicznej lini obrony Obszaru 89.
+Dialogue: 3,0:14:18.93,0:14:20.78,Default,,0,0,0,,Obiekt w ruchu!
+Dialogue: 3,0:14:24.17,0:14:25.62,Default,,0,0,0,,Nie mam czasu poprawić orbitę!
+Dialogue: 3,0:14:25.62,0:14:26.85,Default,,0,0,0,,Wchodzę!
+Dialogue: 3,0:14:48.24,0:14:49.31,Default,,0,0,0,,Deakceleracja!
+Dialogue: 3,0:14:54.71,0:14:55.70,Default,,0,0,0,,Osiem!
+Dialogue: 3,0:14:55.70,0:14:56.31,Default,,0,0,0,,Siedem!
+Dialogue: 3,0:14:56.75,0:14:57.64,Default,,0,0,0,,Sześć!
+Dialogue: 3,0:14:57.64,0:14:58.31,Default,,0,0,0,,Pięć!
+Dialogue: 3,0:14:58.79,0:14:59.80,Default,,0,0,0,,Cztery!
+Dialogue: 3,0:14:59.80,0:15:00.80,Default,,0,0,0,,Trzy!
+Dialogue: 3,0:15:00.80,0:15:01.83,Default,,0,0,0,,Dwa!
+Dialogue: 3,0:15:01.83,0:15:02.52,Default,,0,0,0,,Jeden!
+Dialogue: 3,0:15:03.02,0:15:04.57,Default,,0,0,0,,Koniec spalania!
+Dialogue: 3,0:15:12.01,0:15:14.39,Default,,0,0,0,,02-Dash odrzucił ostatnie dopalacze.
+Dialogue: 3,0:15:14.39,0:15:16.61,Default,,0,0,0,,Zapewnie bezpiecznego dystansu do ponownego wejścia. 
+Dialogue: 3,0:15:16.61,0:15:20.15,Alternate,,0,0,0,,Błędy startu znajdują się w poprawialnym zakresie.
+Dialogue: 3,0:15:17.92,0:15:21.22,Default,,0,0,0,,Przechwycono cel z powodzeniem. Powrót.
+Dialogue: 3,0:15:21.22,0:15:21.98,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:15:21.98,0:15:23.72,Default,,0,0,0,,Będziemy czekać w punkcie odzysku.
+Dialogue: 3,0:15:23.72,0:15:25.57,Default,,0,0,0,,Kod wejścia to Saturn 5.
+Dialogue: 3,0:15:25.57,0:15:26.35,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:15:27.26,0:15:30.05,Default,,0,0,0,,Niebieski typ krwi? Gdzie?!
+Dialogue: 3,0:15:33.27,0:15:34.77,Default,,0,0,0,,Kod wywołanego obiektu to Mk.04B.
+Dialogue: 3,0:15:34.77,0:15:36.81,Default,,0,0,0,,Wytwarza powłokę reflektującą pole.
+Dialogue: 3,0:15:36.81,0:15:38.41,Default,,0,0,0,,Jaki tupet!
+Dialogue: 3,0:15:38.41,0:15:41.17,Default,,0,0,0,,Zaraz przed ponownym wejściem.
+Dialogue: 3,0:15:41.17,0:15:42.89,Default,,0,0,0,,Okularnica, wracaj!
+Dialogue: 3,0:15:43.85,0:15:44.89,Default,,0,0,0,,Przepraszam!
+Dialogue: 3,0:15:44.89,0:15:48.93,Default,,0,0,0,,Jestem za nisko, więc narka!
+Dialogue: 3,0:15:48.93,0:15:50.81,Default,,0,0,0,,Miłej zaba-!
+Dialogue: 3,0:15:50.81,0:15:52.31,Default,,0,0,0,,Ugh! Jest bezużyteczna!
+Dialogue: 3,0:15:52.67,0:15:54.44,Default,,0,0,0,,Cholera, ale on jest uparty!
+Dialogue: 3,0:15:54.44,0:15:56.18,Default,,0,0,0,,Nikt o tym nie wspominał!
+Dialogue: 3,0:16:07.64,0:16:09.18,Default,,0,0,0,,Co z tym światłem?!
+Dialogue: 3,0:16:09.18,0:16:11.77,Default,,0,0,0,,Pole AT nie neutralizuje go!
+Dialogue: 3,0:16:11.77,0:16:13.68,Default,,0,0,0,,Muszę zniszczyć blok rdzenia!
+Dialogue: 3,0:16:14.16,0:16:15.47,Default,,0,0,0,,Nie uciekniesz!
+Dialogue: 3,0:16:17.62,0:16:20.57,Default,,0,0,0,,Szlag! Nie mogę utrzymać kątu spadania!
+Dialogue: 3,0:16:20.57,0:16:22.72,Default,,0,0,0,,Jeszcze trochę i moja jednostka zostanie zgnieciona!
+Dialogue: 3,0:16:22.72,0:16:25.65,Default,,0,0,0,,02-Dash, ukończenie tej misji ma największy priorytet!
+Dialogue: 3,0:16:25.65,0:16:28.61,Default,,0,0,0,,Nie strać obiektu docelowego,\Nnawet jeśli oznaczałoby to stratę jednostki.
+Dialogue: 3,0:16:28.61,0:16:30.97,Default,,0,0,0,,To już wiem!
+Dialogue: 3,0:16:49.36,0:16:52.43,Default,,0,0,0,,Zrób coś, głupi Shinji!
+Dialogue: 3,0:17:30.79,0:17:33.19,Default,,0,0,0,,Witaj w domu, Ikari Shinji-kun.
+Dialogue: 3,0:17:34.16,0:17:35.05,Default,,0,0,0,,Czekałem na ciebie.
+Dialogue: 3,0:17:49.89,0:17:51.73,Default,,0,0,0,,Resuscytacyjne funkcje są nominalne.
+Dialogue: 3,0:17:51.73,0:17:54.35,Default,,0,0,0,,Brak dostrzegalnego paraliżu kończyn.
+Dialogue: 3,0:17:54.35,0:17:56.41,Default,,0,0,0,,Tak. Jego oczy się otwierają.
+Dialogue: 3,0:17:58.10,0:18:00.31,Default,,0,0,0,,Rozumiesz mnie?
+Dialogue: 3,0:18:03.41,0:18:05.80,Default,,0,0,0,,Co to za miejsce?
+Dialogue: 3,0:18:05.80,0:18:07.57,Default,,0,0,0,,Jest w stanie mówić.
+Dialogue: 3,0:18:07.57,0:18:09.25,Default,,0,0,0,,Powróciła jego przytomność.
+Dialogue: 3,0:18:10.73,0:18:14.06,Default,,0,0,0,,Czy ja nie... ratowałem Ayanami...
+Dialogue: 3,0:18:14.06,0:18:18.12,Default,,0,0,0,,Tak, ciągłość pamięci także zdaje się być akceptowalna.
+Dialogue: 3,0:18:18.88,0:18:20.97,Default,,0,0,0,,Um... gdzie jest Ayanami?
+Dialogue: 3,0:18:20.97,0:18:23.18,Default,,0,0,0,,Wiesz kim jest ta osoba?
+Dialogue: 3,0:18:26.22,0:18:28.25,Default,,0,0,0,,Ja.
+Dialogue: 3,0:18:28.98,0:18:30.56,Default,,0,0,0,,Jest także zdolny do samorozpoznania.
+Dialogue: 3,0:18:30.56,0:18:31.43,Default,,0,0,0,,Zdaje się, że nie ma problemów.
+Dialogue: 3,0:18:31.43,0:18:33.44,Default,,0,0,0,,Co to?
+Dialogue: 3,0:18:32.49,0:18:34.26,Alternate,,0,0,0,,Czy masz potrzebę oddania moczu? Jesteś głodny?
+Dialogue: 3,0:18:36.57,0:18:39.32,Alternate,,0,0,0,,Lista instalacji do  operacji ponownego napełnienia kompletna w 86%.
+Dialogue: 3,0:18:38.56,0:18:42.16,Default,,0,0,0,,Aktywny reaktor N2 utrzymuje 90% wydajności.
+Dialogue: 3,0:18:42.16,0:18:44.41,Alternate,,0,0,0,,Brak widocznych okrętów w okęgu parametru 1200.
+Dialogue: 3,0:18:42.69,0:18:45.14,Default,,0,0,0,,Otworzyć zawory ciśnieniowe manualnie.
+Dialogue: 3,0:18:44.41,0:18:46.61,Alternate,,0,0,0,,Także brak potwierdzenia dla niezidentyfikowanych obiektów latających.
+Dialogue: 3,0:18:45.14,0:18:46.61,Default,,0,0,0,,Nie martw się o kondensator.
+Dialogue: 3,0:18:46.61,0:18:49.79,Default,,0,0,0,,Nadać priorytet do transferu załogi okrętom w bloku D.
+Dialogue: 3,0:18:48.38,0:18:51.24,Alternate,,0,0,0,,Potrzebujemy więcej ludzi by przetransferować racje!
+Dialogue: 3,0:18:50.41,0:18:53.10,Default,,0,0,0,,Sprawdzanie gyrokompasu statków trzy i pięć.
+Dialogue: 3,0:18:51.24,0:18:52.34,Alternate,,0,0,0,,Pospieszyć się.
+Dialogue: 3,0:18:53.10,0:18:55.67,Default,,0,0,0,,Pomiar jest nieprecyzyjny. Żądanie rekalibracji.
+Dialogue: 3,0:18:54.51,0:18:56.97,Alternate,,0,0,0,,Uzbrajanie statków. Sprawdzanie trasy.
+Dialogue: 3,0:18:56.97,0:18:59.44,Default,,0,0,0,,Praca uzbrojenia 3% za planowaną.
+Dialogue: 3,0:19:01.26,0:19:04.24,Default,,0,0,0,,Przyprowadziliśmy okaz BM03!
+Dialogue: 3,0:19:04.24,0:19:05.42,Default,,0,0,0,,Dobrze.
+Dialogue: 3,0:19:05.42,0:19:06.60,Default,,0,0,0,,Wypuścić go.
+Dialogue: 3,0:19:08.44,0:19:09.59,Default,,0,0,0,,Możecie odejść.
+Dialogue: 3,0:19:19.97,0:19:22.77,Default,,0,0,0,,Ponowne sprawdzanie systemu sterniczego statku. Brak problemów.
+Dialogue: 3,0:19:33.40,0:19:35.25,Default,,0,0,0,,Misato-san...
+Dialogue: 3,0:19:36.18,0:19:37.81,Default,,0,0,0,,Ikari Shinji-kun.
+Dialogue: 3,0:19:37.81,0:19:38.81,Default,,0,0,0,,Mogę go tak nazywać?
+Dialogue: 3,0:19:38.81,0:19:40.48,Default,,0,0,0,,Tak.
+Dialogue: 3,0:19:40.48,0:19:44.64,Default,,0,0,0,,Jego dane fizyczne są identyczne z Kodem Trzeciego Dziecka. 
+Dialogue: 3,0:19:44.64,0:19:50.57,Default,,0,0,0,,Znamie po leczeniu stomatologicznym i skład\Ntkanek po urodzeniu został perfekcyjnie odtworzony.
+Dialogue: 3,0:19:51.03,0:19:54.67,Default,,0,0,0,,Analizujemy rezultaty testu jego poziomu synchronizacji.
+Dialogue: 3,0:19:54.67,0:19:56.89,Default,,0,0,0,,A aplikacja DSS-Chokera?
+Dialogue: 3,0:19:56.89,0:19:58.27,Default,,0,0,0,,Jego instalacja została zaaranżowana, 
+Dialogue: 3,0:19:58.71,0:19:59.65,Default,,0,0,0,,Kapitanie Katsuragi.
+Dialogue: 3,0:20:00.18,0:20:02.02,Default,,0,0,0,,Kapitanie Katsuragi?
+Dialogue: 3,0:20:02.77,0:20:04.49,Default,,0,0,0,,Naprawdę {\i1}jesteś{\i0\fscx130} {\r}Misato-san.
+Dialogue: 3,0:20:06.37,0:20:07.37,Default,,0,0,0,,Huh?
+Dialogue: 3,0:20:11.35,0:20:12.91,Default,,0,0,0,,Funkcjonuje.
+Dialogue: 3,0:20:12.91,0:20:15.11,Default,,0,0,0,,Kod dostępu ustawiony wyłącznie dla Kapitan.
+Dialogue: 3,0:20:15.11,0:20:15.76,Default,,0,0,0,,Zrozumiano.
+Dialogue: 3,0:20:18.89,0:20:21.13,Default,,0,0,0,,Co to jest?!
+Dialogue: 3,0:20:21.77,0:20:24.39,Default,,0,0,0,,Proszę, ściągnij to!
+Dialogue: 3,0:20:26.60,0:20:29.55,Default,,0,0,0,,Nigdy nie zostanie ściągnięty.
+Dialogue: 3,0:20:30.17,0:20:31.89,Default,,0,0,0,,Wywiad zakończony.
+Dialogue: 3,0:20:31.89,0:20:33.19,Default,,0,0,0,,Zabrać go pod kwarantanne.
+Dialogue: 3,0:20:35.81,0:20:38.28,Default,,0,0,0,,Przynęty 01 oraz 05 zniszczone.
+Dialogue: 3,0:20:38.28,0:20:39.69,Default,,0,0,0,,Niedomiar długości fali.
+Dialogue: 3,0:20:39.69,0:20:41.41,Default,,0,0,0,,Co to może być?
+Dialogue: 3,0:20:41.41,0:20:42.66,Default,,0,0,0,,Typ krwi: Niebieski!
+Dialogue: 3,0:20:42.66,0:20:44.17,Default,,0,0,0,,Obiekt zidentyfikowany.
+Dialogue: 3,0:20:44.17,0:20:45.36,Default,,0,0,0,,To Mk. 04C.
+Dialogue: 3,0:20:45.36,0:20:46.56,Default,,0,0,0,,To Seria Nemesis!
+Dialogue: 3,0:20:47.17,0:20:48.48,Default,,0,0,0,,Wróciły.
+Dialogue: 3,0:20:48.48,0:20:51.15,Alternate,,0,0,0,,Obiekt zidentyfikowany. To Mk. 04C.
+Dialogue: 3,0:20:48.48,0:20:50.52,Default,,0,0,0,,Ich atak jest trój-wymiarowy.
+Dialogue: 3,0:20:50.52,0:20:53.20,Default,,0,0,0,,Chcą rozpocząć od otoczenia nas.
+Dialogue: 3,0:20:53.20,0:20:55.98,Default,,0,0,0,,Nie możemy sobie teraz pozwolić na ruch.
+Dialogue: 3,0:20:55.98,0:20:57.68,Default,,0,0,0,,Kontynuować działanie jedynie głównego silnika.
+Dialogue: 3,0:20:58.53,0:21:00.85,Default,,0,0,0,,Cała flota do Drugiej Stacji Bojowej.{screen says Condition II but "Battle Stations Two" was used in 2.22}
+Dialogue: 3,0:21:00.85,0:21:03.57,Default,,0,0,0,,Cel: jednostki Serii Nemesis!
+Dialogue: 3,0:21:03.57,0:21:04.51,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:21:04.51,0:21:06.35,Default,,0,0,0,,Cała flota do Drugiej Stacji Bitewnej.
+Dialogue: 3,0:21:06.35,0:21:09.60,Default,,0,0,0,,Przygotować się na bitwę przeciw-powietrzną, na morzu i podwodną.
+Dialogue: 3,0:21:09.60,0:21:11.40,Default,,0,0,0,,Przerwać transport surowców.
+Dialogue: 3,0:21:11.40,0:21:12.88,Default,,0,0,0,,Najważniejszy jest transport personelu do innego statku!
+Dialogue: 3,0:21:12.88,0:21:16.30,Default,,0,0,0,,Wszystkie floty, przerywanie transportu zasobów.
+Dialogue: 3,0:21:14.98,0:21:17.94,Default-2,,0,0,0,,Przygotować sie na powietrzną, wodną i podwodną konfrontacje.
+Dialogue: 3,0:21:16.30,0:21:18.47,Default,,0,0,0,,Kontynuować pracę na głównym silniku.
+Dialogue: 3,0:21:17.94,0:21:20.19,Default-2,,0,0,0,,Przygotować daleko-dystansowe działo do bitwy.
+Dialogue: 3,0:21:18.47,0:21:20.88,Default,,0,0,0,,Potwierdzam otwarcie bramek linii zaopatrzenia energetycznego.
+Dialogue: 3,0:21:22.09,0:21:25.35,Default,,0,0,0,,Wszystkie statki powietrzne muszą opuścić aktualną przestrzeń powietrzną.
+Dialogue: 3,0:21:25.35,0:21:28.37,Default,,0,0,0,,Szybko do Punktu Spotkania 2.
+Dialogue: 3,0:21:27.04,0:21:28.37,Alternate,,0,0,0,,Porzucić jakiekolwiek ostatki ładunku.
+Dialogue: 3,0:21:28.37,0:21:30.23,Default,,0,0,0,,Wycofanie załogi posiada największy priorytet.
+Dialogue: 3,0:21:30.23,0:21:31.62,Default,,0,0,0,,Kontynuuj uzbrajanie statków.
+Dialogue: 3,0:21:31.62,0:21:33.60,Default,,0,0,0,,Pracujcie cały czas, do ostatniej minuty!
+Dialogue: 3,0:21:33.60,0:21:36.25,Default,,0,0,0,,Wszyscy, którzy mogą pomóc przy linii zasilającej,\Nzebrać się na łodziach użytkowych.
+Dialogue: 3,0:21:36.25,0:21:38.41,Default,,0,0,0,,Wszystkie wieże ogniowe, przygotować się do strzału!
+Dialogue: 3,0:21:38.41,0:21:41.17,Default,,0,0,0,,AAktywacja zdalnej kontroli i systemów połączeń.
+Dialogue: 3,0:21:41.17,0:21:42.69,Default,,0,0,0,,Przygotować się na atak z zaskoczenia.
+Dialogue: 3,0:21:42.69,0:21:45.85,Default,,0,0,0,,Pracować nad aplikowaniem\Nsystemu transmisji głównego silnika.
+Dialogue: 3,0:21:45.85,0:21:47.19,Default,,0,0,0,,Szybko!
+Dialogue: 3,0:21:47.19,0:21:50.84,Default,,0,0,0,,Reaktor N2 pracuje na 99% mocy.
+Dialogue: 3,0:21:50.84,0:21:52.58,Default,,0,0,0,,Pracowanie nad aplikacją.
+Dialogue: 3,0:21:52.58,0:21:54.53,Default,,0,0,0,,Otwieranie pierwszych 90-ciu zaworów.
+Dialogue: 3,0:21:54.53,0:21:56.37,Default,,0,0,0,,Przewód Transmisyjny podłączony.
+Dialogue: 3,0:21:56.37,0:21:59.40,Default,,0,0,0,,Nie wykryto problemów w porcie,\Noraz trzeciej i czwartej klatce z ładunkiem.
+Dialogue: 3,0:21:59.40,0:22:00.27,Default,,0,0,0,,Dobra.
+Dialogue: 3,0:22:00.27,0:22:02.37,Default,,0,0,0,,Otwieranie pierwszych 90-ciu zaworów.
+Dialogue: 3,0:22:02.37,0:22:03.44,Default,,0,0,0,,Rozpoczynanie iniekcji energii.
+Dialogue: 3,0:22:03.44,0:22:06.77,Default,,0,0,0,,Wprowadzanie energii do reaktora N2 nominalne.
+Dialogue: 3,0:22:06.77,0:22:09.33,Default,,0,0,0,,Weryfikowanie pomp cyrkulacyjnych LCL.
+Dialogue: 3,0:22:09.33,0:22:10.78,Default,,0,0,0,,System filtracji aktywny.
+Dialogue: 3,0:22:10.78,0:22:12.27,Default,,0,0,0,,Stanowiska bojowe!
+Dialogue: 3,0:22:12.27,0:22:14.37,Default,,0,0,0,,Szybko zajmować pozycję.
+Dialogue: 3,0:22:14.37,0:22:16.34,Default,,0,0,0,,Ty tam! Ruszaj się!
+Dialogue: 3,0:22:16.34,0:22:18.27,Default,,0,0,0,,Żąda Pani niemożliwego!
+Dialogue: 3,0:22:18.27,0:22:21.58,Default,,0,0,0,,Mimo wszystko, jesteśmy grupą zmieszaną razem z {\i1}cywilami{\i0\fscx130} {\r}.
+Dialogue: 3,0:22:21.58,0:22:23.02,Default,,0,0,0,,Nie szukaj wymówek!
+Dialogue: 3,0:22:23.02,0:22:24.56,Default,,0,0,0,,Pracuj!
+Dialogue: 3,0:22:26.65,0:22:28.69,Default,,0,0,0,,Ugh, Dlatego nie znoszę modszych facetów.
+Dialogue: 3,0:22:28.69,0:22:29.89,Default,,0,0,0,,Zobaczmy...
+Dialogue: 3,0:22:29.89,0:22:32.25,Default,,0,0,0,,Tutaj zakończyć zbrojenie...
+Dialogue: 3,0:22:32.25,0:22:34.21,Default,,0,0,0,,Rozpocząć blokadę ścian bariery...  
+Dialogue: 3,0:22:34.21,0:22:35.14,Default,,0,0,0,,O to chodzi?
+Dialogue: 3,0:22:35.14,0:22:37.77,Default,,0,0,0,,Ostrożnie obserwujcie niebo...
+Dialogue: 3,0:22:37.77,0:22:39.63,Default,,0,0,0,,Sonar znajduje się w tym kierunku.
+Dialogue: 3,0:22:39.63,0:22:40.72,Default,,0,0,0,,Kitakami!
+Dialogue: 3,0:22:40.72,0:22:42.10,Default,,0,0,0,,Jak wygląda sytuacja na pokładzie?
+Dialogue: 3,0:22:42.10,0:22:44.56,Default,,0,0,0,,Czy to moja broszka?
+Dialogue: 3,0:22:44.56,0:22:46.33,Default,,0,0,0,,Oczywiście! To twój teren.
+Dialogue: 3,0:22:46.33,0:22:49.10,Default,,0,0,0,,Co? Serio?
+Dialogue: 3,0:22:51.45,0:22:53.18,Default,,0,0,0,,Tu jest niebezpiecznie.
+Dialogue: 3,0:22:53.18,0:22:54.42,Default,,0,0,0,,Powinieneś tu zostać.
+Dialogue: 3,0:22:55.02,0:22:59.81,Default-2,,0,0,0,,Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte,\Nw tym rakiet samonaprowadzających statku wojennego.
+Dialogue: 3,0:22:56.94,0:23:01.94,Default,,0,0,0,,Muszę przyznać, że nie jest całkiem sporo napięcia\Nw okolicach mostka podczas alarmów bojowych!
+Dialogue: 3,0:22:59.81,0:23:01.10,Default-2,,0,0,0,,Dobrze.
+Dialogue: 3,0:23:01.10,0:23:02.81,Default-2,,0,0,0,,Połączyć ze sobą systemy obrony przeciw-lotniczej.
+Dialogue: 3,0:23:02.81,0:23:04.64,Default,,0,0,0,,Obrona Eva-01 jest naszym obecnym priorytetem.
+Dialogue: 3,0:23:04.64,0:23:06.36,Default,,0,0,0,,Jednostka 01?
+Dialogue: 3,0:23:14.98,0:23:15.82,Default,,0,0,0,,Jest tu!
+Dialogue: 3,0:23:15.82,0:23:17.73,Default,,0,0,0,,Potwierdzanie Filaru Światła celu!
+Dialogue: 3,0:23:18.16,0:23:19.53,Default,,0,0,0,,Um...
+Dialogue: 3,0:23:19.53,0:23:21.15,Default,,0,0,0,,Jego zmienne urosły w jakiś sposób!
+Dialogue: 3,0:23:21.15,0:23:23.61,Default,,0,0,0,,Identyfikacja bloku rdzenia celu jest niemożliwa.
+Dialogue: 3,0:23:23.61,0:23:26.63,Default,,0,0,0,,Prawdopodobnie jest ukryty wewnątrz kokonu.
+Dialogue: 3,0:23:26.63,0:23:27.73,Default,,0,0,0,,To źle.
+Dialogue: 3,0:23:28.45,0:23:30.53,Default,,0,0,0,,W tym tepie, będziemy w miejscu docelowym saturacyjnego bombardowania.
+Dialogue: 3,0:23:30.53,0:23:32.29,Default,,0,0,0,,600 sekund do kontaktu.
+Dialogue: 3,0:23:32.29,0:23:33.26,Default,,0,0,0,,Kapitanie Katsuragi,
+Dialogue: 3,0:23:33.69,0:23:35.85,Default,,0,0,0,,Proponuję natychmiast rozproszyć flotę.
+Dialogue: 3,0:23:37.35,0:23:39.75,Default,,0,0,0,,Brakuje nam ludzi i mamy ograniczone zaplecze.
+Dialogue: 3,0:23:39.75,0:23:42.72,Default,,0,0,0,,Nasz statek jest także w trakcie procesu zbrojenia.
+Dialogue: 3,0:23:42.72,0:23:46.26,Default,,0,0,0,,I co najgorsze, nie możemy zindentyfikować bloku rdzenia celu.
+Dialogue: 3,0:23:46.26,0:23:49.69,Default,,0,0,0,,Podsumowując, nasze szanse na zwycięstwo są równe zero.
+Dialogue: 3,0:23:49.69,0:23:54.33,Default,,0,0,0,,W tym momencie powinniśmy dokonać\Nstrategicznego odwrotu na z góry upatrzone pozycję.
+Dialogue: 3,0:23:55.33,0:23:59.85,Default,,0,0,0,,Kolejny powód, aby zmienić tę sytuację\Ni uchylić wszystkie niepokoje przyszłości.
+Dialogue: 3,0:23:59.85,0:24:02.53,Default,,0,0,0,,Wicekapitanie, odlatujemy!
+Dialogue: 3,0:24:02.53,0:24:03.54,Default,,0,0,0,,Odlatujemy?!
+Dialogue: 3,0:24:03.54,0:24:05.23,Default,,0,0,0,,Nie masz chyba na myśli skorzystania z głównego silnika!
+Dialogue: 3,0:24:05.77,0:24:07.60,Default,,0,0,0,,Wszystkie okręty, przygotować się do startu!
+Dialogue: 3,0:24:07.60,0:24:09.54,Default,,0,0,0,,Przygotowania do uruchomienia silników głównych!
+Dialogue: 3,0:24:09.54,0:24:11.27,Default,,0,0,0,,Co?!
+Dialogue: 3,0:24:11.27,0:24:13.94,Default,,0,0,0,,To zbyt lekkomyślne używać głównego okrętu\Ntak nagle Kapitanie Katsuragi!
+Dialogue: 3,0:24:13.94,0:24:15.26,Default,,0,0,0,,Zgadzam się!
+Dialogue: 3,0:24:15.26,0:24:17.39,Default,,0,0,0,,Nie było nawet lotu testowego, to zbyt niebezpieczne!
+Dialogue: 3,0:24:17.39,0:24:19.92,Default,,0,0,0,,Antygrawitacja również nie była testowana.
+Dialogue: 3,0:24:19.92,0:24:20.94,Default,,0,0,0,,Nie ufam temu.
+Dialogue: 3,0:24:20.94,0:24:23.53,Default,,0,0,0,,Nie chcę rozgrywać bitew bez szans na zwycięstwo.
+Dialogue: 3,0:24:23.53,0:24:25.10,Default,,0,0,0,,Ani ginąć tutaj.
+Dialogue: 3,0:24:25.10,0:24:27.79,Default,,0,0,0,,Umrzesz kiedy przyjdzie na to czas. Tyle na ten temat.
+Dialogue: 3,0:24:27.79,0:24:29.49,Default,,0,0,0,,Dość narzekania dzieciaki.
+Dialogue: 3,0:24:30.40,0:24:33.19,Default,,0,0,0,,Starsi powinni chyba na siebie bardziej uważać?
+Dialogue: 3,0:24:33.19,0:24:34.80,Default,,0,0,0,,Zdaję sobię sprawę że to lekkomyślne!
+Dialogue: 3,0:24:34.80,0:24:37.55,Default,,0,0,0,,Użyjemy statku jako przynęty i wywabimy go na powierzchnię.
+Dialogue: 3,0:24:37.99,0:24:40.74,Default,,0,0,0,,Moc zdolna zabijać bogów? Chcę widzieć jak to się skończy.
+Dialogue: 3,0:24:40.74,0:24:44.21,Default,,0,0,0,,Ale najistotniejszy układ zapłonowy nie został zamontowany.
+Dialogue: 3,0:24:44.21,0:24:46.40,Default,,0,0,0,,Nie mów że chcesz użyć EVY?
+Dialogue: 3,0:24:47.04,0:24:47.85,Default,,0,0,0,,Mari?
+Dialogue: 3,0:24:47.85,0:24:49.69,Default,,0,0,0,,EVA-08 nie jest jeszcze gotowa.
+Dialogue: 3,0:24:49.69,0:24:50.33,Default,,0,0,0,,Asuka!
+Dialogue: 3,0:24:50.84,0:24:51.76,Default,,0,0,0,,Asuka?
+Dialogue: 3,0:24:54.02,0:24:55.45,Default,,0,0,0,,Już tam jestem!
+Dialogue: 3,0:24:55.45,0:24:57.68,Default,,0,0,0,,Mam tylko wpakować tam układ zapłonowy, tak?
+Dialogue: 3,0:24:57.69,0:24:58.81,Default,,0,0,0,,Liczę na ciebie.
+Dialogue: 3,0:24:58.81,0:25:02.05,Default,,0,0,0,,Jest problem z zagęszczeniem bariery wokół statku.
+Dialogue: 3,0:25:02.05,0:25:03.98,Default,,0,0,0,,Plus, czy robota na mostku jest załatwiona?
+Dialogue: 3,0:25:03.98,0:25:08.18,Default,,0,0,0,,Cóż, "Cel misji jest priorytetem, ludzkie życie\Njest nieistotne" według motta Pani Kapitan.
+Dialogue: 3,0:25:08.18,0:25:09.70,Default,,0,0,0,,Tylko wyjdę i to zrobie.
+Dialogue: 3,0:25:09.70,0:25:11.97,Default,,0,0,0,,EVA Jednostka 02-Dash, Aktywacja!
+Dialogue: 3,0:25:13.31,0:25:15.20,Default,,0,0,0,,Uruchomić jednostkę 02-Dash.
+Dialogue: 3,0:25:15.20,0:25:16.01,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:25:16.01,0:25:17.94,Default,,0,0,0,,Uruchamianie jednostki 02-Dash.
+Dialogue: 3,0:25:17.94,0:25:22.35,Default,,0,0,0,,Rozkładanie podwodnego\Nnapędu i Lewego Kontenera Nr. 1.
+Dialogue: 3,0:25:28.09,0:25:33.68,Default,,0,0,0,,Cóż za słaby sposób na\Ndebiut swoją jednostką po odnowie.
+Dialogue: 3,0:25:39.31,0:25:41.43,Default,,0,0,0,,To naprawdę {\i1}jest{\i0\fscx130} {\r}EVA 02.
+Dialogue: 3,0:25:41.43,0:25:42.75,Default,,0,0,0,,Dzięki bogu.
+Dialogue: 3,0:25:43.37,0:25:45.12,Default,,0,0,0,,Nic ci nie jest, Asuka.
+Dialogue: 3,0:25:48.35,0:25:51.30,Default,,0,0,0,,Misato-san, co ze mną?
+Dialogue: 3,0:25:51.30,0:25:53.76,Default,,0,0,0,,Wszystkie okręty, Stacja Bitewna Jeden.
+Dialogue: 3,0:25:54.56,0:25:56.82,Default,,0,0,0,,Wszystkie okręty, Stacja Bitewna Jeden.
+Dialogue: 3,0:25:56.82,0:25:57.83,Default,,0,0,0,,Powtarzam.
+Dialogue: 3,0:25:57.83,0:26:00.10,Default,,0,0,0,,Wszystkie okręty, Stacja Bitewna Jeden.
+Dialogue: 3,0:26:00.10,0:26:02.07,Default,,0,0,0,,Zmiana systemu zarządzania bitewnego.
+Dialogue: 3,0:26:02.07,0:26:04.09,Default,,0,0,0,,Główna załoga, do głownego mostka.
+Dialogue: 3,0:26:04.09,0:26:05.69,Default,,0,0,0,,Przygotować balast grawitacyjny.
+Dialogue: 3,0:26:05.69,0:26:06.66,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:26:06.66,0:26:07.89,Default,,0,0,0,,Wszystkie otwory sprawdzone. 
+Dialogue: 3,0:26:07.89,0:26:10.71,Default,,0,0,0,,Scentralizować sterowanie statku do kotwicy wejściowej.
+Dialogue: 3,0:26:10.71,0:26:11.50,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:26:11.50,0:26:12.53,Default,,0,0,0,,Przygotować się na obniżenie.
+Dialogue: 3,0:26:12.53,0:26:13.92,Default,,0,0,0,,Induktor, potwierdzam.
+Dialogue: 3,0:26:13.92,0:26:15.09,Default,,0,0,0,,Rozpoczynanie odliczania.
+Dialogue: 3,0:26:15.09,0:26:17.67,Default,,0,0,0,,Przygotowanie do przemieszczenia wieży Hirnstamm.
+Dialogue: 3,0:26:17.67,0:26:18.68,Default,,0,0,0,,Misato-san!
+Dialogue: 3,0:26:18.68,0:26:20.56,Default,,0,0,0,,Eva-01 jest tutaj, prawda?
+Dialogue: 3,0:26:22.08,0:26:23.29,Default,,0,0,0,,Też będę pilotował!
+Dialogue: 3,0:26:23.29,0:26:24.69,Default,,0,0,0,,Pomogę Asuce!
+Dialogue: 3,0:26:28.64,0:26:32.08,Default,,0,0,0,,Na pewno nie potrzebujesz mnie do\Npilotowania Evy, Misato-san?!
+Dialogue: 3,0:26:32.08,0:26:33.85,Default-2,,0,0,0,,Przygotować ładunek wejściowy.
+Dialogue: 3,0:26:33.85,0:26:34.92,Default-2,,0,0,0,,Przygotowanie wejścia.
+Dialogue: 3,0:26:34.26,0:26:34.89,Default,,0,0,0,,To prawda.
+Dialogue: 3,0:26:34.89,0:26:37.21,Default,,0,0,0,,Nie ma potrzeby byś pilotował EVĘ.
+Dialogue: 3,0:26:37.21,0:26:39.15,Default,,0,0,0,,Odłączaniie wieży Hirnstamm.
+Dialogue: 3,0:26:39.15,0:26:40.33,Default,,0,0,0,,Rozpocząć sekwencję.
+Dialogue: 3,0:26:40.33,0:26:44.02,Default,,0,0,0,,System dowodzenia jest obecnie\Nprzenoszony na mostek statku wojennego.
+Dialogue: 3,0:26:44.02,0:26:45.27,Default,,0,0,0,,Nie ma potrzeby?
+Dialogue: 0,0:26:44.02,0:26:45.27,Default-2,,0,0,0,,Powtarzam.
+Dialogue: 0,0:26:45.27,0:26:48.91,Default-2,,0,0,0,,System dowodzenia jest obecnie\Nprzenoszony na mostek statku wojennego.
+Dialogue: 3,0:26:46.55,0:26:47.73,Default,,0,0,0,,Uh...
+Dialogue: 3,0:26:47.73,0:26:50.43,Default,,0,0,0,,W takim razie co powinienem zrobić?
+Dialogue: 3,0:26:51.85,0:26:53.44,Default,,0,0,0,,Misato-san!
+Dialogue: 3,0:26:54.14,0:26:56.12,Default,,0,0,0,,Ikari Shinji-kun.
+Dialogue: 3,0:26:58.55,0:26:59.78,Default,,0,0,0,,Od tego momentu...
+Dialogue: 3,0:27:00.39,0:27:01.93,Default,,0,0,0,,...już nigdy nic nie zrobisz.
+Dialogue: 3,0:27:13.94,0:27:15.43,Default,,0,0,0,,Zapełnianie kapsuły LCL.
+Dialogue: 3,0:27:15.43,0:27:16.69,Default,,0,0,0,,Gęstość elektryfikacji osiągnięta.
+Dialogue: 3,0:27:16.69,0:27:17.90,Default,,0,0,0,,Rozpocząć wejście.
+Dialogue: 3,0:27:17.90,0:27:20.61,Default,,0,0,0,,Status naładowania elektrzycznego LCL jest nominalny.
+Dialogue: 3,0:27:20.61,0:27:22.75,Default,,0,0,0,,Uruchamianie wszystkich załączonych systemów operacyjnych.
+Dialogue: 3,0:27:22.75,0:27:23.74,Default,,0,0,0,,Status?
+Dialogue: 3,0:27:23.74,0:27:25.37,Default,,0,0,0,,Odprawa całego personelu zakończona.
+Dialogue: 3,0:27:24.82,0:27:27.02,Default-2,,0,0,0,,Wszyscy na pokładzie.
+Dialogue: 3,0:27:25.37,0:27:26.58,Default,,0,0,0,,Potwierdzanie stacji.
+Dialogue: 3,0:27:27.02,0:27:28.77,Default-2,,0,0,0,,Pierwsza lista potwierdzona.
+Dialogue: 3,0:27:28.77,0:27:30.43,Default,,0,0,0,,Potwierdzono zamknięcie wszystkich bram. 
+Dialogue: 3,0:27:30.43,0:27:31.70,Default,,0,0,0,,Graniczny opór ciśnienia, sprawdzony.
+Dialogue: 3,0:27:31.70,0:27:33.48,Default,,0,0,0,,Wydajność komponentów pomocniczych obecnie wzrasta.
+Dialogue: 3,0:27:33.48,0:27:36.23,Default,,0,0,0,,Zaopatrzanie systemu głównych silnków energią do zapłonu.
+Dialogue: 3,0:27:36.23,0:27:38.08,Default,,0,0,0,,5% do stanu krytycznego.
+Dialogue: 3,0:27:38.08,0:27:39.53,Default,,0,0,0,,Inicjowanie gyrokompasu.
+Dialogue: 3,0:27:39.53,0:27:41.17,Default,,0,0,0,,Stabilizator nominalny.
+Dialogue: 3,0:27:41.17,0:27:42.95,Default,,0,0,0,,Rozpoczynanie wizualnego przetwarzania danych.
+Dialogue: 3,0:27:42.95,0:27:45.04,Default,,0,0,0,,Uruchamianie głównego monitora.
+Dialogue: 3,0:27:45.83,0:27:48.13,Default,,0,0,0,,Cel wciąż się zbliża.
+Dialogue: 3,0:27:48.13,0:27:49.93,Default,,0,0,0,,Obecnie przyjmuje okrągłą formację.
+Dialogue: 3,0:27:49.93,0:27:53.80,Default,,0,0,0,,EVA-02, uwolnienie silników stosujących. Resetowanie lewego ramienia.
+Dialogue: 3,0:27:53.80,0:27:55.39,Default,,0,0,0,,Zaczynamy!
+Dialogue: 3,0:28:01.00,0:28:02.10,Default,,0,0,0,,Dobra!
+Dialogue: 3,0:28:02.10,0:28:03.26,Default,,0,0,0,,Więc...
+Dialogue: 3,0:28:04.52,0:28:05.89,Default,,0,0,0,,Zróbmy to!
+Dialogue: 3,0:28:12.89,0:28:14.97,Default,,0,0,0,,Rozpościeranie pola A.T.
+Dialogue: 3,0:28:17.86,0:28:19.26,Default,,0,0,0,,Kolumny światła się zmieniają.
+Dialogue: 3,0:28:19.26,0:28:21.46,Default,,0,0,0,,Ich energia szaleje.
+Dialogue: 3,0:28:21.46,0:28:22.93,Default,,0,0,0,,Wszystkie cele są w ruchu!
+Dialogue: 3,0:28:26.37,0:28:28.17,Default,,0,0,0,,Sojusznicze okręty wyparowały!
+Dialogue: 3,0:28:28.17,0:28:29.43,Default,,0,0,0,,To atak saturacyjny!
+Dialogue: 3,0:28:29.43,0:28:32.10,Default,,0,0,0,,Jeśli trafi statek, to po nas.
+Dialogue: 3,0:28:32.77,0:28:35.06,Default,,0,0,0,,Ponownie 360 sekund do kontaktu!
+Dialogue: 3,0:28:46.89,0:28:48.65,Default,,0,0,0,,Jednostka 02-Dash rozpoczęła opreacje!
+Dialogue: 3,0:28:48.65,0:28:51.05,Default,,0,0,0,,Napór na poziomie 300%!
+Dialogue: 3,0:28:51.05,0:28:52.14,Default,,0,0,0,,Nie istotne!
+Dialogue: 3,0:28:52.14,0:28:54.42,Default,,0,0,0,,Przenieść całą enegię do kół zamachowych!
+Dialogue: 3,0:28:54.42,0:28:55.38,Default,,0,0,0,,Najwyższy priorytet!
+Dialogue: 3,0:29:05.31,0:29:08.48,Alternate,,0,0,0,,83. linia jest w ogniu! Gaszenie pożaru jest niemożliwe!
+Dialogue: 3,0:29:05.87,0:29:08.02,Default,,0,0,0,,Przetwornik grupy nr 7 eksplodował!
+Dialogue: 3,0:29:08.02,0:29:09.88,Default,,0,0,0,,Nie zwracaj uwagi na zniszczone linie!
+Dialogue: 3,0:29:09.88,0:29:11.31,Default,,0,0,0,,Kontynuuj wymuszoną iniekcję!
+Dialogue: 3,0:29:11.31,0:29:13.10,Default,,0,0,0,,Zignoruj wskaźniki ciśnienia!
+Dialogue: 3,0:29:13.10,0:29:15.33,Default,,0,0,0,,Odblokowanie zaczepów koła zamachowego.
+Dialogue: 3,0:29:15.33,0:29:16.58,Default,,0,0,0,,Rozpoczynam obrót.
+Dialogue: 3,0:29:24.81,0:29:27.33,Default,,0,0,0,,Pompa energii głównego silnika ulega rozruchowi.
+Dialogue: 3,0:29:27.33,0:29:29.85,Default,,0,0,0,,Przepustowość pomocniczych elementów osiągneła 80%.
+Dialogue: 3,0:29:29.85,0:29:31.80,Default,,0,0,0,,Wymuś wprowadzenie katalizatora!
+Dialogue: 3,0:29:47.28,0:29:48.06,Default,,0,0,0,,Więc teraz...
+Dialogue: 3,0:29:50.81,0:29:52.55,Default,,0,0,0,,Pozostało 35 sekund!
+Dialogue: 3,0:29:52.55,0:29:54.21,Default,,0,0,0,,Prędkość obrotowa rośnie.
+Dialogue: 3,0:29:54.21,0:29:56.60,Default,,0,0,0,,10,000 obrotów... 12,000 obrotów...
+Dialogue: 3,0:29:56.60,0:29:57.31,Default,,0,0,0,,Jest tu!
+Dialogue: 3,0:29:57.31,0:29:59.47,Default,,0,0,0,,Koło zamachowe załadowane do 102%.
+Dialogue: 3,0:29:59.47,0:30:00.69,Default,,0,0,0,,Punkt krytyczny przekroczony!
+Dialogue: 3,0:30:00.69,0:30:02.53,Default,,0,0,0,,Końcowy etap rozruchu.
+Dialogue: 3,0:30:02.53,0:30:03.36,Default,,0,0,0,,Dobrze.
+Dialogue: 3,0:30:03.36,0:30:04.81,Default,,0,0,0,,Przełączyć na tryb lotu.
+Dialogue: 3,0:30:04.81,0:30:05.35,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:30:05.35,0:30:06.98,Default,,0,0,0,,Rozpoczynanie czasoprzestrzennej kontroli.
+Dialogue: 3,0:30:06.98,0:30:09.09,Default,,0,0,0,,Transfer do sterowania 3D.
+Dialogue: 3,0:30:10.27,0:30:12.89,Default,,0,0,0,,Aktywuj pole A.T. w momencie kiedy wystrzelimy!
+Dialogue: 3,0:30:12.89,0:30:14.32,Default,,0,0,0,,Prędkość obrotowa 36,000! 
+Dialogue: 3,0:30:14.32,0:30:15.23,Default,,0,0,0,,Zielone światło!
+Dialogue: 3,0:30:15.23,0:30:17.53,Default,,0,0,0,,Przystępuję do kontaktu!
+Dialogue: 3,0:30:17.53,0:30:18.89,Default,,0,0,0,,Pominąć odliczanie!
+Dialogue: 3,0:30:18.89,0:30:20.02,Default,,0,0,0,,Połączyć główny silnik!
+Dialogue: 3,0:30:20.02,0:30:21.72,Default,,0,0,0,,Połączanie!
+Dialogue: 3,0:30:24.94,0:30:25.76,Default,,0,0,0,,Zapłon!
+Dialogue: 3,0:30:42.48,0:30:43.81,Default,,0,0,0,,Przeszkody usunięte!
+Dialogue: 3,0:30:43.81,0:30:44.97,Default,,0,0,0,,Potwierdzanie podziałów.
+Dialogue: 3,0:30:44.97,0:30:46.35,Default,,0,0,0,,Wycofać konwój okrętów!
+Dialogue: 3,0:30:46.35,0:30:47.29,Default,,0,0,0,,Zaczynamy!
+Dialogue: 3,0:30:47.29,0:30:48.93,Default,,0,0,0,,Wunder! Start!
+Dialogue: 3,0:31:38.46,0:31:40.61,Default,,0,0,0,,Główne skrzydła spenetrowane! Uszkodzenia nieznane!
+Dialogue: 3,0:31:40.61,0:31:41.31,Default,,0,0,0,,Nie przejmować się!
+Dialogue: 3,0:31:41.31,0:31:42.93,Default,,0,0,0,,Przygotować się na kontratak w pełnej skali!
+Dialogue: 3,0:31:42.93,0:31:44.14,Default,,0,0,0,,Postawić statek pionowo!
+Dialogue: 3,0:31:44.14,0:31:45.19,Default,,0,0,0,,Ruszyć wstecz!
+Dialogue: 3,0:31:45.19,0:31:47.37,Default,,0,0,0,,Ruszyć wstecz! Naprzód, ho!
+Dialogue: 3,0:31:52.73,0:31:56.25,Default,,0,0,0,,Teraz wyciągnąć blok rdzenia z maskującego się kokonu!
+Dialogue: 3,0:32:01.55,0:32:03.44,Default,,0,0,0,,Pęknięcie pojwiają się na zakończeniu głównego skrzydła!
+Dialogue: 3,0:32:03.44,0:32:04.93,Default,,0,0,0,,Trzymaj stabilnie ster!
+Dialogue: 3,0:32:04.93,0:32:06.69,Default,,0,0,0,,Uruchomić główne silniki z pełną mocą!
+Dialogue: 3,0:32:06.69,0:32:08.69,Default,,0,0,0,,Obie strony na maximum!
+Dialogue: 3,0:32:08.69,0:32:10.44,Default,,0,0,0,,Pełne obroty!
+Dialogue: 3,0:32:36.85,0:32:38.77,Default,,0,0,0,,Blok rdzenia jest na zewnątrz!
+Dialogue: 3,0:32:38.77,0:32:39.39,Default,,0,0,0,,Teraz!
+Dialogue: 3,0:32:39.39,0:32:41.45,Default,,0,0,0,,Rozkołysać to! Dalej!
+Dialogue: 3,0:32:41.45,0:32:43.27,Default,,0,0,0,,Odbiór!
+Dialogue: 3,0:33:08.28,0:33:09.48,Default,,0,0,0,,Silniki na pełną moc!
+Dialogue: 3,0:33:09.48,0:33:10.81,Default,,0,0,0,,Hamowanie awaryjne!
+Dialogue: 3,0:33:20.49,0:33:21.68,Default,,0,0,0,,Obiekt zamilkł!
+Dialogue: 3,0:33:21.68,0:33:23.32,Default,,0,0,0,,Przygotować główne działa do ognia!
+Dialogue: 3,0:33:23.32,0:33:25.51,Default,,0,0,0,,Załadować amunicje penetrującą energię.
+Dialogue: 3,0:33:25.51,0:33:27.30,Default,,0,0,0,,Podłączyć wszystkie działa do głównego okrętu.
+Dialogue: 3,0:33:27.30,0:33:28.95,Default,,0,0,0,,Otworzyć zaopatrujące obwody amunicji.
+Dialogue: 3,0:33:28.95,0:33:29.63,Default,,0,0,0,,Odbiór. 
+Dialogue: 3,0:33:29.63,0:33:30.77,Default,,0,0,0,,Otwieram obwody.
+Dialogue: 3,0:33:30.77,0:33:33.35,Default,,0,0,0,,Zastosowanie końcowych korekcji do\Nobliczonej trajektorii przeciwników!
+Dialogue: 3,0:33:33.35,0:33:34.96,Default,,0,0,0,,Systemy artyleryjskie są odłączone!
+Dialogue: 3,0:33:34.96,0:33:38.38,Default,,0,0,0,,Bezpośrednie celowanie i manualne\Nśledzenie gotowe na wszystkich działach!
+Dialogue: 3,0:33:38.38,0:33:39.60,Default,,0,0,0,,Więc jesteśmy gotowi.
+Dialogue: 3,0:33:39.60,0:33:40.47,Default,,0,0,0,,Ognia!
+Dialogue: 3,0:34:04.73,0:34:06.17,Default,,0,0,0,,Obiekt zniszczony!
+Dialogue: 3,0:34:06.17,0:34:08.81,Default,,0,0,0,,Cała flota, wchodzimy w Drugi Stopień Zagrożenia.
+Dialogue: 3,0:34:08.81,0:34:10.81,Default,,0,0,0,,Przygotować się do przywrócenia Jednostki 02-Dash.
+Dialogue: 3,0:34:10.81,0:34:12.69,Default,,0,0,0,,Pospieszcie się z procedurami awaryjnymi dla głównego skrzydła.
+Dialogue: 3,0:34:13.85,0:34:15.44,Default,,0,0,0,,Niesamowite...
+Dialogue: 3,0:34:15.44,0:34:16.94,Default,,0,0,0,,Naprawdę wygraliśmy.
+Dialogue: 3,0:34:16.94,0:34:19.49,Default,,0,0,0,,Ona jest szalona...
+Dialogue: 3,0:34:20.35,0:34:23.25,Default,,0,0,0,,Cóż, jest nawet bardziej interesującym\Nkapitanem niż ten z opowieści Kajiego.
+Dialogue: 3,0:34:23.25,0:34:25.52,Default,,0,0,0,,Więc to jest siła zdolna zabić bogów.
+Dialogue: 3,0:34:26.24,0:34:28.93,Default,,0,0,0,,Wunder naprawdę jest statkiem nadzei.
+Dialogue: 3,0:35:07.87,0:35:10.11,Default,,0,0,0,,Obiekt DM03. 
+Dialogue: 3,0:35:10.11,0:35:11.89,Default,,0,0,0,,Orientacyjne imie: Ikari Shinji-san.
+Dialogue: 3,0:35:12.62,0:35:14.92,Default,,0,0,0,,Vice-Kapitan chce zamienić z tobą słowo.
+Dialogue: 3,0:35:15.71,0:35:17.48,Default,,0,0,0,,To jest Eva-01...?
+Dialogue: 3,0:35:17.48,0:35:18.25,Default,,0,0,0,,Tak. 
+Dialogue: 3,0:35:18.81,0:35:22.73,Default,,0,0,0,,Eva-01 jest używana jako główny silnik tego statku.
+Dialogue: 3,0:35:22.73,0:35:24.53,Default,,0,0,0,,Więc twoja służba jako pilot nie ma sensu.
+Dialogue: 3,0:35:25.86,0:35:28.06,Default,,0,0,0,,Ah, więc naprawdę nie jestem potrzebny.
+Dialogue: 3,0:35:28.06,0:35:32.32,Default,,0,0,0,,Wyniki twoich testów synchronizacji wróciły.
+Dialogue: 3,0:35:32.32,0:35:35.33,Default,,0,0,0,,Wskaźnik synchronizacji wynosi 0.00%.
+Dialogue: 3,0:35:35.33,0:35:38.52,Default,,0,0,0,,Nawet jeśli dostaniesz się do Evy, nie uruchomi się.
+Dialogue: 3,0:35:39.08,0:35:40.46,Default,,0,0,0,,Naprawdę?
+Dialogue: 3,0:35:40.46,0:35:42.53,Default,,0,0,0,,Czyż to nie wspaniała wiadomość, Ikari-san?
+Dialogue: 3,0:35:42.53,0:35:48.69,Default,,0,0,0,,Nawet jeśli, nie możemy pominąć faktu,\Nże wcześniej Eva-01 nagle Obudziła się na 12 sekund. 
+Dialogue: 3,0:35:48.69,0:35:53.05,Default,,0,0,0,,W wyniku czego masz na sobie DSS Choker.
+Dialogue: 3,0:35:53.05,0:35:54.73,Default,,0,0,0,,Co to jest?
+Dialogue: 3,0:35:54.73,0:35:56.65,Default,,0,0,0,,Nasze bezpieczeństwo.
+Dialogue: 3,0:35:56.65,0:35:59.86,Default,,0,0,0,,To urządzenie ochraniające nas przed Obudzeniami.
+Dialogue: 3,0:35:59.86,0:36:03.81,Default,,0,0,0,,Jest to też forma twojej kary,\Noraz naszego braku zaufania.
+Dialogue: 3,0:36:03.81,0:36:05.27,Default,,0,0,0,,Na czym to polega?
+Dialogue: 3,0:36:05.82,0:36:09.41,Default,,0,0,0,,Jeśli stracisz kontrolę nad swoimi emocjami podczas pilotowania EVY
+Dialogue: 3,0:36:09.41,0:36:12.98,Default,,0,0,0,,i niemożliwym będzie zatrzymania procesu Obudzenia,
+Dialogue: 3,0:36:12.98,0:36:15.95,Default,,0,0,0,,to urządzenie odbierze twoje życie.
+Dialogue: 3,0:36:17.61,0:36:19.09,Default,,0,0,0,,Czy to znaczy że... 
+Dialogue: 3,0:36:20.42,0:36:22.23,Default,,0,0,0,,...ja umrę?
+Dialogue: 3,0:36:22.68,0:36:24.11,Default,,0,0,0,,Temu nie zaprzecze.
+Dialogue: 3,0:36:24.73,0:36:26.73,Default,,0,0,0,,Niemożliwe...
+Dialogue: 3,0:36:27.32,0:36:31.35,Default,,0,0,0,,Misato-san, o co chodzi z tym całym umieraniem?
+Dialogue: 3,0:36:31.35,0:36:33.16,Default,,0,0,0,,To jest dziwne, Misato-san!
+Dialogue: 3,0:36:33.16,0:36:35.81,Default,,0,0,0,,Nagle to wszystko stało się strasznie\Npomieszane, nic nie rozumiem!
+Dialogue: 3,0:36:35.81,0:36:37.67,Default,,0,0,0,,Nie winię cię za panikę.
+Dialogue: 3,0:36:37.67,0:36:38.19,Default,,0,0,0,,Poruczniku?
+Dialogue: 3,0:36:38.19,0:36:39.14,Default,,0,0,0,,Tak, Kapitanie? 
+Dialogue: 3,0:36:39.14,0:36:40.83,Default,,0,0,0,,Proszę sie przedstawić.
+Dialogue: 3,0:36:40.83,0:36:41.27,Default,,0,0,0,,Tak, jest.
+Dialogue: 3,0:36:42.48,0:36:45.14,Default,,0,0,0,,Wiem, że trochę późno, 
+Dialogue: 3,0:36:45.14,0:36:50.33,Default,,0,0,0,,ale jestem półkownik Suzuhara Sakura,\Nobecny oficer medyczny.
+Dialogue: 3,0:36:50.33,0:36:51.70,Default,,0,0,0,,Miło Cię poznać.
+Dialogue: 3,0:36:52.25,0:36:53.17,Default,,0,0,0,,Mi również.
+Dialogue: 3,0:36:55.42,0:36:56.93,Default,,0,0,0,,Chwila, "Suzuhara"?
+Dialogue: 3,0:36:57.93,0:36:58.64,Default,,0,0,0,,Ty jesteś Tojii'ego...?
+Dialogue: 3,0:36:58.64,0:37:00.29,Default,,0,0,0,,Tak, masz rację.
+Dialogue: 3,0:37:00.29,0:37:02.44,Default,,0,0,0,,Dziękuje ci za przyjaźnienie się z moim bratem.
+Dialogue: 3,0:37:02.44,0:37:04.14,Default,,0,0,0,,Jestem jego małą siostrzyczką, Sakura.
+Dialogue: 3,0:37:04.14,0:37:06.63,Default,,0,0,0,,Małą siostrzyczką? Nie miałaś na myśli starszą siostrą?
+Dialogue: 3,0:37:06.63,0:37:08.67,Default,,0,0,0,,Nie, małą siostrą.
+Dialogue: 3,0:37:09.77,0:37:13.06,Default,,0,0,0,,Małą siostrą...? Jak?
+Dialogue: 3,0:37:13.06,0:37:16.16,Default,,0,0,0,,Od tamtego czasu mineło 14 lat.
+Dialogue: 3,0:37:16.16,0:37:17.44,Default,,0,0,0,,Głupi Shinji.
+Dialogue: 3,0:37:18.77,0:37:20.10,Default,,0,0,0,,A-Asuka?!
+Dialogue: 3,0:37:23.60,0:37:27.52,Default,,0,0,0,,Dzięki bogu. Jesteś cała, Asuka!
+Dialogue: 3,0:37:32.35,0:37:33.81,Default,,0,0,0,,Nie mogę na to pozwolić.
+Dialogue: 3,0:37:33.81,0:37:35.13,Default,,0,0,0,,Nie mogę się zatrzymać
+Dialogue: 3,0:37:35.13,0:37:36.98,Default,,0,0,0,,Trzymałam to w sobie przez te wszystie lata.
+Dialogue: 3,0:37:43.13,0:37:44.28,Default,,0,0,0,,O co ci chodzi?
+Dialogue: 3,0:37:44.89,0:37:47.06,Default,,0,0,0,,Gromadziłam gniew i żal.
+Dialogue: 3,0:37:48.05,0:37:49.89,Default,,0,0,0,,O co chodzi?
+Dialogue: 3,0:37:50.46,0:37:50.96,Default,,0,0,0,,Huh?
+Dialogue: 3,0:37:50.96,0:37:52.56,Default,,0,0,0,,Asuka, twoje lewe oko...
+Dialogue: 3,0:37:52.56,0:37:54.27,Default,,0,0,0,,Nie twój interes.
+Dialogue: 3,0:37:54.81,0:37:58.53,Default,,0,0,0,,Asuka, powiedziałaś że mineło 14 lat,
+Dialogue: 3,0:37:58.53,0:38:01.00,Default,,0,0,0,,ale jedyną rzeczą, która się w tobie zmieniła\Njest ta opaska.
+Dialogue: 3,0:38:01.00,0:38:03.60,Default,,0,0,0,,Prawda. To Klątwa Evy.
+Dialogue: 3,0:38:04.27,0:38:05.35,Default,,0,0,0,,Klątwa?
+Dialogue: 3,0:38:08.58,0:38:09.71,Default,,0,0,0,,Czekaj!
+Dialogue: 3,0:38:09.71,0:38:10.97,Default,,0,0,0,,Asuka, może ty wiesz!
+Dialogue: 3,0:38:10.97,0:38:13.14,Default,,0,0,0,,Gdzie jest Ayanami?!
+Dialogue: 3,0:38:14.18,0:38:15.02,Default,,0,0,0,,Nie wiem.
+Dialogue: 3,0:38:15.02,0:38:17.14,Default,,0,0,0,,Nie wiesz?
+Dialogue: 3,0:38:17.14,0:38:18.75,Default,,0,0,0,,Ale uratowałem ją wtedy!
+Dialogue: 3,0:38:18.75,0:38:21.29,Default,,0,0,0,,Całe to zamieszanie przez tylko jedną osobę.
+Dialogue: 3,0:38:21.29,0:38:25.33,Default,,0,0,0,,Ten świat nie ma czasu żeby zaspokajać twoje ego.
+Dialogue: 3,0:38:25.33,0:38:28.44,Default,,0,0,0,,Nie mam racji, Kapitanie Katsuragi?
+Dialogue: 3,0:38:30.98,0:38:31.94,Default,,0,0,0,,Asuka!
+Dialogue: 3,0:38:32.66,0:38:34.95,Default,,0,0,0,,Misato-san, gdzie jest Ayanami?!
+Dialogue: 3,0:38:34.95,0:38:35.97,Default,,0,0,0,,Musisz mi powiedzieć!
+Dialogue: 3,0:38:35.97,0:38:36.81,Default,,0,0,0,,Shinji-kun.
+Dialogue: 3,0:38:37.42,0:38:39.89,Default,,0,0,0,,Ayanami Rei już nie istnieje.
+Dialogue: 3,0:38:39.89,0:38:43.41,Default,,0,0,0,,Nie, uratowałem ją, zrobiłem to.
+Dialogue: 3,0:38:43.41,0:38:45.82,Default,,0,0,0,,Musi nadal być w plugu EVY-01.
+Dialogue: 3,0:38:45.82,0:38:47.26,Default,,0,0,0,,Proszę, poszukajcie jej!
+Dialogue: 3,0:38:47.26,0:38:50.69,Default,,0,0,0,,Już dawno temu przeprowadziliśmy\Ndokładne przeszukanie wnętrza Jednostki 01.
+Dialogue: 3,0:38:50.69,0:38:53.54,Default,,0,0,0,,Znaleźliśmy tylko ciebie i... 
+Dialogue: 3,0:38:55.18,0:38:57.31,Default,,0,0,0,,Z jakiegoś powodu, to zostało przywrócone.
+Dialogue: 3,0:38:58.07,0:39:00.80,Default,,0,0,0,,Kontrola nie wykazała żadnych problemów. Oddajemy go.
+Dialogue: 3,0:39:01.81,0:39:03.19,Default,,0,0,0,,To mojego ojca...
+Dialogue: 3,0:39:04.17,0:39:06.45,Default,,0,0,0,,Ayanami trzymała to wtedy.
+Dialogue: 3,0:39:07.11,0:39:09.12,Default,,0,0,0,,Więc ocaliłem ją, prawda?
+Dialogue: 3,0:39:10.56,0:39:11.32,Default,,0,0,0,,Co to?
+Dialogue: 3,0:39:13.57,0:39:14.40,Default,,0,0,0,,Halo?
+Dialogue: 3,0:39:14.40,0:39:15.95,Default,,0,0,0,,Cel jest na tylnym pokładzie!
+Dialogue: 3,0:39:15.95,0:39:17.17,Default,,0,0,0,,Zaatakował nas z nikąd!
+Dialogue: 3,0:39:17.71,0:39:19.06,Default,,0,0,0,,Nadchodzi największe niebezpieczeństwo.
+Dialogue: 3,0:39:19.06,0:39:21.38,Default,,0,0,0,,Wszystkie jednostki, Stacja Bitewna Jeden.
+Dialogue: 3,0:39:21.38,0:39:23.58,Default,,0,0,0,,Zagwarantowanie bezpieczeństwa Evy-01\Nma największy priorytet!
+Dialogue: 3,0:39:23.58,0:39:25.27,Default,,0,0,0,,Eva-08 gotowa do akcji, czyż nie?
+Dialogue: 3,0:39:25.27,0:39:26.89,Default,,0,0,0,,Ależ oczywiście!
+Dialogue: 3,0:39:26.89,0:39:28.44,Default,,0,0,0,,Właśnie jestem, Księżniczko!
+Dialogue: 3,0:39:28.44,0:39:31.65,Default,,0,0,0,,Swoją drogą, jak tam Szczeniaczek?
+Dialogue: 3,0:39:31.65,0:39:33.39,Default,,0,0,0,,Nadal siedzi i się zachowuje?
+Dialogue: 3,0:39:33.87,0:39:35.20,Default,,0,0,0,,Nie zmienił się ani trochę. 
+Dialogue: 3,0:39:35.20,0:39:36.97,Default,,0,0,0,,Nadal ma swój senny, głupi wyraz twarzy.
+Dialogue: 3,0:39:36.97,0:39:40.51,Default,,0,0,0,,Jesteś pewna, że nie poszłaś tam {\i1}tylko{\i0\fscx130} {\r}żeby zobaczyć jego twarz?
+Dialogue: 3,0:39:40.51,0:39:41.49,Default,,0,0,0,,Nie!
+Dialogue: 3,0:39:41.49,0:39:42.88,Default,,0,0,0,,Poszłam tam ją obić!
+Dialogue: 3,0:39:42.88,0:39:44.31,Default,,0,0,0,,Od razu czuję się znacznie lepiej!
+Dialogue: 3,0:39:44.31,0:39:46.44,Default,,0,0,0,,Misato-san! Ritsuko-san!
+Dialogue: 3,0:39:46.44,0:39:48.23,Default,,0,0,0,,Co się tam dzieje?
+Dialogue: 3,0:39:48.23,0:39:50.05,Default,,0,0,0,,Czy to nowy Anioł?
+Dialogue: 3,0:39:50.05,0:39:52.94,Default,,0,0,0,,Ikari-kun, gdzie jesteś?
+Dialogue: 3,0:39:52.94,0:39:54.36,Default,,0,0,0,,Ayanami?
+Dialogue: 3,0:39:55.15,0:39:58.44,Default,,0,0,0,,Czy to nie by głos Ayanami, Misa—
+Dialogue: 3,0:40:02.23,0:40:04.08,Default,,0,0,0,,Oh, daj spokój!
+Dialogue: 3,0:40:04.08,0:40:05.50,Default,,0,0,0,,Jesteśmy gotowi!
+Dialogue: 3,0:40:05.50,0:40:06.92,Default,,0,0,0,,Ikari-san, tędy!
+Dialogue: 3,0:40:06.92,0:40:09.64,Default,,0,0,0,,Ikari-kun, gdzie jesteś?
+Dialogue: 3,0:40:10.04,0:40:11.68,Default,,0,0,0,,To naprawdę {\i1}jest{\i0\fscx130} {\r}Ayanami.
+Dialogue: 3,0:40:13.14,0:40:14.00,Default,,0,0,0,,To Ayanami!
+Dialogue: 3,0:40:15.24,0:40:17.57,Default,,0,0,0,,Ikari-san! Szybko!
+Dialogue: 3,0:40:20.11,0:40:21.83,Default,,0,0,0,,Mam dość.
+Dialogue: 3,0:40:21.83,0:40:24.20,Default,,0,0,0,,Ayanami! Jestem tutaj!
+Dialogue: 3,0:40:30.61,0:40:31.81,Default,,0,0,0,,Uszkodzenia powstały na kadłubie burty bocznej!
+Dialogue: 3,0:40:31.81,0:40:33.07,Default,,0,0,0,,Dziura w kadłubie wykryta na drugim pokładzie!
+Dialogue: 3,0:40:33.07,0:40:35.24,Default,,0,0,0,,Spadek ciśnienia wykryty w tymczasowym\Npomieszczeniu przesłuchań pod kwarantanną!
+Dialogue: 3,0:40:35.24,0:40:36.52,Default,,0,0,0,,Awaryjne zamknięcie ścian zaporowych!
+Dialogue: 3,0:40:36.52,0:40:39.31,Default,,0,0,0,,EVA? Jednostka 00?
+Dialogue: 3,0:40:39.31,0:40:42.21,Default,,0,0,0,,Ikari-kun, chodź ze mną.
+Dialogue: 3,0:40:43.62,0:40:44.94,Default,,0,0,0,,Nie rób tego, Shinji-kun.
+Dialogue: 3,0:40:45.39,0:40:46.98,Default,,0,0,0,,Po prostu zostań tutaj.
+Dialogue: 3,0:40:47.71,0:40:49.72,Default,,0,0,0,,O co w tym chodzi, Misato-san?
+Dialogue: 3,0:40:49.72,0:40:51.89,Default,,0,0,0,,Nie mówiłaś dopiero, że mnie nie potrzebujesz?!
+Dialogue: 3,0:40:51.89,0:40:54.33,Default,,0,0,0,,Mimo wszystko, będziesz pod naszą opieką.
+Dialogue: 3,0:40:54.33,0:40:56.66,Default,,0,0,0,,Co z {\i1}moim{\i0\fscx130} {\r}zdaniem?!
+Dialogue: 3,0:41:02.28,0:41:03.36,Default,,0,0,0,,Stój!
+Dialogue: 3,0:41:03.36,0:41:04.70,Default,,0,0,0,,Strzelasz do EVY!
+Dialogue: 3,0:41:04.70,0:41:05.42,Default,,0,0,0,,To jest właśnie powód.
+Dialogue: 3,0:41:05.42,0:41:08.14,Default,,0,0,0,,Unicestwimy wszystkie EVY NERVu.
+Dialogue: 3,0:41:08.66,0:41:09.65,Default,,0,0,0,,NERVu?
+Dialogue: 3,0:41:10.13,0:41:11.60,Default,,0,0,0,,To nie NERV?
+Dialogue: 3,0:41:11.84,0:41:15.89,Default,,0,0,0,,Nawzywamy się Wille, organizacja\Nmająca na celu zniszczenie Nervu.
+Dialogue: 3,0:41:16.53,0:41:17.65,Default,,0,0,0,,Jak...
+Dialogue: 3,0:41:18.37,0:41:21.42,Default,,0,0,0,,Nie, ale jest pilotowana przez Ayanami!
+Dialogue: 3,0:41:21.42,0:41:22.06,Default,,0,0,0,,To nie ona!
+Dialogue: 3,0:41:22.06,0:41:24.20,Default,,0,0,0,,Rei już nie ma, Shinji-kun.
+Dialogue: 3,0:41:24.20,0:41:24.81,Default,,0,0,0,,Kłamiesz!
+Dialogue: 3,0:41:25.29,0:41:27.39,Default,,0,0,0,,Jest tutaj!
+Dialogue: 3,0:41:27.39,0:41:28.56,Default,,0,0,0,,Misato-san, odbiło ci!
+Dialogue: 3,0:41:28.56,0:41:29.98,Default,,0,0,0,,Mam dość!
+Dialogue: 3,0:41:33.35,0:41:34.52,Default,,0,0,0,,Ikari-san!
+Dialogue: 3,0:41:35.77,0:41:37.31,Default,,0,0,0,,Rób co tylko chcesz,
+Dialogue: 3,0:41:38.09,0:41:40.10,Default,,0,0,0,,ale proszę, nie pilotuj już EVY!
+Dialogue: 3,0:41:40.60,0:41:42.73,Default,,0,0,0,,Naprawdę, daj nam spokój.
+Dialogue: 3,0:41:51.58,0:41:53.17,Default,,0,0,0,,Okularnico, nie daj temu uciec!
+Dialogue: 3,0:41:53.17,0:41:54.23,Default,,0,0,0,,Odbiór!
+Dialogue: 3,0:41:57.24,0:41:59.46,Alternate,,0,0,0,,EVA Jednostka 08 startuje!
+Dialogue: 3,0:41:57.25,0:42:03.06,Default,,0,0,0,,Kiedy już w ciebie celuję, na pewno trafię~
+Dialogue: 3,0:42:03.73,0:42:06.23,Default,,0,0,0,,Hej, no co!
+Dialogue: 3,0:42:10.96,0:42:12.49,Default,,0,0,0,,Mam cię!
+Dialogue: 3,0:42:17.68,0:42:19.94,Default,,0,0,0,,Czy to naprawdę Pojemnik Adama?
+Dialogue: 3,0:42:26.63,0:42:29.31,Default,,0,0,0,,Przynajmniej powiedz "cześć" czy coś w tym stylu!
+Dialogue: 3,0:42:31.23,0:42:33.73,Default,,0,0,0,,Jeżeli nadali mu większy priorytet niż EVA-01,
+Dialogue: 3,0:42:33.73,0:42:36.23,Default,,0,0,0,,to oznacza, że nadal musi mieć potencjał do zostania zapalnikiem!
+Dialogue: 3,0:42:36.23,0:42:38.94,Default,,0,0,0,,Misato, użyj DSS Chokera!
+Dialogue: 3,0:42:53.70,0:42:55.17,Default,,0,0,0,,Rozkaz bezpośredni vice-kapitana.
+Dialogue: 3,0:42:55.17,0:42:56.60,Default,,0,0,0,,Pościg niepotrzebny.
+Dialogue: 3,0:42:56.60,0:43:00.85,Default,,0,0,0,,Cały personel, powrócić do sprawdzania stanu obrażeń,\Nawaryjnej naprawy i uzbrojenia.
+Dialogue: 3,0:43:00.85,0:43:01.65,Default,,0,0,0,,Odbiór.
+Dialogue: 3,0:43:01.65,0:43:02.53,Default,,0,0,0,,Pościg niepotrzebny.
+Dialogue: 3,0:43:02.53,0:43:05.89,Default,,0,0,0,,Shesh, nie jest nawet idiotą.
+Dialogue: 3,0:43:03.13,0:43:07.18,Default-2,,0,0,0,,Cały personel, powrócić do sprawdzania stanu obrażeń,\Nawaryjnej naprawy i uzbrojenia.
+Dialogue: 3,0:43:06.38,0:43:07.18,Default,,0,0,0,,Jest bachorem.
+Dialogue: 0,0:43:07.19,0:43:11.69,Sign-Preview,,0,0,0,,{\c&HB4AE0E&\fs196\fsp-6\fscx50\blur0.5\pos(956.000,691.144)}Evangelion Shin Gekijouban  Q
+Dialogue: 0,0:43:07.19,0:43:11.69,Sign-Q,,0,0,0,,{\c&HB5AE0E&\b1\fs186\fsp-6\fscx55\fscy80\blur0.5\pos(1624.857,698.144)}：
+Dialogue: 3,0:43:24.38,0:43:26.76,Default,,0,0,0,,Mimo wszystko ją uratowałem.
+Dialogue: 3,0:43:27.49,0:43:28.89,Default,,0,0,0,,Misato-san jest kłamcą.
+Dialogue: 3,0:43:30.53,0:43:31.34,Default,,0,0,0,,Tędy.
+Dialogue: 3,0:43:39.27,0:43:41.27,Default,,0,0,0,,U-Um...
+Dialogue: 3,0:43:56.87,0:44:00.81,Default,,0,0,0,,Mimo że to Geofront, widać tutaj niebo?
+Dialogue: 3,0:44:09.34,0:44:11.94,Default,,0,0,0,,Czy to główna kwatera NERVu?
+Dialogue: 3,0:44:13.62,0:44:14.68,Default,,0,0,0,,Co się stało?
+Dialogue: 3,0:44:45.52,0:44:48.50,Default,,0,0,0,,Naprawdę mineło 14 lat.
+Dialogue: 3,0:45:24.65,0:45:25.63,Default,,0,0,0,,Tutaj.
+Dialogue: 3,0:45:27.83,0:45:28.56,Default,,0,0,0,,Co to?
+Dialogue: 3,0:45:31.43,0:45:32.59,Default,,0,0,0,,EVA?
+Dialogue: 3,0:45:32.59,0:45:33.89,Default,,0,0,0,,Tak.
+Dialogue: 3,0:45:37.67,0:45:38.89,Default,,0,0,0,,Ojcze...
+Dialogue: 3,0:45:38.89,0:45:44.09,Default,,0,0,0,,Evangelion Jednostka 13, dla ciebie i tamtego pilota.
+Dialogue: 3,0:45:46.33,0:45:48.37,Default,,0,0,0,,Pryed chwią, to pianino?
+Dialogue: 3,0:45:49.54,0:45:53.19,Default,,0,0,0,,Kiedy nadejdzie czas,\Npopilotujesz tę Evę razem z tym chłopcem.
+Dialogue: 3,0:45:53.83,0:45:55.32,Default,,0,0,0,,Skończyliśmy rozmowę.
+Dialogue: 3,0:45:56.76,0:45:58.31,Default,,0,0,0,,Czekaj chwilę, tato!
+Dialogue: 3,0:45:58.31,0:46:01.87,Default,,0,0,0,,Ciągle mam wiele pytań, rzeczy,\No których chciałbym porozmawiać!
+Dialogue: 3,0:46:01.87,0:46:03.52,Default,,0,0,0,,Ojcze!
+Dialogue: 3,0:46:13.13,0:46:14.99,Default,,0,0,0,,Nie ma sygnału wybierania,
+Dialogue: 3,0:46:14.99,0:46:17.98,Default,,0,0,0,,czyli nie mogę się z nikim skontaktować.
+Dialogue: 3,0:46:38.44,0:46:41.31,Default,,0,0,0,,W końcu muszę jej podziękować.
+Dialogue: 3,0:46:51.29,0:46:53.17,Default,,0,0,0,,Ayanami!
+Dialogue: 3,0:46:55.42,0:46:57.83,Default,,0,0,0,,Gdzie jesteś, Ayanami?
+Dialogue: 3,0:46:58.83,0:47:00.65,Default,,0,0,0,,Ayanami!
+Dialogue: 3,0:47:34.77,0:47:36.77,Default,,0,0,0,,Co {\i1}to{\i0\fscx130} {\r}za miejsce?
+Dialogue: 3,0:47:38.61,0:47:39.76,Default,,0,0,0,,Ayanami?!
+Dialogue: 3,0:47:39.79,0:47:41.94,Default,,0,0,0,,Tutaj jesteś!
+Dialogue: 3,0:47:44.63,0:47:46.69,Default,,0,0,0,,Ayanami, szukałem cię!
+Dialogue: 3,0:47:47.24,0:47:49.34,Default,,0,0,0,,H-Hej!
+Dialogue: 3,0:47:49.34,0:47:51.94,Default,,0,0,0,,Ubrania! Ubierz się w coś!
+Dialogue: 3,0:47:53.37,0:47:55.69,Default,,0,0,0,,Jeśli to rozkaz, wykonam go.
+Dialogue: 3,0:47:57.46,0:47:58.69,Default,,0,0,0,,Wchodzę.
+Dialogue: 3,0:48:02.17,0:48:06.81,Default,,0,0,0,,Um... Ayanami, dziękuję za to.
+Dialogue: 3,0:48:07.91,0:48:09.60,Default,,0,0,0,,Chciałem ci podziękować od jakiegoś czasu.
+Dialogue: 3,0:48:18.54,0:48:21.14,Default,,0,0,0,,Masz nowy plug suit?
+Dialogue: 3,0:48:21.14,0:48:23.89,Default,,0,0,0,,Pasuje ci. Chociarz czarny jest trochę...
+Dialogue: 3,0:48:29.71,0:48:34.56,Default,,0,0,0,,Główna kwatera NERVu dużo się zmieniła, prawda?
+Dialogue: 3,0:48:37.14,0:48:42.02,Default,,0,0,0,,Czemu Misato-san walczy przeciw NERVowi, a nie aniołom?
+Dialogue: 3,0:48:42.02,0:48:44.69,Default,,0,0,0,,Co ojciec chce tu zrobić?
+Dialogue: 3,0:48:45.71,0:48:47.21,Default,,0,0,0,,Co się stało z wszystkimi?
+Dialogue: 3,0:48:47.21,0:48:49.31,Default,,0,0,0,,Ej, Ayanami, wiesz cokolwiek?
+Dialogue: 3,0:48:50.92,0:48:52.06,Default,,0,0,0,,Nie wiem.
+Dialogue: 3,0:48:52.06,0:48:53.75,Default,,0,0,0,,Rozumiem.
+Dialogue: 3,0:48:55.17,0:48:57.80,Default,,0,0,0,,Tak, możesz miec racje.
+Dialogue: 3,0:48:57.80,0:49:00.93,Default,,0,0,0,,Powiedz, kiedy wróciłaś z Evy-01?
+Dialogue: 3,0:49:07.77,0:49:11.61,Default,,0,0,0,,To miejsce nie wygląda na pokój.
+Dialogue: 3,0:49:12.61,0:49:14.90,Default,,0,0,0,,Można powiedzieć, że to w twoim stylu, ale wciąż...
+Dialogue: 3,0:49:15.61,0:49:19.35,Default,,0,0,0,,Nie wygląda na to, że masz tu szkołę, więc co zazwyczaj robisz?
+Dialogue: 3,0:49:19.35,0:49:21.44,Default,,0,0,0,,Czekam na rozkazy.
+Dialogue: 3,0:49:23.94,0:49:25.93,Default,,0,0,0,,Nie ma tu książek.
+Dialogue: 3,0:49:25.93,0:49:27.35,Default,,0,0,0,,Nie czytasz żadnych książek?
+Dialogue: 3,0:49:28.01,0:49:28.87,Default,,0,0,0,,Czytać?
+Dialogue: 3,0:49:30.17,0:49:33.26,Default,,0,0,0,,Ayanami Rei robiłaby to?
+Dialogue: 3,0:49:33.26,0:49:36.39,Default,,0,0,0,,Tak. Dużo czytałaś, mam rację?
+Dialogue: 3,0:49:36.39,0:49:38.06,Default,,0,0,0,,W twoim pokoju były książki.
+Dialogue: 3,0:49:38.06,0:49:39.08,Default,,0,0,0,,Rozumiem.
+Dialogue: 3,0:49:39.08,0:49:40.32,Default,,0,0,0,,Wiem!
+Dialogue: 3,0:49:40.32,0:49:43.37,Default,,0,0,0,,Pójdę poszukać w bibliotece i przyniosę ci trochę książek!
+Dialogue: 3,0:49:43.37,0:49:45.83,Default,,0,0,0,,Um, Angielskie książki będą dobre?
+Dialogue: 3,0:49:45.83,0:49:48.26,Default,,0,0,0,,Zawsze miałaś jedną przy sobię, więc myśle, że ją lubiłaś.
+Dialogue: 3,0:49:48.66,0:49:49.56,Default,,0,0,0,,"Lubiłam"?
+Dialogue: 3,0:49:49.56,0:49:50.67,Default,,0,0,0,,Tak.
+Dialogue: 3,0:49:51.39,0:49:52.81,Default,,0,0,0,,Przynajmniej tak mi się wydaje.
+Dialogue: 3,0:49:53.57,0:49:55.89,Default,,0,0,0,,Co oznacza "lubić"?
+Dialogue: 3,0:50:04.77,0:50:09.01,Default,,0,0,0,,SEELE nadal utrzymuje swoją ciszę.
+Dialogue: 3,0:50:09.01,0:50:13.48,Default,,0,0,0,,Projekt Dopełnienia Ludzkości zostanie przeniesiony,\Nwedług Zwojów znad Morza Martwego.
+Dialogue: 3,0:50:13.48,0:50:17.13,Default,,0,0,0,,Nie mają potrzeby z nami rozmawiać.
+Dialogue: 3,0:50:17.93,0:50:21.85,Default,,0,0,0,,Ikari, tym razem masz zamiar użyć Jednoski 13?
+Dialogue: 3,0:50:24.41,0:50:25.39,Default,,0,0,0,,Niech tak będzie.
+Dialogue: 3,0:50:26.13,0:50:28.70,Default,,0,0,0,,Będę podążał za twoim planem.
+Dialogue: 3,0:50:29.45,0:50:31.19,Default,,0,0,0,,Z uwagi na Yui.
+Dialogue: 3,0:50:33.69,0:50:35.03,Default,,0,0,0,,Jest bezużyteczne.
+Dialogue: 3,0:50:35.76,0:50:37.23,Default,,0,0,0,,Nie zadziała.
+Dialogue: 3,0:50:44.27,0:50:45.25,Default,,0,0,0,,Nic nie rób.
+Dialogue: 3,0:50:45.25,0:50:46.77,Default,,0,0,0,,Nie twój interes.
+Dialogue: 3,0:50:46.77,0:50:48.68,Default,,0,0,0,,Proszę, nie pilotuj Evy!
+Dialogue: 3,0:50:48.68,0:50:49.75,Default,,0,0,0,,Pilotuj Eve.
+Dialogue: 3,0:50:49.75,0:50:50.52,Default,,0,0,0,,Nie wiem.
+Dialogue: 0,0:51:17.56,0:51:20.06,Sign-Ayanami,,0,0,0,,{\fscx120\fscy105\b1\blur0.7\fsp1.8\frz-1.72\fs42\fry-1.5\frx-2\fax-0.006\fay-0.005\c&H140E13&\pos(1298.328,160.823)}AYANAMI
+Dialogue: 3,0:51:45.45,0:51:47.32,Default,,0,0,0,,Zejdź na dół, Ikari-kun.
+Dialogue: 3,0:51:47.79,0:51:48.58,Default,,0,0,0,,Porozmawiajmy.
+Dialogue: 3,0:51:54.08,0:51:55.14,Default,,0,0,0,,U-Uh...
+Dialogue: 3,0:51:55.14,0:51:57.55,Default,,0,0,0,,Nie mieliśmy porozmawiać?
+Dialogue: 3,0:51:57.55,0:52:00.39,Default,,0,0,0,,Duet fortepianowy jest dialogiem dźwięku.
+Dialogue: 3,0:52:00.39,0:52:01.75,Default,,0,0,0,,Dalej, spróbuj.
+Dialogue: 3,0:52:04.57,0:52:07.27,Default,,0,0,0,,Nie, jest dobrze. Nie umiem grać.
+Dialogue: 3,0:52:07.27,0:52:12.02,Default,,0,0,0,,Zmienianie się i uczenie nowych\Nrzeczy jest ważne żeby żyć dalej.
+Dialogue: 3,0:52:16.71,0:52:17.64,Default,,0,0,0,,To proste.
+Dialogue: 3,0:52:18.35,0:52:22.27,Default,,0,0,0,,Musisz jedynie przycisnąć gdzieś tutaj klawisz.
+Dialogue: 3,0:52:36.00,0:52:39.01,Default,,0,0,0,,Teraz spróbuj zagrać.
+Dialogue: 3,0:53:02.53,0:53:03.81,Default,,0,0,0,,Bardzo dobrze!
+Dialogue: 3,0:53:03.81,0:53:05.23,Default,,0,0,0,,Dobrze razem brzmimy.
+Dialogue: 3,0:53:40.87,0:53:42.85,Default,,0,0,0,,Każda nuta to przyjemność.
+Dialogue: 3,0:53:43.81,0:53:45.62,Default,,0,0,0,,To niesamowite, co dwoje ludzi może osiągnąć.
+Dialogue: 3,0:53:51.10,0:53:51.73,Default,,0,0,0,,Dziękuje.
+Dialogue: 3,0:53:52.57,0:53:55.13,Default,,0,0,0,,Już od dawna tak dobrze się nie bawiłem.
+Dialogue: 3,0:53:55.13,0:53:56.82,Default,,0,0,0,,Ja też.
+Dialogue: 3,0:53:56.82,0:53:57.82,Default,,0,0,0,,Musimy to powtórzyć.
+Dialogue: 3,0:53:57.82,0:54:00.48,Default,,0,0,0,,Możesz przyjść kiedy chcesz, Ikari Shinji-kun.
+Dialogue: 3,0:54:00.85,0:54:01.61,Default,,0,0,0,,Dobrze.
+Dialogue: 3,0:54:02.92,0:54:04.19,Default,,0,0,0,,Swoją drogą, kim jesteś?
+Dialogue: 3,0:54:04.19,0:54:07.27,Default,,0,0,0,,Jestem Kaworu. Nagisa Kaworu.
+Dialogue: 3,0:54:08.36,0:54:11.55,Default,,0,0,0,,Jestem dzieckiem wybranym przez los, jak i ty.
+Dialogue: 0,0:54:16.39,0:54:18.85,Sign-Ayanami,,0,0,0,,{\fscx120\fscy105\b1\blur0.7\fsp1.8\frz-1.72\fs42\fry-1.5\frx-2\fax-0.006\fay-0.005\c&H140E13&\pos(1298.328,160.823)}AYANAMI
+Dialogue: 3,0:54:17.60,0:54:18.85,Default,,0,0,0,,Dziś też jej nie ma.
+Dialogue: 3,0:54:19.80,0:54:21.23,Default,,0,0,0,,Nie dotykała w ogóle książek.
+Dialogue: 3,0:54:38.04,0:54:40.25,Default,,0,0,0,,Dzień dobry, Ikari Shinji-kun.
+Dialogue: 3,0:54:41.83,0:54:42.81,Default,,0,0,0,,Jesteś dzisiaj wcześnie.
+Dialogue: 3,0:54:44.06,0:54:45.97,Default,,0,0,0,,Nie mam innych zajęć.
+Dialogue: 3,0:55:15.31,0:55:18.63,Default,,0,0,0,,Jak mogę poprawić swoją grę?
+Dialogue: 3,0:55:18.63,0:55:21.57,Default,,0,0,0,,Nie musisz być w tym dobry.
+Dialogue: 3,0:55:21.57,0:55:24.45,Default,,0,0,0,,Twórz muzykę z przyjemnym uczuciem.
+Dialogue: 3,0:55:26.02,0:55:28.69,Default,,0,0,0,,Chcę tworzyć muzykę z jeszcze przyjemniejszym uczuciem. 
+Dialogue: 3,0:55:28.69,0:55:30.24,Default,,0,0,0,,Jak to zrobić?
+Dialogue: 3,0:55:30.24,0:55:32.02,Default,,0,0,0,,Potrzebna jest praktyka.
+Dialogue: 3,0:55:32.50,0:55:34.93,Default,,0,0,0,,Cały czas zaczynaj od początku.
+Dialogue: 3,0:55:34.93,0:55:38.53,Default,,0,0,0,,Powtarzaj to cały czas dopóki nie będziesz zadowolony.
+Dialogue: 3,0:55:38.53,0:55:39.97,Default,,0,0,0,,To jedyne rozwiązanie.
+Dialogue: 3,0:56:09.84,0:56:11.71,Default,,0,0,0,,Jest dobrze, zostaw to mi.
+Dialogue: 3,0:56:11.71,0:56:13.62,Default,,0,0,0,,Muszę go tylko naprawić, tak?
+Dialogue: 3,0:56:13.62,0:56:15.91,Default,,0,0,0,,Hm, dziękuje.
+Dialogue: 3,0:56:15.91,0:56:19.13,Default,,0,0,0,,Czuje się źle prosząc cię o tyle.
+Dialogue: 3,0:56:19.13,0:56:20.64,Default,,0,0,0,,Nie musisz się o to martwić.
+Dialogue: 3,0:56:21.15,0:56:23.10,Default,,0,0,0,,Jesteśmy przyjaciółmi. 
+Dialogue: 3,0:56:27.62,0:56:29.53,Default,,0,0,0,,Robi się ciemno.
+Dialogue: 3,0:56:29.53,0:56:30.60,Default,,0,0,0,,Może skończymy na dzisiaj?
+Dialogue: 3,0:56:31.63,0:56:34.67,Default,,0,0,0,,Może zostańmy jeszcze na chwilę?
+Dialogue: 3,0:56:34.67,0:56:36.59,Default,,0,0,0,,Możemy stąd pooglądać gwiazdy.
+Dialogue: 3,0:56:36.59,0:56:37.44,Default,,0,0,0,,Gwiazdy?
+Dialogue: 3,0:56:40.41,0:56:41.94,Default,,0,0,0,,Więc lubisz gwiazdy?
+Dialogue: 3,0:56:42.62,0:56:43.30,Default,,0,0,0,,Tak.
+Dialogue: 3,0:56:44.65,0:56:47.82,Default,,0,0,0,,Kiedy tylko pomyślę o niezmierności wszechświata,
+Dialogue: 3,0:56:47.82,0:56:51.94,Default,,0,0,0,,zawsze wprawia mnie to w stan ukojenia, odkąd byłem mały.
+Dialogue: 3,0:56:52.70,0:56:56.01,Default,,0,0,0,,Po tych czternastu latach nic się nie zmieniło. 
+Dialogue: 3,0:56:56.01,0:56:57.51,Default,,0,0,0,,Jestem przez to szczęśliwy.
+Dialogue: 3,0:56:58.27,0:57:03.21,Default,,0,0,0,,Sprawia, że mogę przestać się martwić i naprawdę uspokoić.
+Dialogue: 3,0:57:05.31,0:57:07.22,Default,,0,0,0,,Ciężko mi to wyrazić.
+Dialogue: 3,0:57:07.22,0:57:09.97,Default,,0,0,0,,Przekazałeś swoje uczucia.
+Dialogue: 3,0:57:09.97,0:57:11.97,Default,,0,0,0,,Zamiast poszukiwania zmiany,
+Dialogue: 3,0:57:11.97,0:57:14.94,Default,,0,0,0,,wolisz pustkę, bezlitosną otchłań świata.
+Dialogue: 3,0:57:15.48,0:57:16.54,Default,,0,0,0,,Są takie jak ty.
+Dialogue: 3,0:57:17.55,0:57:20.19,Default,,0,0,0,,Leżenie tu razem jest miłe, prawda?
+Dialogue: 3,0:57:21.18,0:57:23.69,Default,,0,0,0,,Nie wiedziałem, że to będzie aż tak przyjemne.
+Dialogue: 3,0:57:24.50,0:57:27.01,Default,,0,0,0,,Dziękuje za zaproszenie.
+Dialogue: 3,0:57:27.01,0:57:29.20,Default,,0,0,0,,Nie, to nic takiego...
+Dialogue: 3,0:57:29.20,0:57:34.41,Default,,0,0,0,,Myślałem, że będzie zabawnie pooglądać z tobą gwiazdy i—
+Dialogue: 3,0:57:35.61,0:57:36.73,Default,,0,0,0,,Jest zabawnie.
+Dialogue: 3,0:57:38.39,0:57:41.48,Default,,0,0,0,,Naprawdę urodziłem się żeby cię spotkać.
+Dialogue: 3,0:57:58.02,0:58:00.89,Default,,0,0,0,,Koszula jest trochę za duża.
+Dialogue: 3,0:58:01.99,0:58:02.64,Default,,0,0,0,,Huh?
+Dialogue: 0,0:58:02.64,0:58:03.64,Sign-Touji,,0,0,0,,{\blur0.8\b0\c&H917D6B&\frz-50.4986\fay-0.04\fax0.5\frx12\fsp-0.5\fry22\fs48\pos(1320,546)}Suzuhara
+Dialogue: 0,0:58:02.64,0:58:03.64,Sign-Touji,,0,0,0,,{\blur0.8\b0\c&H948371&\frz-31.5471\fscx110\fay-0.06\fax0.2\frx-15\fsp2\fs54\fry-26\pos(1392,654)}Touji
+Dialogue: 0,0:58:03.64,0:58:05.48,Sign-Touji,,0,0,0,,{\blur2\b0\c&H896C65&\frz-48.4986\fay-0.02\fax0.6\frx17\fry14\fsp-1\1a&H00&\fs112\pos(946,142)}Suzuhara
+Dialogue: 0,0:58:03.64,0:58:05.48,Sign-Touji,,0,0,0,,{\blur1.2\b0\c&H846864&\frz-31.5471\fscx110\fay-0.09\fax0.3\frx-16\fsp8\1a&H40&\fs144\fry-25\pos(1182,400)}Touji
+Dialogue: 3,0:58:08.60,0:58:11.05,Default,,0,0,0,,Masz. Powinien teraz działać.
+Dialogue: 3,0:58:11.92,0:58:12.77,Default,,0,0,0,,Dziękuje.
+Dialogue: 3,0:58:13.37,0:58:15.23,Default,,0,0,0,,Jesteś niesamowity, Nagisa-kun.
+Dialogue: 3,0:58:15.23,0:58:17.00,Default,,0,0,0,,Nie ma rzeczy której nie umiesz zrobić.
+Dialogue: 3,0:58:17.00,0:58:19.21,Default,,0,0,0,,To jedynie wiedza.
+Dialogue: 3,0:58:19.21,0:58:22.35,Default,,0,0,0,,To dlatego, że jestem na tym świecie trochę dłużej niż ty.
+Dialogue: 3,0:58:23.10,0:58:25.60,Default,,0,0,0,,Mimo wszystko, jesteś wciąż niesamowity.
+Dialogue: 3,0:58:27.22,0:58:29.18,Default,,0,0,0,,Nie wyglądasz najlepiej.
+Dialogue: 3,0:58:29.18,0:58:30.54,Default,,0,0,0,,Coś się stało?
+Dialogue: 3,0:58:34.35,0:58:37.10,Default,,0,0,0,,Martwię się o swoich przyjaciół.
+Dialogue: 3,0:58:38.07,0:58:38.80,Default,,0,0,0,,Twoich przyjaciół?
+Dialogue: 3,0:58:39.35,0:58:40.14,Default,,0,0,0,,Tak.
+Dialogue: 3,0:58:41.04,0:58:43.96,Default,,0,0,0,,Nad główną bazą NERVu znajdowało się miasto.
+Dialogue: 3,0:58:43.96,0:58:45.77,Default,,0,0,0,,Kiedyś wszyscy tam żyliśmy.
+Dialogue: 3,0:58:45.77,0:58:49.30,Default,,0,0,0,,Toji, Kensuke, Przewodnicząca,/Nreszta kolegów z klasy...
+Dialogue: 3,0:58:49.96,0:58:53.86,Default,,0,0,0,,Podobno spałem w Evie-01 przez czternaście lat.
+Dialogue: 3,0:58:54.58,0:58:58.31,Default,,0,0,0,,Przez ten czas wiele się zmieniło.
+Dialogue: 3,0:58:58.31,0:59:02.14,Default,,0,0,0,,Cierpisz, ponieważ nie możesz znieść tych zmian.
+Dialogue: 3,0:59:03.03,0:59:04.76,Default,,0,0,0,,Boje się.
+Dialogue: 3,0:59:05.86,0:59:10.56,Default,,0,0,0,,Nie wiem.../Nco stało się z miastem i z wszystkimi.
+Dialogue: 3,0:59:11.34,0:59:13.49,Default,,0,0,0,,Nic nie ma sensu i to mnie przeraża.
+Dialogue: 3,0:59:13.49,0:59:15.27,Default,,0,0,0,,Tak, jestem przerażony!
+Dialogue: 3,0:59:23.75,0:59:24.98,Default,,0,0,0,,Chcesz wiedzieć?
+Dialogue: 3,0:59:53.23,0:59:54.54,Default,,0,0,0,,Nagisa-kun?
+Dialogue: 3,0:59:54.54,0:59:55.81,Default,,0,0,0,,Nagisa-kun!
+Dialogue: 3,1:00:10.88,1:00:11.77,Default,,0,0,0,,Chodź. 
+Dialogue: 3,1:00:11.77,1:00:13.29,Default,,0,0,0,,Jeszcze tylko kawałek.
+Dialogue: 3,1:00:30.76,1:00:32.69,Default,,0,0,0,,Chmury wkrótce się rozproszą,
+Dialogue: 3,1:00:33.37,1:00:35.59,Default,,0,0,0,,i poznasz prawdę której chciałeś.
+Dialogue: 3,1:00:43.89,1:00:44.98,Default,,0,0,0,,Co {\i1}to{\i0\fscx130} {\r}jest?
+Dialogue: 3,1:00:51.10,1:00:56.85,Default,,0,0,0,,Wynik Trzeciego Uderzenia,\Nnastałego po twoim połączeniu się z Evą-01.
+Dialogue: 3,1:00:59.73,1:01:03.48,Default,,0,0,0,,Ale co się stało z wszystkimi w mieście?
+Dialogue: 3,1:01:04.03,1:01:07.19,Default,,0,0,0,,Masowa zagłada nie jest nieznana tej planecie.
+Dialogue: 3,1:01:07.67,1:01:10.73,Default,,0,0,0,,Stanowi aspekt który napędza ewolucję.
+Dialogue: 3,1:01:10.73,1:01:16.96,Default,,0,0,0,,Życie zawsze zmieniało formy,\Nw celu adaptacji do otaczającego świata.
+Dialogue: 3,1:01:16.96,1:01:22.51,Default,,0,0,0,,Jednak, Lilin zmienia świat, zamiast zmieniać siebie.{Lilin as a collective noun i.e. treated as singular, like "humanity"}
+Dialogue: 3,1:01:23.12,1:01:28.52,Default,,0,0,0,,Przeprowadza rytuał żeby sztucznie ewoluować.
+Dialogue: 3,1:01:29.44,1:01:35.98,Default,,0,0,0,,Poświęca stare życia aby jego nowe formy\Nbłogosławione Owocem Życia, mogły zostać stworzone.
+Dialogue: 3,1:01:37.32,1:01:41.98,Default,,0,0,0,,Wszystko to jest odwiecznym aktem zagłady, który\Npozostaje ich zaprogramową częścią od niepamiętnych czasów.  
+Dialogue: 3,1:01:41.98,1:01:45.77,Default,,0,0,0,,NERV nazywa to Projektem Dopełnienia Ludzkości.
+Dialogue: 3,1:01:46.85,1:01:49.79,Default,,0,0,0,,To dzieło NERVu?
+Dialogue: 3,1:01:52.05,1:01:54.05,Default,,0,0,0,,To jest dzieło mojego ojca?
+Dialogue: 3,1:01:56.77,1:01:58.01,Default,,0,0,0,,Ikari Shinji-kun.
+Dialogue: 3,1:01:58.73,1:02:03.53,Default,,0,0,0,,Jednostka Eva 01 Obudziła się i otwarła Wrota Guf,
+Dialogue: 3,1:02:03.53,1:02:06.19,Default,,0,0,0,,działając jako zapalnik dla Trzeciego Uderzenia.
+Dialogue: 3,1:02:07.06,1:02:09.64,Default,,0,0,0,,Lilin nazywają to Niepełnym Trzecim Uderzenim.
+Dialogue: 3,1:02:10.97,1:02:13.62,Default,,0,0,0,,{\i1}Ty{\i0\fscx130} {\r}jesteś tego przyczyną. 
+Dialogue: 3,1:02:17.41,1:02:18.69,Default,,0,0,0,,Nie...
+Dialogue: 3,1:02:19.36,1:02:23.42,Default,,0,0,0,,Chciałem jedynie ocalić Ayanami!
+Dialogue: 3,1:02:24.94,1:02:26.64,Default,,0,0,0,,Może i tak. 
+Dialogue: 3,1:02:26.64,1:02:28.87,Default,,0,0,0,,Jednak nadal było to przyczyną.
+Dialogue: 3,1:02:29.85,1:02:31.26,Default,,0,0,0,,Nie...
+Dialogue: 3,1:02:33.90,1:02:36.04,Default,,0,0,0,,To nie może być prawda!
+Dialogue: 3,1:02:36.04,1:02:39.46,Default,,0,0,0,,To dla mnie za dużo! Nie mogę nic zrobić!
+Dialogue: 3,1:02:39.46,1:02:40.64,Default,,0,0,0,,Masz rację.
+Dialogue: 3,1:02:40.64,1:02:43.11,Default,,0,0,0,,Nie ma sposobu aby zmienić twoją przeszłość.
+Dialogue: 3,1:02:43.82,1:02:46.20,Default,,0,0,0,,To prawda której porządałeś.
+Dialogue: 3,1:02:47.18,1:02:51.52,Default,,0,0,0,,W rezultacie, Lilin ukarał cię za twe grzechy.
+Dialogue: 3,1:02:52.19,1:02:55.38,Default,,0,0,0,,Czyż to nie ta rzecz na twojej szyi?
+Dialogue: 3,1:02:56.49,1:02:58.28,Default,,0,0,0,,Moje grzechy?
+Dialogue: 3,1:02:59.25,1:03:00.89,Default,,0,0,0,,Ja nic nie zrobiłem!
+Dialogue: 3,1:03:00.89,1:03:02.48,Default,,0,0,0,,Nie mam z tym nic wspólnego!
+Dialogue: 3,1:03:03.01,1:03:05.52,Default,,0,0,0,,Możesz temu zaprzeczać,\Njednak ludzkość spostrzega to inaczej.
+Dialogue: 3,1:03:07.06,1:03:10.21,Default,,0,0,0,,Jednak nie ma grzechu którego nie można odkupić.
+Dialogue: 3,1:03:11.10,1:03:13.31,Default,,0,0,0,,Zawsze jest nadzieja.
+Dialogue: 3,1:03:13.31,1:03:14.55,Default,,0,0,0,,Bez względu na okoliczności.
+Dialogue: 3,1:03:31.89,1:03:35.59,Default,,0,0,0,,Dziecko SEELE nawiązało kontakt z Trzecim Dzieckiem.
+Dialogue: 3,1:03:35.59,1:03:37.64,Default,,0,0,0,,Wygląda na to, że pokazał mu zewnętrzny świat.
+Dialogue: 3,1:03:38.35,1:03:40.93,Default,,0,0,0,,Zastanawiam się, jak sobie z tym poradzi.
+Dialogue: 3,1:03:42.02,1:03:43.48,Default,,0,0,0,,Jesteś tego pewien, Ikari?
+Dialogue: 3,1:03:44.03,1:03:47.65,Default,,0,0,0,,Napiszemy scenariusz SEELE od nowa.
+Dialogue: 3,1:03:47.65,1:03:50.89,Default,,0,0,0,,Wszystko istniejące, jest narzędziem do tego celu.
+Dialogue: 3,1:03:50.89,1:03:55.77,Default,,0,0,0,,Więc uważasz,\Nże twój syn nie skorzystałby na ujrzeniu twego życia?
+Dialogue: 3,1:03:57.22,1:03:59.27,Default,,0,0,0,,Muszę się nie zgodzić.
+Dialogue: 3,1:04:01.98,1:04:03.48,Default,,0,0,0,,Nie rozumiem.
+Dialogue: 3,1:04:05.22,1:04:07.27,Default,,0,0,0,,Czemu wszystko jest takie pokręcone?
+Dialogue: 3,1:04:11.35,1:04:12.41,Default,,0,0,0,,Oh, racja.
+Dialogue: 3,1:04:13.37,1:04:15.35,Default,,0,0,0,,Udało mi się uratować Ayanami.
+Dialogue: 3,1:04:16.24,1:04:17.60,Default,,0,0,0,,Czy to nie wystarczy?
+Dialogue: 0,1:04:35.89,1:04:39.60,Sign-Ayanami,,0,0,0,,{\fscx120\fscy105\b1\blur0.7\fsp1.8\frz-1.72\fs42\fry-1.5\frx-2\fax-0.006\fay-0.005\c&H140E13&\pos(1298.328,160.823)}AYANAMI
+Dialogue: 3,1:04:41.09,1:04:42.50,Default,,0,0,0,,Znów jej nie ma.
+Dialogue: 3,1:04:43.27,1:04:45.02,Default,,0,0,0,,Nadal nie tknęła książek.
+Dialogue: 3,1:04:46.99,1:04:48.39,Default,,0,0,0,,Nie rozumiem!
+Dialogue: 3,1:04:49.06,1:04:52.05,Default,,0,0,0,,Co jest z Ayanami?!
+Dialogue: 3,1:05:01.16,1:05:02.71,Default,,0,0,0,,Trzecie Dziecko.
+Dialogue: 3,1:05:02.71,1:05:04.55,Default,,0,0,0,,Grasz w shogi?
+Dialogue: 3,1:05:05.28,1:05:08.33,Default,,0,0,0,,Cóż, znam jedynie zasady.
+Dialogue: 3,1:05:08.33,1:05:09.69,Default,,0,0,0,,To wystarczy. 
+Dialogue: 3,1:05:09.69,1:05:11.38,Default,,0,0,0,,Zargrajmy więc.
+Dialogue: 3,1:05:11.38,1:05:13.22,Default,,0,0,0,,Zacznę bez wieży, gońca i złotego generała.
+Dialogue: 3,1:05:21.28,1:05:23.81,Default,,0,0,0,,Wycisz umysł.
+Dialogue: 3,1:05:24.43,1:05:26.93,Default,,0,0,0,,To istotne by wygrać bitwę.
+Dialogue: 3,1:05:28.18,1:05:31.53,Default,,0,0,0,,Przegrywasz w trzydziestu jeden ruchach.
+Dialogue: 3,1:05:40.20,1:05:41.77,Default,,0,0,0,,Może w ten sposób znajdziesz więcej zabawy.
+Dialogue: 3,1:05:44.08,1:05:47.97,Default,,0,0,0,,Dziękuje ci za oddanie się hobby starca.
+Dialogue: 3,1:05:51.74,1:05:53.52,Default,,0,0,0,,Widzisz, ja też jestem raczej nieśmiały.
+Dialogue: 3,1:05:53.52,1:05:58.10,Default,,0,0,0,,Potrzebowałem tej wymówki, żeby mieć szansę na rozmowę.
+Dialogue: 3,1:05:59.35,1:06:01.79,Default,,0,0,0,,Pamiętasz swoją matkę?
+Dialogue: 3,1:06:02.89,1:06:04.67,Default,,0,0,0,,Nie.
+Dialogue: 3,1:06:04.67,1:06:06.60,Default,,0,0,0,,Byłem za mały.
+Dialogue: 3,1:06:06.60,1:06:11.38,Default,,0,0,0,,Ojciec pozbył się wszystkiego co do niej należało.
+Dialogue: 3,1:06:16.09,1:06:17.10,Default,,0,0,0,,Czy to...
+Dialogue: 3,1:06:19.15,1:06:20.14,Default,,0,0,0,,...Ayanami?
+Dialogue: 3,1:06:20.14,1:06:22.76,Default,,0,0,0,,To twoja matka.
+Dialogue: 3,1:06:22.76,1:06:25.25,Default,,0,0,0,,Jej nazwiskiem panieńskim było Ayanami Yui.
+Dialogue: 3,1:06:25.25,1:06:27.52,Default,,0,0,0,,Była moją studentką na uniwersytecie.
+Dialogue: 3,1:06:28.75,1:06:32.69,Default,,0,0,0,,Jest obecnie w systemach kontroli Jednostki EVA 01.
+Dialogue: 3,1:06:36.13,1:06:39.61,Default,,0,0,0,,Oh, Moc została w końcu przywrócona.
+Dialogue: 3,1:06:42.16,1:06:44.96,Default,,0,0,0,,To bardzo wczesny prototyp systemu kontroli EVA.
+Dialogue: 3,1:06:45.83,1:06:50.54,Default,,0,0,0,,To tam Yui-kun zaproponowała bezpośrednie wejście w rdzeń,
+Dialogue: 3,1:06:50.54,1:06:52.94,Default,,0,0,0,,i sama go testowała jako obiekt.
+Dialogue: 3,1:06:53.89,1:06:57.52,Default,,0,0,0,,Też to widziałeś,\Nchoć twoje wspomnienia zostały wymazane.
+Dialogue: 3,1:07:04.00,1:07:07.57,Default,,0,0,0,,W efekcie eksperymentu Yui-kun zniknęła tutaj,
+Dialogue: 3,1:07:07.57,1:07:10.98,Default,,0,0,0,,i tylko jej dane zostały przywrócone, w serii Ayanami.
+Dialogue: 3,1:07:11.45,1:07:16.93,Default,,0,0,0,,Ayanami Rei którą znasz, jednym z klonów Yui-kun.
+Dialogue: 3,1:07:16.93,1:07:22.24,Default,,0,0,0,,Zachowała się wewnątrz EVY-01, tak jak twoja matka.
+Dialogue: 3,1:07:22.24,1:07:24.31,Default,,0,0,0,,To wszystko plan Ikariego.
+Dialogue: 3,1:07:25.57,1:07:27.19,Default,,0,0,0,,Niemożliwe...
+Dialogue: 3,1:07:28.69,1:07:31.85,Default,,0,0,0,,Zniszczenie świata nie jest ciężkie.
+Dialogue: 3,1:07:32.61,1:07:36.65,Default,,0,0,0,,Jednakże, Odbudowa go także nie jest łatwa. 
+Dialogue: 3,1:07:36.65,1:07:40.23,Default,,0,0,0,,Tak jak i czas, świat jest pozbawiony odwracalności.
+Dialogue: 3,1:07:41.31,1:07:42.94,Default,,0,0,0,,Także ludzkie serca.
+Dialogue: 3,1:07:42.94,1:07:49.14,Default,,0,0,0,,To powód dla którego Ikari poświęca wszystko/Nby życzenie mogło się spełnić.
+Dialogue: 3,1:07:49.14,1:07:51.35,Default,,0,0,0,,Wliczając w to jego duszę.
+Dialogue: 3,1:07:52.63,1:07:55.69,Default,,0,0,0,,Chciałem ci tylko trochę opowiedzieć o prawdzie
+Dialogue: 3,1:07:55.69,1:07:57.64,Default,,0,0,0,,i o twoim ojcu.
+Dialogue: 3,1:08:09.59,1:08:12.13,Default,,0,0,0,,Mogłem dostać milsze zadanie.
+Dialogue: 3,1:08:13.23,1:08:13.81,Default,,0,0,0,,Yui-kun.
+Dialogue: 3,1:08:15.35,1:08:16.57,Default,,0,0,0,,Mam nadzieję, że to wystarczy.
+Dialogue: 3,1:08:23.56,1:08:26.06,Default,,0,0,0,,Czas ostatecznero rozliczenia się zbliża.
+Dialogue: 3,1:08:28.10,1:08:31.56,Default,,0,0,0,,Spotkamy się w krótce, Yui.
+Dialogue: 3,1:08:39.80,1:08:42.73,Default,,0,0,0,,Dlaczego nie czytasz książek?
+Dialogue: 3,1:08:43.93,1:08:45.98,Default,,0,0,0,,To nie był twój rozkaz.
+Dialogue: 3,1:08:45.98,1:08:47.17,Default,,0,0,0,,To nie był twój rozkaz, co?
+Dialogue: 3,1:08:49.09,1:08:50.84,Default,,0,0,0,,Dobra, starczy!
+Dialogue: 3,1:08:53.39,1:08:54.64,Default,,0,0,0,,Hej.
+Dialogue: 3,1:08:55.17,1:08:56.97,Default,,0,0,0,,To wciąż ty Ayanami?
+Dialogue: 3,1:08:56.97,1:09:00.11,Default,,0,0,0,,Tak. Ayanami Rei.
+Dialogue: 3,1:09:00.11,1:09:02.39,Default,,0,0,0,,Więc, uratowałem cię wtedy, tak?
+Dialogue: 3,1:09:03.58,1:09:04.39,Default,,0,0,0,,Nie wiem.
+Dialogue: 3,1:09:13.34,1:09:14.30,Default,,0,0,0,,Ikari-kun?
+Dialogue: 3,1:09:20.07,1:09:25.77,Default,,0,0,0,,Więc jej nie uratowałem.
+Dialogue: 0,1:09:26.26,1:09:27.32,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:26.38,1:09:27.42,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:26.48,1:09:29.43,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{main series?}Co za idiota. Nienawidzę cię.
+Dialogue: 0,1:09:26.99,1:09:28.19,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:27.32,1:09:28.19,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:27.42,1:09:28.47,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,0)\blur3}Trzymaj się z dala.
+Dialogue: 0,1:09:27.42,1:09:28.05,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:28.05,1:09:28.83,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:28.19,1:09:28.95,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:28.27,1:09:31.13,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}Będąc szczera, nie tylko cię nienawidzę.
+Dialogue: 0,1:09:28.47,1:09:31.13,Hallucinations-TR,Front Right,0,0,0,,{\fad(0,240)\blur3}Chciałabym, żebyś nie istniał.
+Dialogue: 0,1:09:28.83,1:09:29.81,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:28.95,1:09:29.76,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:29.43,1:09:31.72,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}Nie ma mowy, żebym nadstawiała za ciebie głowę.
+Dialogue: 0,1:09:29.76,1:09:30.48,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}Miłego myślenia.
+Dialogue: 0,1:09:29.81,1:09:30.49,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 3,1:09:30.23,1:09:31.52,Default,,0,0,0,,Ojcze...
+Dialogue: 0,1:09:30.49,1:09:31.61,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:31.13,1:09:33.07,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}Najbardziej nienawidzę ludzi takich jak ty.
+Dialogue: 0,1:09:31.31,1:09:32.45,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{mou acchi ittete}Po prostu przepadnij.
+Dialogue: 0,1:09:31.61,1:09:32.39,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:31.72,1:09:33.05,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:32.39,1:09:33.25,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:32.45,1:09:33.45,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:33.05,1:09:34.57,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:33.07,1:09:34.57,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:33.45,1:09:34.57,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:33.64,1:09:34.65,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:34.57,1:09:35.87,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:34.57,1:09:35.87,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:34.65,1:09:35.77,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:35.77,1:09:37.80,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:35.87,1:09:37.83,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:35.87,1:09:38.06,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:37.80,1:09:39.27,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:37.83,1:09:39.35,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:37.83,1:09:39.42,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:38.06,1:09:38.91,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:38.06,1:09:39.35,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 3,1:09:38.69,1:09:39.96,Default,,0,0,0,,Matko...
+Dialogue: 0,1:09:38.91,1:09:40.66,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:39.29,1:09:41.16,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:39.35,1:09:41.24,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:39.42,1:09:41.24,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:39.67,1:09:41.24,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:41.16,1:09:42.21,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:41.24,1:09:43.22,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:41.24,1:09:43.23,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:41.94,1:09:43.23,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:42.10,1:09:43.23,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:42.21,1:09:43.31,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:43.23,1:09:44.54,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:43.23,1:09:45.80,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}Twoje istnienie nie ma dla mnie znaczenia.
+Dialogue: 0,1:09:43.31,1:09:43.97,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:43.74,1:09:45.80,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes
+Dialogue: 0,1:09:44.11,1:09:45.13,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:44.54,1:09:45.80,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:45.13,1:09:45.79,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:45.79,1:09:47.74,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:45.80,1:09:46.77,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:45.80,1:09:48.67,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}Zniknij wreszcie.
+Dialogue: 0,1:09:45.80,1:09:47.85,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:46.77,1:09:47.50,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:47.50,1:09:50.06,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:47.85,1:09:49.73,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}Jesteś dla mnie ciężarem jako przyjaciel.
+Dialogue: 0,1:09:47.85,1:09:49.73,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 3,1:09:48.15,1:09:49.71,Default,,0,0,0,,Misato-san...
+Dialogue: 0,1:09:49.73,1:09:50.81,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:49.73,1:09:50.31,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:50.06,1:09:51.94,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}Będąc szczera, nie tylko cię nienawidzę.
+Dialogue: 0,1:09:50.31,1:09:51.34,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:50.81,1:09:52.63,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:51.24,1:09:53.07,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:51.39,1:09:53.07,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:51.94,1:09:54.03,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}Najbardziej nienawidzę ludzi takich jak ty.
+Dialogue: 0,1:09:52.79,1:09:54.11,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:53.07,1:09:53.89,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:53.89,1:09:55.20,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:54.03,1:09:55.20,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:54.61,1:09:55.29,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:55.20,1:09:56.85,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:55.20,1:09:56.85,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:55.29,1:09:56.45,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:55.45,1:09:56.41,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}Pa Pa!
+Dialogue: 0,1:09:55.50,1:09:56.17,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}Pa Pa!
+Dialogue: 0,1:09:56.17,1:09:56.85,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:56.41,1:09:57.25,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił.
+Dialogue: 0,1:09:56.45,1:09:57.12,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:09:56.85,1:09:58.41,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:56.92,1:09:57.80,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:57.12,1:09:58.03,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:57.25,1:09:57.80,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:57.80,1:09:58.41,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:09:57.97,1:10:00.06,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:58.03,1:09:59.88,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:09:58.41,1:10:00.06,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:09:58.62,1:10:00.06,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:09:59.17,1:10:00.06,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:09:59.88,1:10:00.97,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:00.06,1:10:01.67,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:00.44,1:10:02.74,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:00.45,1:10:02.74,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:00.97,1:10:01.67,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:01.67,1:10:02.74,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:02.74,1:10:03.81,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:02.74,1:10:03.81,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:02.74,1:10:03.81,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:02.74,1:10:03.81,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:02.74,1:10:03.81,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{nanimo shinaide}Nic nie będziesz robił
+Dialogue: 0,1:10:03.81,1:10:05.40,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:03.81,1:10:05.40,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:03.81,1:10:05.40,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:03.81,1:10:05.40,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:03.81,1:10:05.40,Hallucinations-TC,Center,0,0,0,,{\fad(180,240)\blur3}{anta ni wa kankei nai}To nie twój interes.
+Dialogue: 0,1:10:05.40,1:10:07.16,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:05.40,1:10:07.16,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:05.40,1:10:07.16,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:05.40,1:10:07.16,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:05.40,1:10:07.16,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni dake wa noranaide kudasai yo}Proszę, tylko nie pilotuj EVY!
+Dialogue: 0,1:10:07.59,1:10:08.40,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:10:07.59,1:10:08.40,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:10:07.59,1:10:08.40,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:10:07.59,1:10:08.40,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:10:07.59,1:10:08.40,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{shiranai}Nie wiem.
+Dialogue: 0,1:10:08.40,1:10:09.64,Hallucinations-BR,Surround Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:08.40,1:10:09.64,Hallucinations-BL,Surround Left,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:08.40,1:10:09.64,Hallucinations-TR,Front Right,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:08.40,1:10:09.64,Hallucinations-TL,Front Left,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 0,1:10:08.40,1:10:09.64,Hallucinations-TC,Center,0,0,0,,{\fad(180,120)\blur3}{eva ni nore}Pilotuj EVĘ.
+Dialogue: 3,1:10:16.71,1:10:18.61,Default,,0,0,0,,Co ja robiłem?
+Dialogue: 3,1:10:54.78,1:10:58.51,Default,,0,0,0,,Ostateczny egzekutor jest ukończony.
+Dialogue: 3,1:10:58.51,1:10:59.72,Default,,0,0,0,,Tak.
+Dialogue: 3,1:10:59.72,1:11:01.97,Default,,0,0,0,,Wszystkie narzędzia zostały zebrane.
+Dialogue: 3,1:11:05.24,1:11:07.73,Default,,0,0,0,,Nadszedł już czas.
+Dialogue: 3,1:11:07.73,1:11:10.38,Default,,0,0,0,,To już to, Ikari Shinji-kun.
+Dialogue: 3,1:11:11.23,1:11:11.98,Default,,0,0,0,,Nie!
+Dialogue: 3,1:11:13.55,1:11:16.10,Default,,0,0,0,,Nie chcę już nigdy pilotować EVY!
+Dialogue: 3,1:11:16.10,1:11:18.46,Default,,0,0,0,,Nawet nie uratowałem Ayanami!
+Dialogue: 3,1:11:18.46,1:11:21.30,Default,,0,0,0,,Pilotowanie EVY nie przyniosło nigdy nic dobrego!
+Dialogue: 3,1:11:21.30,1:11:22.39,Default,,0,0,0,,Mam dość!
+Dialogue: 3,1:11:22.39,1:11:23.69,Default,,0,0,0,,Nie chcę już nic robić!
+Dialogue: 3,1:11:24.57,1:11:31.14,Default,,0,0,0,,Rozpamiętywanie bolesnych wspomnień\Ntakże nie przynosi nic dobrego.
+Dialogue: 3,1:11:32.61,1:11:34.39,Default,,0,0,0,,Nic nigdy nie było dobre!
+Dialogue: 3,1:11:34.89,1:11:37.02,Default,,0,0,0,,Jesteś tym który mi to uzmysłowił!
+Dialogue: 3,1:11:37.79,1:11:40.79,Default,,0,0,0,,Ten krwisto-czerwony świat poza zbawieniem...
+Dialogue: 3,1:11:40.79,1:11:42.65,Default,,0,0,0,,EVA jest tym co przyniosło zmianę,
+Dialogue: 3,1:11:42.65,1:11:44.81,Default,,0,0,0,,więc użyj EVY by zmienić to raz jeszcze. 
+Dialogue: 3,1:11:44.81,1:11:50.23,Default,,0,0,0,,Ładne słowa, ale nadal nie mogę ufać EVA'ie,\NOjcowi, Misato-san, komukolwiek, czy czemukolwiek!
+Dialogue: 3,1:11:51.49,1:11:54.06,Default,,0,0,0,,Nadal chce żebyś mi zaufał.
+Dialogue: 3,1:11:54.06,1:11:55.44,Default,,0,0,0,,Nie mogę!
+Dialogue: 3,1:11:57.53,1:12:01.77,Default,,0,0,0,,Misato-san i jej załoga założyła to na mnie.
+Dialogue: 3,1:12:01.77,1:12:04.35,Default,,0,0,0,,Mówili mi żebyj już nigdy nie pilotował EVY.
+Dialogue: 3,1:12:04.35,1:12:06.52,Default,,0,0,0,,Zapewnili, że mnie zabiją jeżeli będę.
+Dialogue: 3,1:12:10.62,1:12:13.69,Default,,0,0,0,,Już nie obchodzi mnie EVA.
+Dialogue: 3,1:12:16.98,1:12:17.85,Default,,0,0,0,,Rozumiem.
+Dialogue: 3,1:12:18.83,1:12:23.67,Default,,0,0,0,,Przyjmę na siebie ciężar klątwy Lilin\Ni ryzyko Obudzenia EVY.
+Dialogue: 3,1:12:30.00,1:12:31.52,Default,,0,0,0,,Nagisa-kun...
+Dialogue: 3,1:12:32.32,1:12:34.45,Default,,0,0,0,,Nie martw się.
+Dialogue: 3,1:12:34.45,1:12:38.20,Default,,0,0,0,,Lilin zrobiła to, ponieważ bała się mnie od początku.
+Dialogue: 3,1:12:38.20,1:12:40.87,Default,,0,0,0,,Byłem przeznaczony do zrobienia tego w pewnym momencie.
+Dialogue: 3,1:12:43.49,1:12:44.60,Default,,0,0,0,,Ikari Shinji-kun.
+Dialogue: 3,1:12:45.44,1:12:49.59,Default,,0,0,0,,Twoja nadzieja leży w dwóch włóczniach\Npozostalych w epicentrum Uderzenia w Dogmacie.
+Dialogue: 3,1:12:49.59,1:12:52.42,Default,,0,0,0,,Są kluczem do aktywacji Projektu Dopełnienia.
+Dialogue: 3,1:12:53.22,1:12:55.74,Default,,0,0,0,,Musimy zabrać te włócznie dla siebie.
+Dialogue: 3,1:12:56.29,1:13:00.92,Default,,0,0,0,,Jeśli to zrobimy, NERV nie będzie mógł\Nzostać zapalnikiem Czwartego Uderzenia,
+Dialogue: 3,1:13:00.92,1:13:05.59,Default,,0,0,0,,i jeśli użyjemy ich razem z jednostką 13,\Nbędzie możliwe naprawienie świata.
+Dialogue: 3,1:13:07.09,1:13:08.52,Default,,0,0,0,,Masz rację.
+Dialogue: 3,1:13:09.97,1:13:13.34,Default,,0,0,0,,Tak, na pewno możesz to zrobić.
+Dialogue: 3,1:13:13.80,1:13:15.81,Default,,0,0,0,,Miałeś na myśli, że {\i1}my{\i0\fscx130} {\r}możemy to zrobić.
+Dialogue: 3,1:13:16.43,1:13:20.61,Default,,0,0,0,,Jednostka EVA 13 posiada system na dwóch pilotów.
+Dialogue: 3,1:13:20.61,1:13:23.53,Default,,0,0,0,,Zostańmy razem nadzieją Lilin.
+Dialogue: 3,1:13:23.53,1:13:27.85,Default,,0,0,0,,To czego najbardziej teraz potrzebujesz\Njest nadzieja,
+Dialogue: 3,1:13:27.85,1:13:31.27,Default,,0,0,0,,wraz z pokutą i otwartym sercem.
+Dialogue: 3,1:13:33.39,1:13:36.10,Default,,0,0,0,,Jesteś niesamowity. 
+Dialogue: 3,1:13:36.10,1:13:38.06,Default,,0,0,0,,Wiesz wszystko.
+Dialogue: 3,1:13:38.06,1:13:41.23,Default,,0,0,0,,To dlatego, że zawsze o tobie myślę.
+Dialogue: 3,1:13:44.07,1:13:46.39,Default,,0,0,0,,Dziękuję, Nagisa-kun.
+Dialogue: 3,1:13:46.89,1:13:48.60,Default,,0,0,0,,"Kaworu" wystarczy.
+Dialogue: 3,1:13:50.05,1:13:51.08,Default,,0,0,0,,Więc, uh...
+Dialogue: 3,1:13:51.94,1:13:53.94,Default,,0,0,0,,"Shinji" też wystarczy.
+Dialogue: 3,1:13:57.41,1:13:59.49,Default,,0,0,0,,To tak jak gra na pianinie.
+Dialogue: 3,1:13:59.49,1:14:02.92,Default,,0,0,0,,Będzie dobrze jak zrobimy to razem, Shinji-kun.
+Dialogue: 3,1:14:03.36,1:14:04.22,Default,,0,0,0,,Tak.
+Dialogue: 3,1:14:05.42,1:14:07.89,Default,,0,0,0,,Chodźmy, Kaworu-kun.
+Dialogue: 3,1:14:47.11,1:14:48.94,Default,,0,0,0,,Evangelion Jednostka 13.
+Dialogue: 3,1:14:48.94,1:14:49.68,Default,,0,0,0,,Aktywacja!
+Dialogue: 3,1:14:51.66,1:14:52.46,Default,,0,0,0,,Nadchodzi sygnał!
+Dialogue: 3,1:14:52.46,1:14:54.78,Default,,0,0,0,,Aktywacja nowej EVY potwierdzona!
+Dialogue: 3,1:15:14.85,1:15:16.88,Default,,0,0,0,,Nie jesteśmy sami.
+Dialogue: 3,1:15:16.88,1:15:19.13,Default,,0,0,0,,Chodzi ci o Mk. 09?
+Dialogue: 3,1:15:19.13,1:15:20.92,Default,,0,0,0,,Jest tutaj jako nasze wsparcie.
+Dialogue: 3,1:15:20.92,1:15:23.44,Default,,0,0,0,,Ostrzeże nas przed działaniami Wille.
+Dialogue: 3,1:15:23.44,1:15:25.89,Default,,0,0,0,,Nasza dwójka powinna wystarczyć.
+Dialogue: 3,1:15:27.34,1:15:28.85,Default,,0,0,0,,To i tak nie Ayanami.
+Dialogue: 3,1:15:28.85,1:15:31.12,Default,,0,0,0,,Nie jestem Ayanami?
+Dialogue: 3,1:15:36.60,1:15:37.64,Default,,0,0,0,,Ściany są...
+Dialogue: 3,1:15:37.64,1:15:38.92,Default,,0,0,0,,Tak.
+Dialogue: 3,1:15:38.92,1:15:41.53,Default,,0,0,0,,Wszystkie upadły, by stać się nieskończone
+Dialogue: 3,1:15:45.94,1:15:48.89,Default,,0,0,0,,Staraj się o nich nie myśleć.
+Dialogue: 3,1:15:50.92,1:15:52.89,Default,,0,0,0,,Niedługo osiągniemy barierę Lilith.
+Dialogue: 3,1:15:52.89,1:15:56.03,Default,,0,0,0,,Główny szyb jest całkowicie zablokowany,
+Dialogue: 3,1:15:56.03,1:15:59.72,Default,,0,0,0,,nie pozwalając się tam nikomu dostać przez 14 lat.
+Dialogue: 3,1:16:04.99,1:16:07.55,Default,,0,0,0,,Jest jak jedna, wielka pokrywa.
+Dialogue: 3,1:16:07.55,1:16:09.17,Default,,0,0,0,,Nie martw się.
+Dialogue: 3,1:16:09.17,1:16:11.85,Default,,0,0,0,,Jednostka 13 została stworzona do przebicia się przez to.
+Dialogue: 3,1:16:11.85,1:16:13.64,Default,,0,0,0,,Możemy to zrobić razem.
+Dialogue: 3,1:16:14.44,1:16:15.02,Default,,0,0,0,,Tak.
+Dialogue: 3,1:16:24.07,1:16:25.92,Default,,0,0,0,,Dopasujmy nasze tempo.
+Dialogue: 3,1:16:25.92,1:16:28.48,Default,,0,0,0,,Myśl o naszym fortepianowym duecie.
+Dialogue: 3,1:16:32.05,1:16:33.47,Default,,0,0,0,,Dalej, Shinji-kun.
+Dialogue: 3,1:16:56.06,1:16:56.98,Default,,0,0,0,,Udało na się!
+Dialogue: 3,1:17:14.53,1:17:16.19,Default,,0,0,0,,Dotarliśmy. 
+Dialogue: 3,1:17:16.19,1:17:18.55,Default,,0,0,0,,Najgłębsza część Centralnego Dogmatu.
+Dialogue: 3,1:17:22.58,1:17:24.81,Default,,0,0,0,,Epicentrum Trzeciego Uderzenia.
+Dialogue: 3,1:17:29.88,1:17:31.74,Default,,0,0,0,,Czy to Lilith?
+Dialogue: 3,1:17:31.74,1:17:33.48,Default,,0,0,0,,To {\i1}była{\i0\fscx130} {\r}ona.
+Dialogue: 3,1:17:33.48,1:17:35.63,Default,,0,0,0,,Teraz to jej zwłoki.
+Dialogue: 3,1:17:35.63,1:17:36.85,Default,,0,0,0,,Misato-san...
+Dialogue: 3,1:17:37.34,1:17:39.64,Default,,0,0,0,,Ryzykowaliśmy życia by to chronić...
+Dialogue: 3,1:17:41.85,1:17:43.65,Default,,0,0,0,,Huh? Czy to Eva?
+Dialogue: 3,1:17:43.65,1:17:46.64,Default,,0,0,0,,Tak. To EVA Mk. 06.
+Dialogue: 3,1:17:46.64,1:17:52.81,Default,,0,0,0,,To czym została, wykorzystana\Nprzez Lilin i zmodyfikowana by być autonomiczną.
+Dialogue: 3,1:17:57.16,1:18:00.50,Default,,0,0,0,,Te rzeczy które ją przebijają to nasze cele?
+Dialogue: 3,1:18:00.50,1:18:01.78,Default,,0,0,0,,Tak.
+Dialogue: 3,1:18:01.78,1:18:04.05,Default,,0,0,0,,Longinus i Cassius
+Dialogue: 3,1:18:04.05,1:18:08.77,Default,,0,0,0,,Dwie dusze są potrzebne by zabrać obie włócznie.
+Dialogue: 3,1:18:08.77,1:18:11.52,Default,,0,0,0,,To dlatego mamy tu miejsce na dwie osoby.
+Dialogue: 3,1:18:11.52,1:18:16.23,Default,,0,0,0,,W takim razie {\i1}tamten{\i0\fscx130} {\r}pilot\Nnie mógłby mnie zastąpić?
+Dialogue: 3,1:18:16.23,1:18:19.35,Default,,0,0,0,,Nie. Imitacja Lilin nie może być użyta.
+Dialogue: 3,1:18:19.35,1:18:21.84,Default,,0,0,0,,Umiejscowienie ich dusz jest inne.
+Dialogue: 3,1:18:22.33,1:18:24.35,Default,,0,0,0,,Cóż, zaczynajmy.
+Dialogue: 3,1:18:31.81,1:18:33.59,Default,,0,0,0,,Zaczekaj.
+Dialogue: 3,1:18:33.59,1:18:35.24,Default,,0,0,0,,Coś jest nie tak.
+Dialogue: 3,1:18:35.24,1:18:36.87,Default,,0,0,0,,Co się stało, Kaworu-kun?
+Dialogue: 3,1:18:39.27,1:18:41.14,Default,,0,0,0,,To dziwne.
+Dialogue: 3,1:18:41.14,1:18:44.53,Default,,0,0,0,,Obie włócznie zmieniły formę w ten sam kształt.
+Dialogue: 3,1:18:44.53,1:18:46.06,Default,,0,0,0,,Po prostu szybko je wyciągnijmy.
+Dialogue: 3,1:18:46.62,1:18:48.26,Default,,0,0,0,,To powód dla którego pilotuję EVĘ.
+Dialogue: 3,1:18:52.67,1:18:53.89,Default,,0,0,0,,Co się dzieje?!
+Dialogue: 3,1:19:03.73,1:19:04.35,Default,,0,0,0,,Jednostka 02?!
+Dialogue: 3,1:19:05.28,1:19:06.35,Default,,0,0,0,,Asuka!
+Dialogue: 3,1:19:08.45,1:19:10.56,Default,,0,0,0,,Co robisz, Asuka?!
+Dialogue: 3,1:19:13.19,1:19:14.39,Default,,0,0,0,,Głupi Shinji?
+Dialogue: 3,1:19:14.39,1:19:17.31,Default,,0,0,0,,Ty naprawdę pilotujesz EVĘ?!
+Dialogue: 3,1:19:17.31,1:19:18.39,Default,,0,0,0,,Tak.
+Dialogue: 3,1:19:18.39,1:19:21.01,Default,,0,0,0,,Pilotuję EVĘ by zmienić świat!
+Dialogue: 3,1:19:22.17,1:19:23.70,Default,,0,0,0,,Cholerny bachor...
+Dialogue: 3,1:19:23.70,1:19:25.73,Default,,0,0,0,,Jeśli tak, nie pilotuj!
+Dialogue: 3,1:19:33.17,1:19:35.10,Default,,0,0,0,,Zawsze spóźniasz się z wsparciem ogniowym!
+Dialogue: 3,1:19:35.10,1:19:36.61,Default,,0,0,0,,Przepraszam!
+Dialogue: 3,1:19:37.32,1:19:43.35,Default,,0,0,0,,Pojemniku Adama,\Nprzynajmniej zatrzymaj się na swoim torze.
+Dialogue: 3,1:20:02.47,1:20:04.68,Default,,0,0,0,,Dlaczego wchodzisz mi w drogę, Asuka?
+Dialogue: 3,1:20:04.68,1:20:08.06,Default,,0,0,0,,To są nasze Włócznie Nadziei!
+Dialogue: 3,1:20:09.45,1:20:12.77,Default,,0,0,0,,A {\i1}ty{\i0\fscx130} {\r}powinieneś przestać szukać kłopotów!
+Dialogue: 3,1:20:12.77,1:20:15.76,Default,,0,0,0,,Bachorowaty Shinji, próbujesz znów spowodować Trzecie Uderzenie?
+Dialogue: 3,1:20:16.14,1:20:17.21,Default,,0,0,0,,Nie!
+Dialogue: 3,1:20:17.21,1:20:20.09,Default,,0,0,0,,Możemy użyć włóczni by wszystko naprawić!
+Dialogue: 3,1:20:20.79,1:20:22.77,Default,,0,0,0,,Możemy ocalić świat!
+Dialogue: 3,1:20:25.20,1:20:26.56,Default,,0,0,0,,Naprawdę {\i1}jesteś{\i0\fscx130} {\r}bachorem.
+Dialogue: 3,1:20:27.61,1:20:29.20,Default,,0,0,0,,Nie masz o niczym pojęcia!
+Dialogue: 3,1:20:39.23,1:20:40.89,Default,,0,0,0,,Pomóż mi, Kaworu-kun!
+Dialogue: 3,1:20:42.85,1:20:46.97,Default,,0,0,0,,Cassius i Longinus. Potrzebujemy obydwu włóczni.
+Dialogue: 3,1:20:47.87,1:20:51.47,Default,,0,0,0,,Ale te dwie włócznie są identyczne.
+Dialogue: 3,1:20:51.47,1:20:52.59,Default,,0,0,0,,Kaworu-kun!
+Dialogue: 3,1:20:52.90,1:20:53.81,Default,,0,0,0,,Rozumiem!
+Dialogue: 3,1:20:54.54,1:20:58.23,Default,,0,0,0,,Teraz rozumiem, Lilin!
+Dialogue: 3,1:21:03.44,1:21:07.73,Default,,0,0,0,,Słyszysz mnie, tymczasowy pilocie SEELE?
+Dialogue: 3,1:21:08.49,1:21:12.80,Default,,0,0,0,,Powinnaś stąd uciekać zanim\Nzmienisz się w Naczynie Adama.
+Dialogue: 3,1:21:12.80,1:21:14.85,Default,,0,0,0,,Nie. Nie mam takich rozkazów.
+Dialogue: 3,1:21:15.69,1:21:17.85,Default,,0,0,0,,Możesz być jeszcze przesadniej poprawna?
+Dialogue: 3,1:21:17.85,1:21:20.89,Default,,0,0,0,,Wiesz, twój oryginał był jednak przyjaźniejszy.
+Dialogue: 3,1:21:21.45,1:21:22.51,Default,,0,0,0,,Oryginał?
+Dialogue: 3,1:21:23.29,1:21:24.35,Default,,0,0,0,,Inna ja?
+Dialogue: 3,1:21:39.04,1:21:41.34,Default,,0,0,0,,Kaworu-kun, co z tobą?!
+Dialogue: 3,1:21:52.48,1:21:53.93,Default,,0,0,0,,Asuka!
+Dialogue: 3,1:21:53.93,1:21:56.97,Default,,0,0,0,,Błagam cię, zejdź mi z drogi!
+Dialogue: 3,1:21:56.97,1:22:01.75,Default,,0,0,0,,Zamknij sie i giń, bachorowaty Shinji!
+Dialogue: 3,1:22:05.27,1:22:06.64,Default,,0,0,0,,Chyba sobie żarty stroisz!
+Dialogue: 3,1:22:06.64,1:22:08.85,Default,,0,0,0,,Czterooka! Podrzuć mi zapas!
+Dialogue: 3,1:22:16.09,1:22:17.69,Default,,0,0,0,,Teraz mamy szansę, więc łap za włócznie!
+Dialogue: 3,1:22:19.52,1:22:22.04,Default,,0,0,0,,Nie wierzę, że właście uderzyłeś dziewczynę.
+Dialogue: 3,1:22:22.04,1:22:23.48,Default,,0,0,0,,Gnojek.
+Dialogue: 3,1:22:23.48,1:22:25.19,Default,,0,0,0,,Zapas nadchodzi!
+Dialogue: 3,1:22:36.46,1:22:37.98,Default,,0,0,0,,Zatrzymaj się, Shinji-kun.
+Dialogue: 3,1:22:38.85,1:22:41.08,Default,,0,0,0,,Mam co do tego naprawdę złe przeczucia.
+Dialogue: 3,1:22:41.08,1:22:42.87,Default,,0,0,0,,Nie możemy się teraz zatrzymać, Kaworu-kun!
+Dialogue: 3,1:22:42.87,1:22:45.23,Default,,0,0,0,,Pamiętasz dlaczego przeszliśmy tą całą drogę?
+Dialogue: 3,1:22:45.23,1:22:46.80,Default,,0,0,0,,Nie rób tego!
+Dialogue: 3,1:22:46.80,1:22:48.53,Default,,0,0,0,,To nie są te włócznie po które przyszliśmy!
+Dialogue: 3,1:22:49.37,1:22:52.35,Default,,0,0,0,,Jak to "nie są te włócznie"?
+Dialogue: 3,1:22:55.82,1:22:58.64,Default,,0,0,0,,Sam mówiłeś, że potrzebujemy włóczni!
+Dialogue: 3,1:22:59.42,1:23:02.10,Default,,0,0,0,,Inaczej nie pilotowałbym tej Evy!
+Dialogue: 3,1:23:05.69,1:23:07.09,Default,,0,0,0,,System kontroli...
+Dialogue: 3,1:23:10.94,1:23:15.98,Default,,0,0,0,,Zabiorę tę włócznie dla Kaworu-kun,/Ndla wszystkich; z uwagi na nich!
+Dialogue: 3,1:23:15.98,1:23:17.89,Default,,0,0,0,,Tym sposobem, przywrócę świat.
+Dialogue: 3,1:23:19.75,1:23:23.11,Default,,0,0,0,,Wtedy nawet Misato-san będzie...
+Dialogue: 3,1:23:23.11,1:23:23.98,Default,,0,0,0,,Cholera!
+Dialogue: 3,1:23:24.58,1:23:27.09,Default,,0,0,0,,Czterooka, pozbyłam się przeszkód.
+Dialogue: 3,1:23:27.09,1:23:28.88,Default,,0,0,0,,Otrzymujesz pozwolenie na użycie pocisków A.A.!
+Dialogue: 3,1:23:28.88,1:23:29.89,Default,,0,0,0,,Na to czekałam!
+Dialogue: 3,1:23:30.81,1:23:32.22,Default,,0,0,0,,Popatrz na te maleństwa!
+Dialogue: 3,1:23:38.16,1:23:39.44,Default,,0,0,0,,Nie ma pola AT?
+Dialogue: 3,1:23:40.48,1:23:43.25,Default,,0,0,0,,Nie mówcie mi, że ta jednostka...
+Dialogue: 3,1:23:55.39,1:23:56.85,Default,,0,0,0,,Nie rób tego, Shinji-kun!
+Dialogue: 3,1:23:56.85,1:23:58.66,Default,,0,0,0,,Przestań, głupi bachorze!
+Dialogue: 3,1:24:21.59,1:24:23.81,Default,,0,0,0,,Zaczynajmy, Fuyutsuki.
+Dialogue: 3,1:24:30.89,1:24:32.68,Default,,0,0,0,,EVA Mk. 06?
+Dialogue: 3,1:24:33.13,1:24:36.02,Default,,0,0,0,,Typ krwi: niebieski? Co się dzieje?
+Dialogue: 3,1:24:39.41,1:24:39.97,Default,,0,0,0,,Jest źle!
+Dialogue: 3,1:24:40.49,1:24:42.30,Default,,0,0,0,,Dwunasty Anioł nadal żyje!
+Dialogue: 3,1:24:43.61,1:24:45.64,Default,,0,0,0,,Okularnico, Kontener Nr.3!
+Dialogue: 3,1:24:45.64,1:24:47.19,Default,,0,0,0,,Zrozumiano!
+Dialogue: 3,1:24:48.61,1:24:52.80,Default,,0,0,0,,Zajmijmy się tym przed wznowieniem Trzeciego Uderzenia!
+Dialogue: 3,1:24:57.55,1:24:58.56,Default,,0,0,0,,Miałam taki rozkaz.
+Dialogue: 3,1:25:08.24,1:25:09.18,Default,,0,0,0,,Anioł?!
+Dialogue: 3,1:25:18.96,1:25:22.65,Default,,0,0,0,,Księżniczko, przestań tracić pociski.
+Dialogue: 3,1:25:22.65,1:25:24.44,Default,,0,0,0,,Cała ta rzecz jest rdzeniem.
+Dialogue: 3,1:25:24.93,1:25:27.88,Default,,0,0,0,,Same nic z tym nie zrobimy.
+Dialogue: 3,1:25:29.24,1:25:36.19,Default,,0,0,0,,Plus, interesuje mnie zobaczenie jak przerażające rzeczy,\Nbędą miały miejce po pokonaniu ostatniego Anioła.
+Dialogue: 3,1:25:40.37,1:25:41.02,Default,,0,0,0,,Czy to...
+Dialogue: 3,1:25:45.50,1:25:47.99,Default,,0,0,0,,Czy to ja?
+Dialogue: 3,1:25:49.81,1:25:51.93,Default,,0,0,0,,Czym jestem?
+Dialogue: 3,1:25:54.53,1:25:55.86,Default,,0,0,0,,Kontrole nie działają!
+Dialogue: 3,1:25:55.86,1:25:57.81,Default,,0,0,0,,Co się dzieje, Kaworu-kun?
+Dialogue: 3,1:26:00.41,1:26:01.27,Default,,0,0,0,,Kaworu-kun!
+Dialogue: 3,1:26:02.24,1:26:07.73,Default,,0,0,0,,Nigdy nie myślałem że ja, Pierwszy Anioł,\Nupadnę by zostać Trzynastym Aniołem...
+Dialogue: 3,1:26:07.73,1:26:09.94,Default,,0,0,0,,O czym ty mówisz, Kaworu-kun?!
+Dialogue: 3,1:26:13.04,1:26:16.21,Default,,0,0,0,,Zatem oznacza to, że początek\Ni koniec są jednym i tym samym.
+Dialogue: 3,1:26:16.21,1:26:20.64,Default,,0,0,0,,Tego oczekiwałem po Królu Lilin/N-twoim ojcu!
+Dialogue: 3,1:26:21.19,1:26:24.15,Default,,0,0,0,,Niebieski typ krwi z DSS Chokera?
+Dialogue: 3,1:26:24.15,1:26:26.09,Default,,0,0,0,,Anolmalny Trzynasy?
+Dialogue: 3,1:26:27.04,1:26:29.06,Default,,0,0,0,,Więc to był cel Gendou-kun.
+Dialogue: 3,1:26:32.24,1:26:35.85,Default,,0,0,0,,Czas na zmianę Zwojów znad Morza Martwego już nadszedł.
+Dialogue: 3,1:26:36.58,1:26:38.05,Default,,0,0,0,,To jest pożegnanie.
+Dialogue: 3,1:26:41.73,1:26:47.97,Default,,0,0,0,,Pomimo, że zmieniliście kształt swoich dusz,\Nwciąż jesteście stworzeniami które skosztowały Owocu Wiedzy.
+Dialogue: 3,1:26:49.90,1:26:52.97,Default,,0,0,0,,Pomimo, że mogliście żyć wiecznie, 
+Dialogue: 3,1:26:52.97,1:26:56.89,Default,,0,0,0,,nie możecie uciec przeznaczeniu śmierci, tak jak my.
+Dialogue: 3,1:26:58.39,1:27:02.46,Default,,0,0,0,,W celu postępu ewolucji rasy obarczonej śmiercią,
+Dialogue: 3,1:27:02.46,1:27:06.05,Default,,0,0,0,,wręczyliście nam dar cywilizacji.
+Dialogue: 3,1:27:07.77,1:27:10.89,Default,,0,0,0,,Ludzka maniera nakazuje mi powiedzieć: Dziękuje.
+Dialogue: 3,1:27:12.39,1:27:17.64,Default,,0,0,0,,Niech śmierć zwróci wasze dusze, tam gdzie należą.
+Dialogue: 3,1:27:20.03,1:27:23.31,Default,,0,0,0,,Zrealizuje wieloletnie pragnienie, Projekt Dopełnienia Ludzkości,
+Dialogue: 3,1:27:23.31,1:27:27.18,Default,,0,0,0,,jak i Zabójstwo Boga którego wszyscy porzuciliście.
+Dialogue: 3,1:27:28.11,1:27:29.50,Default,,0,0,0,,Wszystko zapewnione.
+Dialogue: 3,1:27:30.04,1:27:33.52,Default,,0,0,0,,Nasze pragnienia przyniosły owoce.
+Dialogue: 3,1:27:33.52,1:27:36.84,Default,,0,0,0,,Dobrze. Wszystko się dokonało.
+Dialogue: 3,1:27:36.84,1:27:43.30,Default,,0,0,0,,Pragniemy uzupełnienia perfekcji ludzkości\Ni pokojowego oczyszczenia dusz.
+Dialogue: 3,1:28:14.24,1:28:17.60,Default,,0,0,0,,Wkracza w swoją pseudo-wyewoluowaną formę!
+Dialogue: 3,1:28:17.60,1:28:19.63,Default,,0,0,0,,Wygląda na to, że jeden z ocalałych Adamów...
+Dialogue: 3,1:28:20.85,1:28:22.57,Default,,0,0,0,,...Obudził się!
+Dialogue: 3,1:28:58.21,1:28:59.81,Default,,0,0,0,,Co się dzieje?
+Dialogue: 3,1:29:12.60,1:29:14.59,Default,,0,0,0,,Co się tutaj dzieje?
+Dialogue: 3,1:29:19.62,1:29:21.45,Default,,0,0,0,,To moja wina?
+Dialogue: 3,1:29:22.79,1:29:24.44,Default,,0,0,0,,To dlatego, że wyciągnąłem włócznie?
+Dialogue: 3,1:29:30.91,1:29:32.41,Default,,0,0,0,,Co to jest?
+Dialogue: 3,1:29:33.09,1:29:35.02,Default,,0,0,0,,To Czwarte Uderzenie.
+Dialogue: 3,1:29:37.23,1:29:39.70,Default,,0,0,0,,To rozpoczynający rytuał.
+Dialogue: 3,1:29:53.42,1:29:54.71,Default,,0,0,0,,Kaworu-kun...
+Dialogue: 3,1:29:55.25,1:29:55.85,Default,,0,0,0,,Choker!
+Dialogue: 3,1:30:03.82,1:30:05.12,Default,,0,0,0,,Misato-san?!
+Dialogue: 3,1:30:07.83,1:30:09.39,Default,,0,0,0,,Maksymalne pole AT!
+Dialogue: 3,1:30:09.39,1:30:10.89,Default,,0,0,0,,Zapieczętować w nim Eve!
+Dialogue: 3,1:30:10.89,1:30:13.89,Default,,0,0,0,,Załadować główne działa anmunicją\Nz odskokiem dla równomiernego ostrzału!
+Dialogue: 3,1:30:13.89,1:30:16.48,Default,,0,0,0,,Zrobimy wszystko żeby zatrzymać Czwarte Uerzenie!
+Dialogue: 3,1:30:16.48,1:30:17.89,Default,,0,0,0,,Ognia!
+Dialogue: 3,1:30:25.46,1:30:26.67,Default,,0,0,0,,Trafienie! 
+Dialogue: 3,1:30:26.67,1:30:28.00,Default,,0,0,0,,Bezpośrednie uszkodzenie głównych armat!
+Dialogue: 3,1:30:28.00,1:30:28.97,Default,,0,0,0,,Pojemniki Adama?!
+Dialogue: 3,1:30:34.35,1:30:36.31,Default,,0,0,0,,Centralne trafienie kadłuba! Zakres uszkodzenia nieznany!
+Dialogue: 3,1:30:36.31,1:30:38.79,Default,,0,0,0,,Moc wyjściowa spada. Problemy z kontrolą grawitacji!
+Dialogue: 3,1:30:38.79,1:30:41.16,Default,,0,0,0,,Ster nie reaguje! Tracimy wysokość!
+Dialogue: 3,1:30:51.79,1:30:53.55,Default,,0,0,0,,Kolejne trafienie kadłuba!
+Dialogue: 3,1:30:51.79,1:30:53.55,Alternate,,0,0,0,,Poważne uszkodzenia trzeciego pokładu!
+Dialogue: 3,1:30:54.45,1:30:57.02,Default,,0,0,0,,Pojemniki Adama są prawdziwymi panami Wundera.
+Dialogue: 3,1:30:57.02,1:31:00.49,Default,,0,0,0,,Chcą przejąć kontrole nad statkiem przez Jednostkę 01!
+Dialogue: 3,1:31:06.09,1:31:08.55,Default,,0,0,0,,Dlaczego połączenie nie jest przywrócone?
+Dialogue: 3,1:31:13.99,1:31:15.81,Default,,0,0,0,,Oh, jejku!
+Dialogue: 3,1:31:15.81,1:31:18.48,Default,,0,0,0,,Nieźle się wpakowali.
+Dialogue: 3,1:31:18.48,1:31:20.73,Default,,0,0,0,,Okularnica, zajmij się Evą bahora!
+Dialogue: 3,1:31:20.73,1:31:22.48,Default,,0,0,0,,Pomogę Wunderowi z 02-Dash!
+Dialogue: 3,1:31:22.48,1:31:23.02,Default,,0,0,0,,Odbiór!
+Dialogue: 3,1:31:23.02,1:31:25.45,Default,,0,0,0,,Nie możemy pozbyć się Pojemników Adama!
+Dialogue: 3,1:31:25.45,1:31:28.26,Default,,0,0,0,,Nieznane dane infiltrują główny system kontroli!
+Dialogue: 3,1:31:28.26,1:31:30.32,Default,,0,0,0,,Przejmuje kontrolę nad statkiem!
+Dialogue: 3,1:31:52.38,1:31:53.35,Default,,0,0,0,,To nie fair! 
+Dialogue: 3,1:31:53.35,1:31:54.76,Default,,0,0,0,,Śmiecie z SEELE.
+Dialogue: 3,1:32:01.68,1:32:03.35,Default,,0,0,0,,Zmiana trybu!
+Dialogue: 3,1:32:03.35,1:32:04.85,Default,,0,0,0,,Kod Potrójne Siedem!
+Dialogue: 3,1:32:13.28,1:32:13.88,Default,,0,0,0,,Kto?
+Dialogue: 3,1:32:13.88,1:32:15.26,Default,,0,0,0,,Kim {\i1}ty{\i0\fscx30} {\r}jesteś?!
+Dialogue: 3,1:32:32.23,1:32:33.86,Default,,0,0,0,,Raport z stacji obserwacyjnej!
+Dialogue: 3,1:32:33.86,1:32:35.81,Default,,0,0,0,,Jednostka 02-Dash atakuje Pojemniki Adama!
+Dialogue: 3,1:32:35.81,1:32:37.43,Default,,0,0,0,,Liczymy na ciebie, Asuka.
+Dialogue: 3,1:32:55.60,1:32:59.35,Default,,0,0,0,,Co zrobiłaby Ayanami Rei w tej sytuacji?
+Dialogue: 3,1:32:59.35,1:33:00.70,Default,,0,0,0,,Nie wiem!
+Dialogue: 3,1:33:00.70,1:33:02.55,Default,,0,0,0,,A co {\i1}ty{\i0\fscx130} {\r}chcesz zrobić?!
+Dialogue: 3,1:33:06.49,1:33:08.35,Default,,0,0,0,,Mam rdzeń!
+Dialogue: 3,1:33:17.33,1:33:19.63,Default,,0,0,0,,Cała ta rzecz jest rdzeniem?!
+Dialogue: 3,1:33:20.19,1:33:21.48,Default,,0,0,0,,Nie mam czasu.
+Dialogue: 3,1:33:22.76,1:33:24.06,Default,,0,0,0,,Przepraszam Jednostko 02!
+Dialogue: 3,1:33:39.81,1:33:41.69,Default,,0,0,0,,System kontroli przywrócony!
+Dialogue: 3,1:33:41.69,1:33:43.13,Default,,0,0,0,,Cała naprzód!
+Dialogue: 3,1:33:43.13,1:33:44.87,Default,,0,0,0,,Ścigać Eve z pełną prędkością!
+Dialogue: 3,1:33:44.87,1:33:47.35,Default,,0,0,0,,Kapitanie, musimy poczekać do wznowienia głównego silnika.
+Dialogue: 3,1:33:48.32,1:33:49.31,Default,,0,0,0,,Shinji-kun...
+Dialogue: 3,1:34:10.40,1:34:12.06,Default,,0,0,0,,Czy to moja wina?
+Dialogue: 3,1:34:14.83,1:34:16.06,Default,,0,0,0,,Ja...
+Dialogue: 3,1:34:17.58,1:34:18.91,Default,,0,0,0,,Ja...
+Dialogue: 3,1:34:20.17,1:34:21.98,Default,,0,0,0,,To nie twoja wina.
+Dialogue: 3,1:34:23.73,1:34:27.59,Default,,0,0,0,,To dlatego, że zostałem Trzynastym Aniołem.
+Dialogue: 3,1:34:27.59,1:34:29.10,Default,,0,0,0,,Byłem zapalnikiem.
+Dialogue: 3,1:34:29.89,1:34:31.61,Default,,0,0,0,,Co powinienem zrobić?
+Dialogue: 3,1:34:32.58,1:34:35.10,Default,,0,0,0,,Powiedz mi, co powinienem zrobić?
+Dialogue: 3,1:34:40.05,1:34:45.51,Default,,0,0,0,,Kaworu-kun, co robić?
+Dialogue: 3,1:34:46.10,1:34:51.78,Default,,0,0,0,,Nawet jeżeli twoja dusza zniknie,\Nżyczenia i klątwy pozostaną na tym świecie.
+Dialogue: 3,1:34:51.78,1:34:55.89,Default,,0,0,0,,Twoja wola przemierza świat jako\Ninformacja i stopniowo się zmienia.
+Dialogue: 3,1:34:56.51,1:34:59.73,Default,,0,0,0,,Ostatecznie, nawet twoja własna jaźń ulega zmianie.
+Dialogue: 3,1:35:02.48,1:35:03.68,Default,,0,0,0,,Przepraszam.
+Dialogue: 3,1:35:03.68,1:35:06.59,Default,,0,0,0,,To nie szczęście którego pragnąłeś.
+Dialogue: 3,1:35:08.11,1:35:10.64,Default,,0,0,0,,Zamknę Wrota Guf.
+Dialogue: 3,1:35:10.64,1:35:13.06,Default,,0,0,0,,Nie musisz się martwić.
+Dialogue: 3,1:35:13.97,1:35:15.40,Default,,0,0,0,,Kaworu-kun...
+Dialogue: 3,1:35:16.94,1:35:20.56,Default,,0,0,0,,Ani trochę nie rozumiem o czym ty mówisz!
+Dialogue: 3,1:35:26.98,1:35:30.99,Default,,0,0,0,,Musisz tylko odnaleźć pokój\Ni swoje własne miejsce.
+Dialogue: 3,1:35:39.12,1:35:41.42,Default,,0,0,0,,Przeznaczenie cię poprowadzi.
+Dialogue: 3,1:35:46.24,1:35:48.46,Default,,0,0,0,,Nie patrz tak na mnie.
+Dialogue: 3,1:35:49.13,1:35:51.35,Default,,0,0,0,,Spotkamy się jeszcze, Shinji-kun.
+Dialogue: 3,1:35:52.95,1:35:54.69,Default,,0,0,0,,Kaworu-kun!
+Dialogue: 3,1:36:12.36,1:36:14.18,Default,,0,0,0,,Wrota Guf nadal nie są zamkniete!
+Dialogue: 3,1:36:14.71,1:36:16.89,Default,,0,0,0,,Więc Szczeniaczek był wspariem SEELE!
+Dialogue: 3,1:36:33.23,1:36:35.05,Default,,0,0,0,,Wszystko ustawione!
+Dialogue: 3,1:36:35.05,1:36:36.64,Default,,0,0,0,,Weź się w garść Szczeniaku!
+Dialogue: 3,1:36:38.87,1:36:39.85,Default,,0,0,0,,Nie bądź takim dzieckiem!
+Dialogue: 3,1:36:39.85,1:36:41.52,Default,,0,0,0,,Pomóż chociaż Księżniczce!
+Dialogue: 3,1:36:41.52,1:36:42.76,Default,,0,0,0,,Jesteś facetem, nie?!
+Dialogue: 3,1:36:44.49,1:36:47.73,Default,,0,0,0,,Jeśli już w to wchodzisz, naucz się jak działa świat!
+Dialogue: 3,1:37:41.60,1:37:43.83,Default,,0,0,0,,Spójrz na ten bałagan.
+Dialogue: 3,1:37:43.83,1:37:46.18,Default,,0,0,0,,Prawie wszystko postępuje zgodnie z planem SEELE.
+Dialogue: 3,1:37:46.86,1:37:53.58,Default,,0,0,0,,Jednak pozbyliśmy się dziecka SEELE i\Ndoprowadziliśmy do Obudzenia Jednostki 13.
+Dialogue: 3,1:37:54.35,1:37:56.97,Default,,0,0,0,, Działania półkownik Katsuragi\Ntakże postępują z przypuszczeniami.
+Dialogue: 3,1:37:57.72,1:37:59.53,Default,,0,0,0,,Na razie to wystarczy.
+Dialogue: 3,1:38:00.80,1:38:03.47,Default,,0,0,0,,Wszystkie okręty, wejść w Drugi Stan Gotowości.
+Dialogue: 3,1:38:03.47,1:38:05.25,Default,,0,0,0,,Brak śladu niebieskiej grupy krwi.
+Dialogue: 3,1:38:05.25,1:38:07.35,Default,,0,0,0,,Nie wykryto jednostek w obserwowalnej przestrzeni powietrznej.
+Dialogue: 3,1:38:07.35,1:38:09.85,Default,,0,0,0,,Naprawy awaryjne kadłuba zakończone.
+Dialogue: 3,1:38:10.43,1:38:14.85,Default,,0,0,0,,Nie wiem kto to zrobił, ale\NCzwarte Uderzenie zostało zatrzymane.
+Dialogue: 3,1:38:15.57,1:38:18.85,Default,,0,0,0,,Misato, to powinno na razie wystarczyć.
+Dialogue: 3,1:39:10.22,1:39:11.19,Default,,0,0,0,,Bachorowaty Shinji.
+Dialogue: 3,1:39:12.49,1:39:14.95,Default,,0,0,0,,Nie przyszedłeś mi pomóc.
+Dialogue: 3,1:39:18.87,1:39:20.96,Default,,0,0,0,,Myślałeś tylko o sobie, jak zawsze.
+Dialogue: 3,1:39:20.96,1:39:22.85,Default,,0,0,0,,Myślisz, że cię to ominie\Njeśli będziesz siedział cicho.
+Dialogue: 3,1:39:49.01,1:39:50.12,Default,,0,0,0,,Nadal jesteś dzieckiem.
+Dialogue: 3,1:39:52.05,1:39:53.73,Default,,0,0,0,,Nawet gdy mineło tyle czasu, 
+Dialogue: 3,1:39:53.73,1:39:55.56,Default,,0,0,0,,nadal jesteś kłopotliwym bachorem.
+Dialogue: 3,1:39:56.28,1:39:58.27,Default,,0,0,0,,No już, załóż to.
+Dialogue: 3,1:39:58.27,1:39:59.77,Default,,0,0,0,,Rany!
+Dialogue: 3,1:39:59.77,1:40:03.06,Default,,0,0,0,,Nie możesz nawet sam {\i1}stanąć{\i0\fscx130} {\r}?!
+Dialogue: 3,1:40:07.16,1:40:08.77,Default,,0,0,0,,Więc to ty byłaś pilotem.
+Dialogue: 3,1:40:10.05,1:40:11.98,Default,,0,0,0,,Musisz być jednym z wczesnych modelów typu Ayanami.
+Dialogue: 3,1:40:19.48,1:40:22.10,Default,,0,0,0,,Gęstość bariery L jest tu za wysoka.
+Dialogue: 3,1:40:22.10,1:40:23.93,Default,,0,0,0,,Nie mogą po nas przyjść.
+Dialogue: 3,1:40:24.49,1:40:27.33,Default,,0,0,0,,Chodźmy gdzieś, gdzie Lilin może nas zabrać.
+Dialogue: 3,1:40:31.20,1:40:31.81,Default,,0,0,0,,No chodź!
+Dialogue: 0,1:41:00.39,1:41:02.89,Sign-Preview,,0,0,0,,{\fs96\an4\fscx95\fsp-0.5\fscy120\blur0.5\pos(128,692)}To Be Continued
+Dialogue: 0,1:41:02.89,1:41:14.52,Crap-Credits,,0,0,0,,{\move(1380,812,1380,-490)\an8\fs48\blur0.5}NERV Staff:\N\N{\fs24}Master:\N{\fs32}defm03{\fs24}\N\N\NTłumacze:\N{\fs32}defm03\Nalfabeto\NYatsuekku\NATT-P12{\fs24}\N\Nemail:\N{\fs32}yutsuro@gmail.com
+Dialogue: 0,1:41:14.70,1:41:26.70,Crap-Credits,,0,0,0,,{\move(1380,812,1380,-490)\an8\fs48\blur0.5}UTW-THORA Staff:\N\N{\fs24}Translators:\N{\fs32}Raze\Nvalerauko{\fs24}\N\N\NTLC/Editor/QC:\N{\fs32}Raze{\fs24}\N\N\NTimer:\N{\fs32}Sindalf{\fs24}\N\N\NTypesetter:\N{\fs32}ar
+Dialogue: 0,1:41:02.89,1:44:59.93,Block,,0,0,0,,{\an7\p1}m 0 0 l 1920 0 1920 120 0 120{\p0}
+Dialogue: 0,1:41:02.89,1:44:57.80,Block,,0,0,0,,{\an7\p1}m 0 816 l 1920 816 1920 600 0 600{\p0}
+Dialogue: 0,1:45:42.64,1:45:47.56,Sign-Preview,,0,0,0,,{\c&H000001&\fscx110\fscy112\fsp14\fs60\blur0.5\pos(967,88)}NEXT
+Dialogue: 0,1:45:42.64,1:45:47.56,Sign-Preview,,0,0,0,,{\c&H010001&\fscx74\fs140\fscy125\blur0.5\pos(969.618,584.762)}New Evangelion Theatrical Versio{\fsp40}n{\p1\fscy65\fscx80}m -12 73 b -7 73 -3 68 -3 64 -3 59 -7 55 -12 55 -16 55 -20 59 -20 64 -20 68 -16 73 -12 73 m -12 116 b -7 116 -3 112 -3 107 -3 102 -7 99 -12 99 -16 99 -20 102 -20 107 -20 112 -16 116 -12 116 m 9 0 l 14 0 14 171 9 171 m 36 0 l 57 0 57 171 36 171{\p0}
+
